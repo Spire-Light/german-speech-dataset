@@ -1,0 +1,377 @@
+German Monologue 02
+Language: German
+Duration: 00:30:12.5
+Speakers: 1
+Machine transcription (automatic speech recognition), not human-reviewed. Segment-level timestamps, word timings in the .json.
+
+[00:00:03.4 - 00:00:06.7] Speaker 1: Ich liege jetzt hier, gefühlt mitten in der Nacht.
+[00:00:09.0 - 00:00:10.4] Speaker 1: Äh, nein, es ist morgens um 6, aber
+[00:00:11.3 - 00:00:12.0] Speaker 1: Das ist verrückt.
+[00:00:14.5 - 00:00:19.8] Speaker 1: Und philosophiere erstmal darüber, bevor ich dann gleich arbeiten gehe, was mich eigentlich glücklich macht, was ich eigentlich
+[00:00:20.3 - 00:00:21.9] Speaker 1: Werden möchte, machen möchte.
+[00:00:23.5 - 00:00:28.4] Speaker 1: Weil wir gestern drüber gesprochen haben, was mich denn eigentlich glücklich machen könnte, ich weiß es nicht ganz genau.
+[00:00:31.0 - 00:00:33.8] Speaker 1: Was macht mich glücklich? Was ist denn überhaupt Glück?
+[00:00:35.5 - 00:00:37.0] Speaker 1: Und gibt es überhaupt eine universelle
+[00:00:37.6 - 00:00:38.8] Speaker 1: Formel für Glück, oder
+[00:00:40.4 - 00:00:41.8] Speaker 1: Was ist das eigentlich? Was,
+[00:00:44.0 - 00:00:44.0] Speaker 1: Was
+[00:00:44.6 - 00:00:44.7] Speaker 1: Ist
+[00:00:45.6 - 00:00:46.0] Speaker 1: Glück?
+[00:00:49.6 - 00:00:56.3] Speaker 1: Ich habe ja schon mal dieses Buch gelesen, "Hectors Reise nach dem Glück", und das war ja schon irgendwie ganz süß und ganz spannend.
+[00:00:59.0 - 00:00:59.1] Speaker 1: Aber
+[00:00:59.8 - 00:01:02.2] Speaker 1: Was ist denn jetzt Glück? Ich weiß es einfach nicht.
+[00:01:05.6 - 00:01:05.9] Speaker 1: An sich
+[00:01:06.7 - 00:01:10.7] Speaker 1: Ist Glück... keine Ahnung.
+[00:01:13.3 - 00:01:18.9] Speaker 1: Ich habe mal geschaut, das Glück kommt vom Mittelhochdeutschen "gelücke", was mit Gelingen verbunden ist.
+[00:01:19.9 - 00:01:20.3] Speaker 1: Das heißt,
+[00:01:21.1 - 00:01:32.8] Speaker 1: Glück ist einfach nur ein Gelingen, aber manchmal könnte es auch einfach nur ein Schicksal sein und eine Abfolge von, von Sachen, die sich ereignen, von, ja, vielleicht eine logische Konsequenz sogar.
+[00:01:36.4 - 00:01:42.9] Speaker 1: Ist es Zufriedenheit? Ist es einfach nur... ach, keine Ahnung, was es eigentlich ist.
+[00:01:45.7 - 00:01:46.6] Speaker 1: Glücksgefühle
+[00:01:49.9 - 00:01:51.8] Speaker 1: Sind auf jeden Fall immer verbunden mit Freude,
+[00:01:52.6 - 00:01:57.2] Speaker 1: Mit Euphorie, mit Zufriedenheit, mit...
+[00:02:00.2 - 00:02:04.2] Speaker 1: Einfach... weiß ich nicht, von... vielleicht von Leichtigke
+[00:02:05.3 - 00:02:09.8] Speaker 1: It, vielleicht verbunden mit...
+[00:02:16.6 - 00:02:18.5] Speaker 1: Auf jeden Fall ist Glück, glaube ich, kein Zufall.
+[00:02:21.2 - 00:02:23.8] Speaker 1: Es kann auch sein, dass jemand irgendwie nie glücklich ist, so wie ich.
+[00:02:24.8 - 00:02:26.6] Speaker 1: Und was macht eigentlich glücklich?
+[00:02:30.7 - 00:02:36.7] Speaker 1: Ich habe das Gefühl, irgendwie habe ich den, den Anschluss verpasst. Ich habe das Gefühl, irgendwie... ja.
+[00:02:39.7 - 00:02:40.7] Speaker 1: Was ist eigentlich gut?
+[00:02:45.8 - 00:02:48.1] Speaker 1: Alle streben immer nach dem Glück, das ist richtig.
+[00:02:49.4 - 00:02:51.0] Speaker 1: Aber was ist denn jetzt Glück genau?
+[00:02:51.7 - 00:02:52.8] Speaker 1: Nach... ja.
+[00:02:56.0 - 00:02:56.3] Speaker 1: Ist es
+[00:02:57.3 - 00:03:02.2] Speaker 1: Der Geldschein, den man auf der Straße findet? Ist es ein schönes Eis, was einen glücklich macht?
+[00:03:07.4 - 00:03:09.3] Speaker 1: Ist es denn für jeden was anderes?
+[00:03:14.5 - 00:03:16.4] Speaker 1: Aber es ist auf jeden Fall was, ein Unterschied zwischen
+[00:03:17.5 - 00:03:20.9] Speaker 1: "Ich habe Glück" und "Ich bin glücklich", also Glück haben
+[00:03:21.8 - 00:03:22.7] Speaker 1: Und glücklich sein.
+[00:03:25.5 - 00:03:26.3] Speaker 1: Es ist mehr als
+[00:03:27.1 - 00:03:27.3] Speaker 1: Ein vier
+[00:03:28.2 - 00:03:31.4] Speaker 1: Blättriges Kleeblatt. Es ist mehr als ein Glücksschweinchen.
+[00:03:32.0 - 00:03:36.8] Speaker 1: Es ist... ja, tief Zufall, Lebenszufriedenheit auf jeden Fall.
+[00:03:38.8 - 00:03:39.3] Speaker 1: Es ist...
+[00:03:46.3 - 00:03:49.0] Speaker 1: Es ist eine positive Emotion. Es ist Freud
+[00:03:49.6 - 00:03:52.9] Speaker 1: E. Es ist Wohlbefinden. Es ist Zufriedenheit. Das habe ich ja schon gesagt.
+[00:03:54.1 - 00:04:02.5] Speaker 1: Aber das sind ja alles Einstellungen. Das sind, das sind Werte. Und,ähm, das ist... das hat auch viel mit Achtsamkeit zu tun, damit, dass man...
+[00:04:08.7 - 00:04:08.9] Speaker 1: Dass man
+[00:04:09.5 - 00:04:11.3] Speaker 1: Entscheidungen und Handlungen
+[00:04:12.5 - 00:04:13.7] Speaker 1: Beeinflussen kann, dass man
+[00:04:14.4 - 00:04:15.7] Speaker 1: Selbst sich steuern kann.
+[00:04:27.2 - 00:04:29.0] Speaker 1: Aber bestimmt kann man auch glücklich sein,
+[00:04:29.7 - 00:04:32.6] Speaker 1: Ohne Glück zu haben, ohne dass gerade etwas Tolles passiert ist.
+[00:04:34.2 - 00:04:34.4] Speaker 1: Einfach,
+[00:04:35.5 - 00:04:37.1] Speaker 1: Weil man sich wohlfühlt, weil man
+[00:04:37.9 - 00:04:39.2] Speaker 1: Das Leben genießt, weil man
+[00:04:40.2 - 00:04:43.6] Speaker 1: Sich selbst etwas Gutes tut oder das Gutes gönnt, weil man etwas
+[00:04:44.3 - 00:04:49.2] Speaker 1: Schönes erlebt, ein gutes Essen, eine Massage, einen Partyabend,
+[00:04:50.2 - 00:04:53.7] Speaker 1: Einen schönen Urlaub, irgendwas Kulturelles Schönes,
+[00:04:54.4 - 00:04:54.5] Speaker 1: Eine
+[00:04:56.1 - 00:04:58.5] Speaker 1: Lustvolle und genussvolle
+[00:05:01.3 - 00:05:02.1] Speaker 1: Phase erlebt.
+[00:05:02.9 - 00:05:03.7] Speaker 1: Ähm, einfach,
+[00:05:05.1 - 00:05:07.2] Speaker 1: Dass man Spaß zulässt und überhaupt
+[00:05:07.8 - 00:05:11.2] Speaker 1: Nachempfindet, überhaupt Aufmerksamkeit aufmerksam fand
+[00:05:13.3 - 00:05:13.4] Speaker 1: Et.
+[00:05:21.6 - 00:05:25.9] Speaker 1: Ich habe von dem, von dem Begriff "Eudaimonia" gehört.
+[00:05:26.7 - 00:05:30.5] Speaker 1: Das, das bedeutet so viel wie ein gelingendes Leben führen
+[00:05:31.1 - 00:05:33.4] Speaker 1: Oder seine Potenziale verwirklichen.
+[00:05:34.1 - 00:05:36.6] Speaker 1: Denn das Werteglück, das,ähm,
+[00:05:37.1 - 00:05:37.4] Speaker 1: Ja,
+[00:05:39.6 - 00:05:44.3] Speaker 1: Das bedeutet ja, dass man sein Leben als erfüllend und sinnvoll und zielorientiert und
+[00:05:44.9 - 00:05:58.4] Speaker 1: Tief befriedigend erlebt. Das sind alles so, so, so Werte. Das sind aber auch Grundeinstellungen. Also muss es ja sicherlich auch damit zusammenhängen, ob ich denn glücklich sein will, damit ich glücklich sein kann.
+[00:05:59.0 - 00:05:59.7] Speaker 1: Kann das sein?
+[00:06:02.9 - 00:06:07.6] Speaker 1: Also im Idealfall ist es vermutlich irgendwie alles so ein bisschen. Also
+[00:06:09.0 - 00:06:15.7] Speaker 1: Das heißt, ich habe dieses Wohlfühlglück, ich habe dieses Werteglück, und ich habe mit Sicherheit auch
+[00:06:16.4 - 00:06:17.8] Speaker 1: Eine gute Balance dazwischen.
+[00:06:20.0 - 00:06:20.2] Speaker 1: Aber
+[00:06:20.7 - 00:06:25.5] Speaker 1: Ich glaube, man kann auch einfach alles haben, was man braucht, also Haus, Kind, Auto,
+[00:06:26.5 - 00:06:29.0] Speaker 1: Urlaub, Job, tralala, und trotzdem nicht glücklich sein
+[00:06:30.6 - 00:06:32.6] Speaker 1: Und irgendwie so wenig erfüllend.
+[00:06:39.9 - 00:06:45.7] Speaker 1: Und ich glaube einfach, das Glück ist auch irgendwie eine Mischung, eine Mischung aus allem. Also das Glück, das Leben genießen
+[00:06:47.0 - 00:06:50.8] Speaker 1: Und gleichzeitig im Einklang mit meinen Stärken und Werten zu leben.
+[00:06:51.8 - 00:06:53.7] Speaker 1: Denn, ja,
+[00:06:54.5 - 00:06:56.1] Speaker 1: Wenn wir über Glück sprechen, dann,
+[00:06:56.8 - 00:07:00.2] Speaker 1: Ähm, geht es drum, dass man sich gut fühlt, dass man positive
+[00:07:00.8 - 00:07:01.7] Speaker 1: Gefühle erlebt
+[00:07:02.2 - 00:07:07.6] Speaker 1: Und möglichst wenige negative. Natürlich kommen in jedem Leben bestimmt auch negative Empfindungen, klar,
+[00:07:08.3 - 00:07:13.2] Speaker 1: Vor. Aber es kommt ja drauf an, was mache ich daraus, wie nehme ich sie wahr, wie wichtig nehme ich sie?
+[00:07:14.9 - 00:07:15.4] Speaker 1: Ich kann
+[00:07:19.9 - 00:07:20.5] Speaker 1: Eine Ausbildung
+[00:07:21.2 - 00:07:22.1] Speaker 1: Haben, die mir gef
+[00:07:22.7 - 00:07:22.9] Speaker 1: Ällt,
+[00:07:24.4 - 00:07:24.4] Speaker 1: Und
+[00:07:25.5 - 00:07:26.3] Speaker 1: Es wird mit Sicherheit
+[00:07:27.1 - 00:07:28.6] Speaker 1: Auch mal schwierig sein. Aber
+[00:07:29.3 - 00:07:29.6] Speaker 1: Am Ende
+[00:07:30.2 - 00:07:32.9] Speaker 1: Steht natürlich der, der, der Traumjob, den ich haben möchte.
+[00:07:40.7 - 00:07:43.9] Speaker 1: Also auf lange Sicht gesehen ist es auf jeden Fall sinnvoll, sich da durchzuquälen.
+[00:07:45.2 - 00:07:47.4] Speaker 1: Und wie ist das dann beim Sport? Also natürlich
+[00:07:49.3 - 00:07:58.0] Speaker 1: Werden mit Sicherheit Endorphine ausgeschüttet, wenn ich Sport mache, aber es ist anstrengend. Aber hinterher wird es mich sicherlich glücklich machen, wenn ich das gemacht habe, wenn ich es geleistet habe, wenn
+[00:07:58.0 - 00:07:58.7] Speaker 1: Ich es geschafft habe.
+[00:08:04.8 - 00:08:08.1] Speaker 1: Und wie ist denn das mit Drogen? Darüber haben wir gestern auch schon gesprochen. Ist es
+[00:08:09.8 - 00:08:09.8] Speaker 1: Über
+[00:08:10.4 - 00:08:14.7] Speaker 1: Haupt Glück? Ist es eine Abkürzung? Ist es einfach nur,
+[00:08:18.2 - 00:08:18.5] Speaker 1: Ja,
+[00:08:19.9 - 00:08:23.7] Speaker 1: Ein Hilfsmittel? Hat das überhaupt irgendwas mit Glück zu tun?
+[00:08:26.9 - 00:08:27.5] Speaker 1: Man kann aber auch
+[00:08:28.1 - 00:08:36.2] Speaker 1: Davon ausgehen, dass es manchmal einfach sein muss, dass man sich manchmal auch einfach dem stellen muss, dass es mal was Negatives passieren darf und kann und sollte.
+[00:08:44.0 - 00:08:46.5] Speaker 1: Aber Glück ist nicht einfach nur zufrieden zu sein, glaube ich.
+[00:08:47.2 - 00:08:48.5] Speaker 1: Glück ist nicht einfach nur...
+[00:08:52.3 - 00:08:53.9] Speaker 1: Glück ist auf jeden Fall mehr als das.
+[00:08:58.0 - 00:09:03.1] Speaker 1: Glück ist... ich weiß es nicht.
+[00:09:04.7 - 00:09:09.3] Speaker 1: Ist Glück eigentlich nur das Gefühl? Also Glücksmomente sind auf jeden Fall kurze Momente,
+[00:09:10.0 - 00:09:16.6] Speaker 1: Und in denen passiert irgendwie was Starkes, was, was Zählbares, was, was Greifbares vielleicht auch sogar.
+[00:09:20.2 - 00:09:20.4] Speaker 1: Ähm,
+[00:09:21.9 - 00:09:22.5] Speaker 1: Ja, also
+[00:09:23.1 - 00:09:26.6] Speaker 1: Zufriedenheit heißt ja, dass man irgendwie alles Positive, was jetzt gerade ist,
+[00:09:27.2 - 00:09:30.5] Speaker 1: Vielleicht nicht alles, was mal war, und vielleicht findet man auch nicht alles gut.
+[00:09:31.4 - 00:09:31.6] Speaker 1: Aber
+[00:09:34.7 - 00:09:36.4] Speaker 1: Irgendwie ist alles schon okay.
+[00:09:38.6 - 00:09:38.7] Speaker 1: Und
+[00:09:39.3 - 00:09:48.1] Speaker 1: Je öfter ich das Gefühl habe, dass ich Glück habe oder glücklich bin, desto mehr Glücksmomente habe ich, erst desto höher ist mit Sicherheit meine Zufriedenheit im Leben.
+[00:09:49.3 - 00:09:57.7] Speaker 1: Also ist Glück ja irgendwie ein kurzes, intensives Gefühl, ein Hochgefühl, und Zufriedenheit
+[00:09:59.8 - 00:10:01.3] Speaker 1: Vielleicht was Langfristiges?
+[00:10:01.9 - 00:10:03.2] Speaker 1: Meinst du, vielleicht ist das ein Unterschied?
+[00:10:10.7 - 00:10:10.9] Speaker 1: Aber
+[00:10:13.0 - 00:10:16.7] Speaker 1: Ich finde, glücklich ist man nicht per... nicht, weil man sich permanent optimieren muss.
+[00:10:17.2 - 00:10:19.9] Speaker 1: Das habe ich auch schon gelesen. Das sagst du aber nicht.
+[00:10:25.0 - 00:10:26.8] Speaker 1: Also es ist viel zu oft, dass wir uns irgendwie
+[00:10:27.4 - 00:10:28.9] Speaker 1: Versuchen zu optimieren, dass man...
+[00:10:32.5 - 00:10:34.7] Speaker 1: Dass man permanent auf der Suche ist nach was Besserem.
+[00:10:38.4 - 00:10:38.6] Speaker 1: Dass man
+[00:10:41.2 - 00:10:49.3] Speaker 1: Sich immer wieder verbessern muss, dass man... es ist aber auch ein ständiger... ein ständiges Vergleichen. Und ein ständiges Vergleichen
+[00:10:49.9 - 00:10:53.5] Speaker 1: Macht meiner Meinung nach auch einfach nicht glücklich, denn es zeigt mir ja permanent,
+[00:10:54.2 - 00:10:55.1] Speaker 1: Was alles so gerade
+[00:10:55.7 - 00:11:01.2] Speaker 1: Schiefläuft, was alles so gerade nicht gut ist, was einfach alles irgendwie nicht toll ist.
+[00:11:06.6 - 00:11:10.8] Speaker 1: Muss ich denn immer die beste Version meiner selbst werden, oder kann ich auch einfach mal ich selber sein?
+[00:11:11.9 - 00:11:13.5] Speaker 1: Darf ich einfach mal ausruhen?
+[00:11:14.8 - 00:11:15.8] Speaker 1: Darf ich denn einfach mal
+[00:11:17.3 - 00:11:17.6] Speaker 1: Sein?
+[00:11:18.7 - 00:11:19.8] Speaker 1: Darf ich denn einfach mal
+[00:11:21.6 - 00:11:23.0] Speaker 1: Machen, was gerade ansteht?
+[00:11:23.9 - 00:11:24.8] Speaker 1: Darf ich denn einfach mal
+[00:11:25.4 - 00:11:26.2] Speaker 1: Loslassen?
+[00:11:31.9 - 00:11:36.7] Speaker 1: Ich glaube, Geld ist auch gar nicht so das Hauptaugenmerk. Geld, Geld ist gar nicht so unglaublich wichtig dabei.
+[00:11:38.6 - 00:11:44.6] Speaker 1: Denn Geld macht ja nur dann glücklich, wenn ich generell wenig habe, glaube ich.
+[00:11:46.4 - 00:11:46.5] Speaker 1: Wenn
+[00:11:48.2 - 00:11:50.5] Speaker 1: Ich alles erstmal abgedeckt habe, was ich brauche,
+[00:11:54.1 - 00:11:58.3] Speaker 1: Dann habe ich doch alles. Aber das heißt noch lange nicht, dass ich glücklich bin. Das heißt einfach nur,
+[00:12:00.5 - 00:12:01.8] Speaker 1: Ja, dass ich mir was kaufen kann.
+[00:12:04.3 - 00:12:07.4] Speaker 1: Was macht denn jetzt glücklich? Ich glaube, da gibt es schon verschiedene Bestandteile.
+[00:12:08.2 - 00:12:15.5] Speaker 1: Also es sind auf jeden Fall die Menschen, mit denen ich zusammen bin. Die können mich glücklich machen. Das heißt, meine Beziehungen, die Leute in meinem Umfeld.
+[00:12:17.0 - 00:12:21.2] Speaker 1: Bin ich mit den Leuten zusammen, die ich gerne mag, die mich irgendwie bereichern, innerlich,
+[00:12:21.8 - 00:12:23.8] Speaker 1: Die mir irgendwie ein gutes Gefühl geben?
+[00:12:27.8 - 00:12:29.1] Speaker 1: Helfe ich anderen Leuten?
+[00:12:30.9 - 00:12:31.0] Speaker 1: Od
+[00:12:32.6 - 00:12:35.2] Speaker 1: Er... ja, was mache ich denn überhaupt? Habe ich das Gefühl, dass ich
+[00:12:36.4 - 00:12:43.6] Speaker 1: Zu etwas gut bin, dass ich etwas wert bin, dass ich etwas einen Wert hinterlasse auf der Welt, dass ich... dass ich einfach was Gutes tue?
+[00:12:45.5 - 00:12:47.6] Speaker 1: Mache ich vielleicht eine Ehre, wenn etwas anderen hilft?
+[00:12:49.6 - 00:12:49.8] Speaker 1: Habe ich
+[00:12:51.0 - 00:12:55.9] Speaker 1: Ziele, die ich verfolge? Habe ich Ziele, die ich erreiche? Habe ich... habe ich mir selbst irgendwie
+[00:12:56.5 - 00:12:59.3] Speaker 1: Herausforderungen gesetzt, auf die ich stolz sein kann?
+[00:13:01.3 - 00:13:09.0] Speaker 1: Bin ich aktiv? Bewege ich mich? Mache ich Dinge, die mich einfach interessieren?
+[00:13:09.7 - 00:13:12.1] Speaker 1: Bleibe... mache ich meine Hobbys? Habe ich überhaupt Hobbys?
+[00:13:13.8 - 00:13:16.3] Speaker 1: Was habe ich denn für Stärken? Kenne ich meine Stärken?
+[00:13:20.8 - 00:13:25.4] Speaker 1: Habe ich... hat mir schon mal jemand gesagt, dass ich gut bin? Habe ich schon mal jemandem gesagt, dass er gut ist?
+[00:13:26.2 - 00:13:28.4] Speaker 1: Denn es macht auch manchmal glücklich, jemanden glück
+[00:13:28.9 - 00:13:29.5] Speaker 1: Lich zu machen.
+[00:13:30.9 - 00:13:34.4] Speaker 1: Habe ich mal jemandem geholfen? Hat er sich wahnsinnig gefreut?
+[00:13:35.0 - 00:13:40.0] Speaker 1: Habe ich jemandem, wie gesagt, ein schönes Kompliment hinterlassen? Habe ich ihm was Nettes gesagt, was Gutes?
+[00:13:40.6 - 00:13:44.8] Speaker 1: Etwas, was einfach... was er sonst nie hört?
+[00:13:46.0 - 00:13:48.8] Speaker 1: Ist das... ja, was ist das denn eigentlich?
+[00:13:55.1 - 00:13:56.8] Speaker 1: Vielleicht alles tatsächlich so ein bisschen.
+[00:13:58.9 - 00:13:59.3] Speaker 1: Es gibt
+[00:14:01.3 - 00:14:02.5] Speaker 1: Ein positives Minds
+[00:14:03.0 - 00:14:04.8] Speaker 1: Et, also eine Grundeinstellung,
+[00:14:05.4 - 00:14:12.6] Speaker 1: Die ich auf jeden Fall haben muss, um glücklich zu sein. Ich muss es zulassen. Ich muss glücklich sein wollen. Ich muss hinschauen können. Ich muss...
+[00:14:13.7 - 00:14:18.5] Speaker 1: Ich muss einfach offen sein für Glück.
+[00:14:20.0 - 00:14:20.3] Speaker 1: Ich...
+[00:14:20.9 - 00:14:26.0] Speaker 1: Der Unterschied ist ja auch, was möchte ich denn wahrnehmen? Bin ich... bin ich auf das Positive oder auf das Negative
+[00:14:29.5 - 00:14:30.1] Speaker 1: Programmiert?
+[00:14:37.4 - 00:14:41.2] Speaker 1: Und muss ich denn alle Probleme übersehen, oder darf ich sie durchaus wahrnehmen und
+[00:14:41.9 - 00:14:42.8] Speaker 1: Darf mich einfach nur nicht
+[00:14:43.4 - 00:14:45.5] Speaker 1: Darauf fokussieren und mich nicht darin verlieren?
+[00:14:47.0 - 00:14:48.7] Speaker 1: Was bin denn ein Glückstagebuch?
+[00:14:49.3 - 00:14:52.0] Speaker 1: Kann ich nicht drei Tage am Stück am Tag... drei Teile
+[00:14:52.7 - 00:14:53.1] Speaker 1: Am Tag
+[00:14:55.1 - 00:14:56.9] Speaker 1: Notieren, die mich glücklich machen?
+[00:15:03.7 - 00:15:05.4] Speaker 1: Hilft mir das, wenn ich das aufschreibe,
+[00:15:06.2 - 00:15:07.0] Speaker 1: Ganz bewusst?
+[00:15:12.2 - 00:15:14.8] Speaker 1: Erlebe ich denn jeden Tag was Glückliches, etwas, was mir
+[00:15:15.7 - 00:15:17.2] Speaker 1: Glück... was mir Glück mich glücklich macht?
+[00:15:18.8 - 00:15:21.3] Speaker 1: Muss ich jeden Tag was erleben, was mich glücklich macht?
+[00:15:22.1 - 00:15:23.9] Speaker 1: Darf auch mal ein blöder Tag dabei sein?
+[00:15:24.7 - 00:15:27.0] Speaker 1: Darf auch mal was schiefgehen? Darf auch mal einfach nur
+[00:15:29.8 - 00:15:33.6] Speaker 1: Einen Tag nicht existieren, weil einfach nichts passiert ist? Darf das sein?
+[00:15:35.6 - 00:15:37.6] Speaker 1: Warum eigentlich nicht? Wer sagt eigentlich, dass ich jeden Tag
+[00:15:38.2 - 00:15:40.1] Speaker 1: Unbedingt hundertprozentig glücklich sein muss?
+[00:15:41.6 - 00:15:43.6] Speaker 1: Wer sagt eigentlich? Wer gibt... wer gibt denn die
+[00:15:45.4 - 00:15:46.5] Speaker 1: Messlatte? Wer... wer
+[00:15:47.6 - 00:15:48.5] Speaker 1: Macht das denn?
+[00:15:56.6 - 00:15:56.8] Speaker 1: Also,
+[00:16:00.7 - 00:16:02.3] Speaker 1: Ich habe hier eine Liste gefunden mit
+[00:16:03.1 - 00:16:05.9] Speaker 1: Den neun wichtigsten Glücksdefinitionen von einer Seite
+[00:16:06.8 - 00:16:08.0] Speaker 1: Und Glückskompetenz.
+[00:16:09.4 - 00:16:09.6] Speaker 1: Und
+[00:16:10.6 - 00:16:12.0] Speaker 1: Die lese ich jetzt einfach mal vor.
+[00:16:12.8 - 00:16:18.0] Speaker 1: Also, Glück ist kein Zufall, sondern der Zustand positiver Gefühle, die du selbst beeinflussen kannst.
+[00:16:19.0 - 00:16:24.0] Speaker 1: Zweitens, Glück ist eine Mischung aus dein Leben genießen und im Einklang mit deinen Stärken und Werten leben.
+[00:16:25.0 - 00:16:30.7] Speaker 1: Drittens, Glück ist oft die Belohnung für eine Anstrengung. Das heißt, manchmal ist es nötig, kurzfristig auch negative
+[00:16:31.4 - 00:16:31.9] Speaker 1: Gefühle
+[00:16:32.8 - 00:16:39.1] Speaker 1: In Kauf zu nehmen, um langfristig höhere Ziele zu erreichen. Klingt auch spannend. Also, es muss nicht immer alles gut laufen.
+[00:16:40.3 - 00:16:45.5] Speaker 1: Glück ist ein kurzes, intensives Hochgefühl. Zufriedenheit ist Wohlbefinden über einen längeren Zeitraum.
+[00:16:46.8 - 00:16:50.8] Speaker 1: Für deine Zufriedenheit kommt es darauf an, dass du regelmäßig Glücksmomente erlebst.
+[00:16:53.3 - 00:17:00.1] Speaker 1: Glück ist die authentischste Version von dir zu sein und bedeutet nicht, dass du die beste und optimierteste Version von dir selbst sein musst.
+[00:17:00.8 - 00:17:06.4] Speaker 1: Glück ist auch individuell. Finde heraus, was dich persönlich in deinem Leben glücklich macht, und mache mehr davon.
+[00:17:08.1 - 00:17:11.0] Speaker 1: Glück ist Einstellungssache, indem du bewusst die Aufmerksamkeit auf das
+[00:17:11.6 - 00:17:12.4] Speaker 1: Positive in deinem Leben
+[00:17:13.1 - 00:17:13.4] Speaker 1: Richtest.
+[00:17:14.7 - 00:17:20.5] Speaker 1: Glück ist jetzt. Wenn du achtsam in der Gegenwart bist, schaffst du einen Platz, Landeplatz für Glücksmomente.
+[00:17:21.8 - 00:17:22.9] Speaker 1: Glück ist nicht immer da.
+[00:17:23.6 - 00:17:23.9] Speaker 1: Neuntens,
+[00:17:24.7 - 00:17:33.6] Speaker 1: Und das ist okay. Du brauchst nicht immer freudig schreiend durchs Leben laufen, um ein glückliches Leben zu führen, sondern darfst dich mit allen Gefühlen annehmen, die da sind.
+[00:17:34.4 - 00:17:36.3] Speaker 1: Also, ich muss nicht permanent glücklich sein.
+[00:17:38.0 - 00:17:40.2] Speaker 1: Ich darf auch mal was doof finden. Ich darf auch mal
+[00:17:42.1 - 00:17:45.5] Speaker 1: Einfach gucken, was passiert, einfach annehmen, was gerade ist.
+[00:17:46.1 - 00:17:47.2] Speaker 1: Und ich muss nicht immer n
+[00:17:49.4 - 00:17:52.0] Speaker 1: Ur, ja, lachend und tanzend durch die Welt laufen.
+[00:18:00.6 - 00:18:04.1] Speaker 1: Eine richtige Definition von Glück, ich glaube, die gibt es überhaupt nicht.
+[00:18:12.5 - 00:18:13.1] Speaker 1: Ich glaube...
+[00:18:19.3 - 00:18:23.9] Speaker 1: Ich glaube, man ist immer... kann nur dann glücklich, wenn man aufhört, nach dem Glück zu streben, permanent.
+[00:18:29.9 - 00:18:32.9] Speaker 1: Es gibt ja auch so wunderschöne... so wunderschöne Grußkarten,
+[00:18:33.9 - 00:18:36.5] Speaker 1: Und alle haben immer so einen kurzen Sinnenspruch.
+[00:18:38.9 - 00:18:41.3] Speaker 1: Also, was ist denn Glück? Und
+[00:18:43.1 - 00:18:46.9] Speaker 1: Hier steht zum Beispiel: "Glück ist, wenn man dafür geliebt wird, wie man ist." Und das stimmt. Man kann
+[00:18:47.8 - 00:18:52.6] Speaker 1: Ankommen. Man kann man selbst sein. Man kann entspannen. Man kann runterkommen. Man kann einfach zulassen,
+[00:18:53.3 - 00:18:57.2] Speaker 1: Wer man ist, ohne sich permanent verbessern zu müssen, ohne permanent
+[00:18:57.8 - 00:19:01.4] Speaker 1: Überlegen zu müssen: "Ja, wer bin ich denn? Was mache ich denn? Was kann ich denn?
+[00:19:02.2 - 00:19:05.0] Speaker 1: Wie viel besser muss ich denn noch werden?" Sondern man ist einfach, wie man ist.
+[00:19:10.1 - 00:19:14.1] Speaker 1: Es ist nicht leicht, Glück in sich selbst zu finden, aber unmöglich, es anderswo zu finden.
+[00:19:15.2 - 00:19:20.6] Speaker 1: Und das glaube ich auch, wenn man... man ist nicht glücklich, wenn man irgendwie immer außer sich außen ist. Man kann nicht
+[00:19:21.2 - 00:19:21.7] Speaker 1: Fühlen,
+[00:19:22.4 - 00:19:26.7] Speaker 1: Das Glück nicht fühlen, wenn man nicht in sich hineinfühlt, wenn man nicht bei sich ist.
+[00:19:27.6 - 00:19:29.5] Speaker 1: Ein Gefühl kann man nur dann fühlen,
+[00:19:31.1 - 00:19:36.2] Speaker 1: Wenn man man selbst ist, wenn man in sich ist, wenn man es fühlen möchte, wenn man in seiner Haut steckt.
+[00:19:38.9 - 00:19:41.0] Speaker 1: Glück ist kein Ziel. Glück ist eine Art zu
+[00:19:41.6 - 00:19:41.9] Speaker 1: Leben.
+[00:19:42.7 - 00:19:43.5] Speaker 1: Das ist auch schön.
+[00:19:44.8 - 00:19:47.5] Speaker 1: Es ist kein Ziel. Ich muss nicht glücklich werden. Ich muss glücklich sein.
+[00:19:48.0 - 00:19:49.0] Speaker 1: Und es ist eine Entscheidung.
+[00:19:52.7 - 00:20:00.7] Speaker 1: Das Glück der Menschen liegt nicht in Geld und Gut. Es liegt in einem Herzen, das eine wahrhafte Liebe und Zufriedenheit hat. Obwohl, das ist mir jetzt schon wieder zu abstrus.
+[00:20:04.7 - 00:20:10.4] Speaker 1: Glück kann man nicht kaufen. Es kommt in dieser Welt überall vor, und zwar in allen Farben, Formen und Größen. Ja, das stimmt.
+[00:20:11.2 - 00:20:12.4] Speaker 1: Glück kann unterschiedlich sein.
+[00:20:16.3 - 00:20:21.0] Speaker 1: Glück ist nicht... glücklich ist nicht der, der alles hat, was er will, sondern der, der schätzen weiß, was er hat.
+[00:20:21.5 - 00:20:23.8] Speaker 1: Und ich glaube, da bin ich... da bin ich auch einverstanden.
+[00:20:24.5 - 00:20:27.1] Speaker 1: Also, ich muss nicht immer alles haben. Ich muss nicht immer alles...
+[00:20:27.8 - 00:20:29.5] Speaker 1: Immer nur das Beste haben und wollen.
+[00:20:30.7 - 00:20:31.4] Speaker 1: Ich muss einfach nur
+[00:20:33.2 - 00:20:34.7] Speaker 1: Zufrieden sein mit dem, was ich habe,
+[00:20:35.6 - 00:20:37.8] Speaker 1: Und auf mich zukommen lassen, was gerade ist.
+[00:20:41.9 - 00:20:46.1] Speaker 1: Glück bedeutet nicht, alles zu bekommen, was man will, sondern die Freunde zu haben, die man braucht.
+[00:20:46.7 - 00:20:48.0] Speaker 1: Das ist auch schön, wenn man einfach
+[00:20:48.7 - 00:20:55.4] Speaker 1: Abschalten kann und sicher sein kann, dass alles schon irgendwie gut geht, dass alles schon irgendwie okay ist, dass alles irgendwie funktioniert.
+[00:20:56.6 - 00:20:57.5] Speaker 1: Dass man Leute hat, die
+[00:20:58.5 - 00:21:05.3] Speaker 1: Zu einem halten, dass man Menschen hat in seinem Umkreis, die man mag, die man gerne mag, mit denen man gerne zusammen ist,
+[00:21:06.5 - 00:21:06.5] Speaker 1: Die
+[00:21:07.4 - 00:21:09.4] Speaker 1: Einfach toll sind, die auch einfach nur
+[00:21:10.8 - 00:21:15.7] Speaker 1: Wunderbare Persönlichkeiten sind, die einfach...
+[00:21:17.2 - 00:21:18.4] Speaker 1: Ja, die einfach gut sind.
+[00:21:54.1 - 00:21:58.3] Speaker 1: Was ist jetzt denn nun glücklich? Was macht denn glücklich? Ich weiß nicht aus. Ich weiß es immer noch nicht.
+[00:22:13.7 - 00:22:16.2] Speaker 1: Also, glücklich ist auf jeden Fall... ja.
+[00:22:22.9 - 00:22:27.3] Speaker 1: Es ist auf jeden Fall kein Ziel. Wie gesagt, es ist eine Art zu leben. Man muss heute glücklich sein.
+[00:22:29.5 - 00:22:32.0] Speaker 1: Es bedeutet auch nicht, dass man alles bekommt. Es bedeutet,
+[00:22:32.6 - 00:22:34.2] Speaker 1: Das zu lieben, was man hat.
+[00:22:38.3 - 00:22:46.2] Speaker 1: Und das sehe ich hier. Glück ist auch, wenn man mit den Menschen, mit denen man absolut nichts zu tun haben möchte, auch wirklich nichts zu tun hat. Das ist auch sehr schön. Das ist auch richtig gut.
+[00:23:01.9 - 00:23:03.5] Speaker 1: Nicht die Schönheit entscheidet, wen wir lie
+[00:23:04.4 - 00:23:08.9] Speaker 1: Ben, sondern die Liebe, wen wir schön finden. Okay, hier geht es jetzt schon wieder in eine andere Richtung.
+[00:23:10.7 - 00:23:11.0] Speaker 1: Ja,
+[00:23:11.7 - 00:23:16.4] Speaker 1: Glück. Kurze Sprüche zum Thema Glück. Glück ist die Summe schöner Momente. Okay.
+[00:23:18.2 - 00:23:19.3] Speaker 1: Glück ist Liebe. Nichts
+[00:23:19.9 - 00:23:24.1] Speaker 1: Anderes. Wer lieben kann, ist glücklich. Das ist auch schön, aber das ist mir zu abstrus.
+[00:23:25.8 - 00:23:27.5] Speaker 1: Wahres Glück kommt von innen. Ja, das stimmt.
+[00:23:28.9 - 00:23:31.5] Speaker 1: Glück ist kostenlos, aber dennoch unbezahlbar.
+[00:23:32.1 - 00:23:32.3] Speaker 1: Okay,
+[00:23:32.9 - 00:23:33.4] Speaker 1: Das stimmt.
+[00:23:34.7 - 00:23:37.0] Speaker 1: Mir was zu kaufen, macht mich nicht unbedingt glücklich.
+[00:23:42.6 - 00:23:46.0] Speaker 1: Nimm dir Zeit für die schönen Momente und tue das, was dich glücklich macht.
+[00:23:46.7 - 00:23:47.6] Speaker 1: Das muss auf jeden Fall
+[00:23:48.8 - 00:23:49.9] Speaker 1: Das Allerwichtigste.
+[00:23:52.8 - 00:23:58.3] Speaker 1: Wenn man glücklich ist, soll man nicht noch glücklicher sein wollen. Das macht es auf jeden Fall kaputt, glaube ich. Da bin ich mir ganz, ganz sicher.
+[00:24:04.8 - 00:24:09.8] Speaker 1: Glücklich sein bedeutet nicht, das Beste aus allem haben, das Beste von allem haben zu wollen. Ja, okay, das hatte ich schon.
+[00:24:10.7 - 00:24:12.1] Speaker 1: Glück ist ein kurzer Moment,
+[00:24:13.1 - 00:24:15.5] Speaker 1: Aber eine lange Erinnerung. Das stimmt.
+[00:24:17.5 - 00:24:22.1] Speaker 1: Es ist auch etwas, was ich lange mit mir trage, was mich bestimmt auch lange glücklich machen kann, was ich lange,
+[00:24:23.5 - 00:24:25.1] Speaker 1: Lange, lange mögen darf,
+[00:24:26.2 - 00:24:26.6] Speaker 1: Was einfach
+[00:24:28.1 - 00:24:29.4] Speaker 1: Gut ist, was schön ist.
+[00:24:34.1 - 00:24:35.8] Speaker 1: Ich finde, Glück... Glück ist einfach
+[00:24:36.6 - 00:24:38.2] Speaker 1: Eine schöne Sache. Glück ist einfach
+[00:24:39.6 - 00:24:39.8] Speaker 1: Gut.
+[00:24:40.8 - 00:24:41.9] Speaker 1: Glück ist einfach nur gut.
+[00:24:43.9 - 00:24:44.0] Speaker 1: Und
+[00:24:44.7 - 00:24:44.9] Speaker 1: Ja.
+[00:24:49.0 - 00:24:52.6] Speaker 1: Ich finde, Glück kann einfach nur sehr, sehr schön sein. Das auf jeden Fall.
+[00:24:55.8 - 00:24:56.6] Speaker 1: Und ja.
+[00:25:04.9 - 00:25:07.8] Speaker 1: Am Ende muss man einfach was aus seinem Leben machen, glaube ich.
+[00:25:14.0 - 00:25:17.8] Speaker 1: Hier steht: "Der Unterschied zwischen Gewinnen und Verlieren ist meist einfach nur nicht aufzuhören."
+[00:25:20.8 - 00:25:21.0] Speaker 1: Ja,
+[00:25:22.1 - 00:25:25.7] Speaker 1: Mag sein. Einfach immer weitermachen, einfach immer dabei sein, einfach immer machen.
+[00:25:34.2 - 00:25:38.7] Speaker 1: Ein guter Tag, um glücklich zu sein, ist eigentlich immer heute. Der Tag heute ist einfach der beste.
+[00:25:43.2 - 00:25:44.9] Speaker 1: Glück ist keine Entscheidung, kein Schicksal.
+[00:25:45.5 - 00:25:51.7] Speaker 1: Vielleicht kann wirklich jeder glücklich sein, aber ich bin es irgendwie nicht. Warum bin ich es eigentlich nicht? Ich möchte auch so gerne glücklich sein.
+[00:25:52.3 - 00:25:54.1] Speaker 1: Ich möchte sehr, sehr gerne glücklich sein.
+[00:26:05.2 - 00:26:05.4] Speaker 1: Also.
+[00:26:09.3 - 00:26:17.3] Speaker 1: Was macht mich eigentlich glücklich? Lebe fröhlich und pflege Halte, trage bei zu anderen Glück, denn die Freude, die wir geben, kehrt ins eigene Herz. Das ist ja auch süß.
+[00:26:18.4 - 00:26:25.4] Speaker 1: Nimm dir Zeit, glücklich zu sein. Das ist ganz, ganz wichtig. Das Glück ist schon da. Es ist in uns. Wir haben es nur vergessen, und wir müssen uns wieder dran erinnern.
+[00:26:26.8 - 00:26:27.2] Speaker 1: Bestimmt.
+[00:26:28.9 - 00:26:31.6] Speaker 1: Es ist förderlich, für die Gesundheit glücklich zu sein.
+[00:26:32.5 - 00:26:33.2] Speaker 1: Auf jeden Fall.
+[00:26:35.8 - 00:26:41.4] Speaker 1: Auf jeden Fall. Glück ist, wenn der Verstand tanzt und das Herz atmet und die Augen lieben. Das ist auch süß.
+[00:26:44.2 - 00:26:50.8] Speaker 1: Das Leben ist kurz. Lass uns endlich anfangen, nur noch das zu machen, was uns so glücklich macht. Das ist auf jeden Fall wichtig, ganz, ganz wichtig.
+[00:27:02.7 - 00:27:03.6] Speaker 1: Und ja.
+[00:27:18.2 - 00:27:22.0] Speaker 1: Glück ist auf jeden Fall erstrebenswert. Glück möchte man... glücklich möchte man sein.
+[00:27:22.6 - 00:27:24.5] Speaker 1: Ich glaube, jeder möchte irgendwie glücklich sein.
+[00:27:25.4 - 00:27:26.7] Speaker 1: Kann man sich vorstellen, dass es jemanden
+[00:27:27.3 - 00:27:29.9] Speaker 1: Gibt auf dieser Welt, der einfach nicht glücklich sein möchte,
+[00:27:30.8 - 00:27:31.3] Speaker 1: Der einfach
+[00:27:31.8 - 00:27:33.0] Speaker 1: Das nicht zu schätzen weiß,
+[00:27:34.0 - 00:27:34.6] Speaker 1: Der einfach,
+[00:27:36.4 - 00:27:40.3] Speaker 1: Ja, so vor sich hin lebt, so ganz stupide, der einfach nur nichts tut, der einfach,
+[00:27:41.6 - 00:27:42.2] Speaker 1: Ja, keine Ahnung,
+[00:27:43.0 - 00:27:44.3] Speaker 1: Der einfach nur nichts macht, der
+[00:27:46.1 - 00:27:47.2] Speaker 1: Nicht glücklich sein möchte?
+[00:27:48.8 - 00:27:50.4] Speaker 1: Ich glaube, jeder möchte glücklich sein.
+[00:27:53.9 - 00:28:04.0] Speaker 1: Und es ist auch einfach wichtig. Es ist... Es ist wichtig, dass man etwas dafür tut. Ich glaube, Glück... weiß ich nicht. Ist man von alleine glücklich? Vielleicht, wenn man die Grundeinstellung hat,
+[00:28:04.7 - 00:28:08.3] Speaker 1: Dass es einen glücklich macht, was man tut, dann ist man vielleicht auch von alleine glücklich.
+[00:28:09.2 - 00:28:10.5] Speaker 1: Aber so ganz prinzipiell
+[00:28:12.4 - 00:28:13.0] Speaker 1: Glaube ich,
+[00:28:14.5 - 00:28:16.3] Speaker 1: Muss man schon irgendwie was dafür tun.
+[00:28:18.2 - 00:28:19.0] Speaker 1: Denke ich.
+[00:28:20.3 - 00:28:23.2] Speaker 1: Von alleine glücklich, so ohne Weiteres, das kann ich mir nicht vorstellen.
+[00:28:24.2 - 00:28:25.1] Speaker 1: Oder vielleicht ja doch.
+[00:28:25.8 - 00:28:29.9] Speaker 1: Vielleicht bin nur ich nicht in der Lage, glücklich zu sein. Das kann auch sein. Das kann ich mir super vorstellen.
+[00:28:32.0 - 00:28:35.6] Speaker 1: Vielleicht bin nicht ich der einzige Mensch auf dieser Welt, der nicht glücklich sein kann.
+[00:28:36.5 - 00:28:37.7] Speaker 1: Das wäre schon sehr traurig,
+[00:28:39.1 - 00:28:40.3] Speaker 1: Aber es würde mich nicht wundern.
+[00:28:41.0 - 00:28:52.8] Speaker 1: Es würde dementsprechend, was ich ohnehin schon immer tue, was ich einfach... ja, was ich einfach irgendwie... Es würde sich auf jeden Fall mit dem spiegeln,
+[00:28:54.1 - 00:28:55.3] Speaker 1: Was ich permanent erlebe,
+[00:28:57.2 - 00:28:58.0] Speaker 1: Was ich irgendwie
+[00:28:59.3 - 00:29:11.9] Speaker 1: Vielleicht auch nicht immer gut finde, aber was irgendwie einfach ist. Das ist einfach mein Dauerzustand. Einfach. Ich möchte sehr gerne glücklich sein, auf jeden Fall. Um Gottes willen. Ich möchte... ich w
+[00:29:11.9 - 00:29:14.9] Speaker 1: Ürde es zu gerne, oder ich bin es ganz häufig einfach nicht.
+[00:29:15.4 - 00:29:17.2] Speaker 1: Und das macht mich schon ein bisschen traurig.
+[00:29:18.5 - 00:29:20.3] Speaker 1: Weil ich kann ja... ich kann ja gar nicht so ein
+[00:29:21.5 - 00:29:25.6] Speaker 1: Unfassbar... unfähiger Mensch sein.
+[00:29:26.6 - 00:29:27.7] Speaker 1: Ist denn jeder fähig, glück
+[00:29:28.3 - 00:29:29.6] Speaker 1: Lich zu sein und Glück zu haben?
+[00:29:30.6 - 00:29:31.7] Speaker 1: Aber da sind wir ja wied
+[00:29:32.2 - 00:29:35.3] Speaker 1: Er. Glück haben und glücklich sein sind ja nicht dieselben Sachen, glaube ich.
+[00:29:36.8 - 00:29:38.1] Speaker 1: Das sind unterschiedliche Dinge.
+[00:29:40.7 - 00:29:42.7] Speaker 1: Es ist... es ist, wie es ist.
+[00:29:43.8 - 00:29:45.2] Speaker 1: Ich möchte gerne glücklich sein.
+[00:29:46.3 - 00:29:48.0] Speaker 1: Ich weiß nur nicht so richtig, wie es geht.
+[00:29:49.7 - 00:29:52.0] Speaker 1: Ich möchte es wirklich sehr, sehr gerne.
+[00:29:53.8 - 00:29:56.8] Speaker 1: Und ich glaube, das, was ich auf jeden Falländern muss, ist meine Grundeinstellung.
+[00:29:57.7 - 00:29:59.3] Speaker 1: Ich muss auf jeden Fall etwas dafür tun,
+[00:30:00.7 - 00:30:02.0] Speaker 1: Dass ich glücklich sein kann.
+[00:30:02.9 - 00:30:04.2] Speaker 1: Weil wenn ich nichts dafür tue,
+[00:30:05.7 - 00:30:06.9] Speaker 1: Dann kann ich es auch nicht werden.

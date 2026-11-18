@@ -1,0 +1,351 @@
+German Monologue 01
+Language: German
+Duration: 00:31:54.0
+Speakers: 1
+Machine transcription (automatic speech recognition), not human-reviewed. Segment-level timestamps, word timings in the .json.
+
+[00:00:02.6 - 00:00:09.8] Speaker 1: Also macht es euch bequem, zieht euch vielleicht noch eine Decke über oder schenkt euch einen heißen Tee ein, denn da wo wir heute hingehen, ist es kalt,
+[00:00:10.5 - 00:00:18.4] Speaker 1: unvorstellbar kalt. Wir sprechen heute über eine Figur, die schon fast mythisch wirkt, wenn man sich in die Geschichte des 20. Jahrhunderts so reinliest.
+[00:00:18.9 - 00:00:21.2] Speaker 1: Ein Mann, der, und das ist keine Übertreibung,
+[00:00:21.8 - 00:00:26.6] Speaker 1: die Landkarte unserer Erde verändert hat, oder zumindest unser Verständnis von den Rändern dieser Karte.
+[00:00:27.4 - 00:00:30.1] Speaker 1: Wir reden über Admiral Richard Evelyn Byrd.
+[00:00:31.0 - 00:00:35.9] Speaker 1: Wisst ihr, ich habe neulich wieder aus dem Fenster geschaut, es war ein grauer Novembertag, Nieselregen,
+[00:00:36.7 - 00:00:44.7] Speaker 1: diese klamme Kälte, die einem die Knochen kriecht, und ich musste an Byrd denken, nicht weil unser Wetter hier vergleichbar wäre mit der Antarktis, Gott bewahre,
+[00:00:45.5 - 00:00:55.4] Speaker 1: aber weil es diesen Moment gibt, wenn man in die Kälte starrt und sich fragt: Was ist denn da draußen, warum tun wir uns das an, warum verlässt ein Mensch das warme Kaminfeuer in Virginia oder Boston, um sich
+[00:00:55.6 - 00:00:58.6] Speaker 1: monatelang in Dunkelheit und Eis einschließen zu lassen?
+[00:00:59.7 - 00:01:10.4] Speaker 1: Byrd ist für mich eines der faszinierendsten Rätsel der Entdeckergeschichte. Es ist nicht wie Amundsen, der eiskalte Profi. Es ist nicht wie Scott, der tragische Romantiker. Byrd ist: Er ist der Übergang, er
+[00:01:10.4 - 00:01:19.9] Speaker 1: ist der Mann, der die Technik in die Wildnis brachte, er ist der Amerikaner, der das Zeitalter der heroischen Entdeckung beendete und das Zeitalter der mechanisierten Entdeckung einläutete.
+[00:01:20.5 - 00:01:30.3] Speaker 1: Aber, und das ist das Wichtigste, er hat dabei nie seine Seele an die Maschine verloren, und vielleicht doch? Das ist die Frage, die wir uns heute stellen müssen. Ich habe mich oft gefragt, was ihn angetri
+[00:01:30.4 - 00:01:41.4] Speaker 1: eben hat. War es Ruhm? Sicher, Byrd war eitel, das kann man nicht leugnen, er wusste, wie man sich inszeniert. Er trug diese Pelzparkas nicht nur, weil sie warm waren, sondern weil sie verdammt gut auf Fotos
+[00:01:41.5 - 00:01:45.2] Speaker 1: aussahen. Er war ein Medienstar seiner Zeit. Aber Ruhm lässt sich nicht
+[00:01:45.8 - 00:01:51.4] Speaker 1: bei -60 Grad in einer Holzhütte überleben, während du langsam an einer Kohlenmonoxidvergiftung stirbst.
+[00:01:52.0 - 00:01:53.8] Speaker 1: Da muss mehr sein, da muss eine Art von
+[00:01:54.8 - 00:01:57.0] Speaker 1: Besessenheit sein, eine Liebe zur Stille.
+[00:02:00.2 - 00:02:00.7] Speaker 1: Lasst uns mal
+[00:02:01.3 - 00:02:12.0] Speaker 1: am Anfang anfangen, oder zumindest dort, wo die Legende beginnt. Wir schreiben 1920er Jahre, die Welt hat sich gerade vom Ersten Weltkrieg erholt, die Fliegerei steckt noch in den Kinderschuhen, aber sie macht
+[00:02:12.1 - 00:02:19.5] Speaker 1: Riesensprünge. Und Byrd, dieser junge, gutaussehende Marineoffizier, der hat einen Traum. Er will zum Nordpol, aber nicht zu Fuß, das ist
+[00:02:20.4 - 00:02:24.5] Speaker 1: alte Schule, das ist Peary, das ist Cook, nein, Byrd will fliegen.
+[00:02:25.2 - 00:02:37.0] Speaker 1: Stellt euch diese Flugzeuge damals vor, das waren Kisten aus Holz, Leinwand und Draht. Die Motoren waren laut und zuverlässig und spuckten Öl. Es gab kein GPS, kein Radar, keine Satellitenkommunikation. Wenn
+[00:02:37.0 - 00:02:43.7] Speaker 1: du über dem Packeis abstürzt, dann war's das. Niemand kommt dich holen, du bist ein kleiner Fleck auf einer endlosen weißen Leinwand.
+[00:02:44.7 - 00:02:50.7] Speaker 1: Spitzbergen, das ist der Ort, an dem alles passiert. Kings Bay. Stellt euch die Szene vor, Amundsen ist auch da.
+[00:02:51.4 - 00:02:57.0] Speaker 1: Der alte Löwe der Polarforschung, er hat ein Luftschiff, die Nordge, und da ist Byrd mit seinem Fokker F
+[00:02:57.7 - 00:03:07.3] Speaker 1: 7. Der Josephine Ford, es ist ein Wettrennen. Amerika gegen Norwegen, Flugzeug gegen Luftschiff, Jung gegen Erfahrung, die Atmosphäre muss elektrisierend gewesen sein.
+[00:03:07.9 - 00:03:18.5] Speaker 1: Überall Kisten, Mechaniker, Journalisten, Hundegebell, der Geruch von Treibstoff in der kalten Luft. Byrd und sein Pilot Floyd Bennett starten am 9. Mai, sie heben ab, schwer beladen, die Skierschlagen auf das
+[00:03:18.7 - 00:03:22.6] Speaker 1: Eis, und dann sind sie in der Luft, und sie fliegen nach Norden, immer weiter nach Norden.
+[00:03:23.2 - 00:03:34.6] Speaker 1: Und hier kommen wir zum ersten großen Fragezeichen in Byrds Leben: Haben sie es geschafft? Sie kam nach etwa 15 Stunden und 30 Minuten zurück, Byrd stieg aus und sagte: "Wir waren da, die Welt jubelte." Er
+[00:03:34.7 - 00:03:37.5] Speaker 1: wurde als Held gefeiert, bekam die Medal of Honor.
+[00:03:38.1 - 00:03:38.2] Speaker 1: Aber
+[00:03:38.8 - 00:03:46.3] Speaker 1: schon damals gab es Zweifel, die Zeitrechnung passte nicht ganz, das Flugzeug hätte mit der bekannten Geschwindigkeit und dem Wind eigentlich länger brauchen müssen,
+[00:03:46.9 - 00:03:48.5] Speaker 1: um zum Pol und zurückzukommen.
+[00:03:49.4 - 00:03:54.1] Speaker 1: Es ist interessant, wie Geschichte funktioniert, oder? Wir wollen Helden. Wir wollen glauben, dass er
+[00:03:55.4 - 00:04:06.7] Speaker 1: über diesen mathematischen Punkt am Ende der Welt kreiste. Wenn man sich die Tagebücher ansieht, und die wurden erst viel, viel später, in den 1990er Jahren, wirklich genau analysiert, dann sieht man radierte Zahl
+[00:04:06.7 - 00:04:13.6] Speaker 1: en, man sieht Berechnungen, die darauf hindeuten, dass sie vielleicht kurz zuvor umgekehrt sind, vielleicht hatten sie ein Ölleck, vielleicht wussten sie, dass sie
+[00:04:14.5 - 00:04:17.3] Speaker 1: es nicht ganz schaffen würden, und das Risiko war zu hoch.
+[00:04:18.2 - 00:04:25.9] Speaker 1: Macht ihn das zu einem Betrüger? Ich weiß nicht. Ich glaube, es macht ihn menschlich. Stellt euch den Druck vor, die ganze Welt schaut zu, die Sponsoren, die Navi.
+[00:04:27.1 - 00:04:37.0] Speaker 1: Und dann bist du da oben in dieser lauten, vibrierenden Kiste, und du siehst nichts als Eis, und du weißt, wenn du jetzt noch eine Stunde weiterfliegst, stürzt du vielleicht ab. Und was tust du? Sagst du:
+[00:04:37.0 - 00:04:38.8] Speaker 1: "Okay, wir waren dran, das reicht"?
+[00:04:39.8 - 00:04:49.2] Speaker 1: Oder sagst du der Welt, was sie hören will? Für mich schmälert das seine Leistung kaum, allein der Versuch, mit dieser Technik über das Eismeer zu fliegen, ist Wahnsinn. Es erfordert viel Mut, den ich mir kaum
+[00:04:49.3 - 00:04:50.0] Speaker 1: vorstellen kann.
+[00:04:50.6 - 00:04:58.6] Speaker 1: Ich meine, ich werde schon nervös, wenn bei meinem Auto die Öllampe angeht, stellt euch vor, das passiert über dem Arktischen Ozean, 1.000 Kilometer von der nächsten Tasse Kaffee entfernt.
+[00:04:59.6 - 00:05:01.0] Speaker 1: Aber der Nordpol war erst der Anfang.
+[00:05:01.6 - 00:05:05.6] Speaker 1: Das war sozusagen das Aufwärmtraining, denn Byrd hatte noch ein anderes Ziel:
+[00:05:07.6 - 00:05:11.6] Speaker 1: ein Kontinent, der noch viel feindseliger, viel kälter und viel geheimnisvoller war
+[00:05:12.6 - 00:05:14.7] Speaker 1: als die Arktis, die Antarktis.
+[00:05:16.0 - 00:05:20.1] Speaker 1: Nach dem Nordpolabenteuer und einem sehr dramatischen Transatlantikflug, bei dem
+[00:05:20.8 - 00:05:32.4] Speaker 1: sie übrigens in der Brandung vor Frankreich notlanden mussten, was auch wieder so eine unglaubliche Geschichte ist, richtete er seinen Blick nach Süden. 1928 startete dieerste Byrd-Antarktis-Expedition, und hieränd
+[00:05:32.5 - 00:05:40.5] Speaker 1: erte sich alles. Das war nicht mehr nur ein Mann und ein Flugzeug, das war eine Invasion. Byrd brauchte zwei Schiffe, drei Flugzeuge, fast 100 Hunde und eine ganze Stad
+[00:05:41.7 - 00:05:46.3] Speaker 1: t. Little America, ich liebe diesen Namen, Little America, mitten im ewigen Eis. Auf dem
+[00:05:47.0 - 00:05:51.4] Speaker 1: Ross-Schelf-Eis bauten sie eine Basis, die alles hatte: Funkstation, Wohnquartiere, Werkstätten.
+[00:05:52.4 - 00:05:59.2] Speaker 1: Byrd hat verstanden, dass man die Antarktis nicht besiegen kann, indem man gegen sie kämpft. Man muss lernen, in ihr zu leben, man muss sich eingraben.
+[00:06:01.6 - 00:06:02.0] Speaker 1: Und 19
+[00:06:02.6 - 00:06:13.6] Speaker 1: 29, im November, machte er es wieder. Er flog zum Südpol. Diesmal gab es weniger Zweifel, er flog über die Liftgletscher, musste Ballast abwerfen, um über die Berge zu kommen, stellt euch das mal vor. Sie flie
+[00:06:13.6 - 00:06:16.6] Speaker 1: gen auf das Polarplateau zu, die Berge ragen 3.00
+[00:06:17.5 - 00:06:27.1] Speaker 1: 0 Meter hoch auf. Das Flugzeug ist schwer, die Motoren kämpfen gegen die dünne, kalte Luft, und vor ihnen ist diese Wand aus Eis und Fels, die müssen entscheiden: Werfen wir Treibstoff oder Lebensmittel ab? W
+[00:06:27.1 - 00:06:32.6] Speaker 1: enn sie Treibstoff abwerfen, erreichen sie den Pol vielleicht nicht. Wenn sie Lebensmittel abwerfen und notlanden müssen, verhungern sie.
+[00:06:33.2 - 00:06:37.7] Speaker 1: Byrd befahl, die Notfallrationen abzuwerfen. Das ist Vertrauen in die Technik oder reines Glücksspiel.
+[00:06:38.8 - 00:06:42.4] Speaker 1: "Wir schaffen es gerade so über den Pass", den Hump nannten sie es, und dann
+[00:06:43.0 - 00:06:45.2] Speaker 1: lag es vor ihnen, das Polarplateau,
+[00:06:46.1 - 00:06:46.5] Speaker 1: unendlich
+[00:06:47.3 - 00:06:49.0] Speaker 1: weiß, tot.
+[00:06:49.9 - 00:06:55.1] Speaker 1: Als sie über den Südpol kreisten, warf Byrd eine amerikanische Flagge ab, beschwert mit einem Stein
+[00:06:55.7 - 00:06:59.1] Speaker 1: vom Grab seines Freundes Floyd Bennett, der kurz zuvor verstorben war.
+[00:06:59.8 - 00:07:02.2] Speaker 1: Das ist so eine Geste, fast schon poetisch, findet ihr nicht?
+[00:07:02.9 - 00:07:04.9] Speaker 1: Ein Stein aus der warmen Erde Amerikas,
+[00:07:05.5 - 00:07:07.5] Speaker 1: nun ewig begraben im Eis der Antarktis.
+[00:07:09.7 - 00:07:18.3] Speaker 1: Aber ich will heute nicht nur über die Triumphe sprechen, ich will über das sprechen, was danach kam, über die zweite Expedition und über das Buch, das Byrd geschrieben hat: Alone, alleine.
+[00:07:19.0 - 00:07:23.2] Speaker 1: Wenn ihr dieses Buch noch nicht gelesen habt, besorgt es euch. Es ist eines der eindring
+[00:07:24.3 - 00:07:24.7] Speaker 1: lichsten
+[00:07:25.3 - 00:07:27.7] Speaker 1: psychologischen Dokumente der Entdeckerliteratur.
+[00:07:28.5 - 00:07:32.0] Speaker 1: Wir sind im Jahr 1934, Byrd ist zurück in der Antarktis.
+[00:07:32.7 - 00:07:41.8] Speaker 1: Er ist jetzt ein weltberühmter Mann, er ist der Admiral. Er muss niemandem mehr etwas beweisen, und doch trifft er eine Entscheidung, die bis heute Historiker und Psychologen verwundert.
+[00:07:42.7 - 00:07:49.8] Speaker 1: Er beschließt, den antarktischen Winter allein in einer winzigen Hütte zu verbringen, weit weg von der Hauptbasis Little America,
+[00:07:50.6 - 00:07:50.7] Speaker 1: die
+[00:07:51.3 - 00:07:57.5] Speaker 1: Balling Advanced Weather Base. Sie lag etwa 123 Meilen südlich der Hauptbasis, mitten auf dem Schelf-Eis.
+[00:07:58.3 - 00:07:58.9] Speaker 1: Warum?
+[00:07:59.5 - 00:08:11.4] Speaker 1: Warum tut man das? Er sagte offiziell, er wollte meteorologische Daten sammeln. Das Wetter im Landesinneren unterscheidet sich stark von dem an der Küste, das stimmt auch. Aber man hätte auch zwei oder drei Män
+[00:08:11.5 - 00:08:12.2] Speaker 1: ner schicken können.
+[00:08:12.8 - 00:08:19.4] Speaker 1: Tatsächlich war die Hütte so klein, dass drei Männer sich gegenseitig umgebracht hätten vor Lagerkoller. Also entschied Byrd sich: "Ich gehe alleine."
+[00:08:20.0 - 00:08:30.4] Speaker 1: In seinem zweiten Buch schreibt er, er wolle das Mark des Lebens kosten. Er wollte die absolute Stille erleben, er wollte weg von dem Lärm, dem Ruhm, dem ständigen Fragen, der Verantwortung von Dutzenden von Männ
+[00:08:30.4 - 00:08:31.9] Speaker 1: ern. Er suchte Frieden.
+[00:08:32.7 - 00:08:43.6] Speaker 1: Stellt euch diese Hütte vor. Sie war im Grunde ein Loch im Eis, eine vorgefertigte Box, vergraben im Schnee, damit der Wind sie nicht wegbläst. Ein kleiner Raum, ein Ofen, ein Bett, ein Tisch, Regale mit Büch
+[00:08:43.6 - 00:08:45.5] Speaker 1: ern, ein paar Instrumente, und draußen die
+[00:08:46.3 - 00:08:46.9] Speaker 1: Polarnacht.
+[00:08:47.6 - 00:08:59.0] Speaker 1: Vier Monate Dunkelheit, Temperaturen, die auf -50, -60, manchmal -70 Grad fallen. Ich habe mal versucht, mir vorzustellen, wie sich diese Art von Stille anhört. Wir kennen keine Stille.
+[00:08:59.8 - 00:09:08.9] Speaker 1: Selbst wenn wir nachts im Bett liegen, hören wir den Kühlschrank surren, ein Auto in der Ferne, den Wind in den Bäumen, unseren eigenen Herzschlag. Aber in der Antarktis, wenn der Wind aufhört, da ist nich
+[00:09:09.0 - 00:09:17.5] Speaker 1: ts, absolut nichts. Es ist eine Stille, die so schwer ist, dass man sie fast greifen kann. Manche sagen, man hört das eigene Blut in den Ohren rauschen wie ein Gebirgsbach.
+[00:09:18.2 - 00:09:20.5] Speaker 1: Weil es das einzige Geräusch im Universum ist.
+[00:09:21.2 - 00:09:30.7] Speaker 1: Die ersten Wochen genoss Byrd, er hatte seine Routine: aufstehen, Instrumente ablesen, Funken kochen, lesen, schlafen. Er machte Spaziergänge in der Dunkelheit, orientierte sich an Bambusstangen, damit er sich
+[00:09:30.7 - 00:09:40.6] Speaker 1: nicht verirrte. Wenn du dich bei -60 Grad und völliger Dunkelheit auch nur 100 Meter von deiner Hütte entfernst und die Orientierung verlierst, bist du tot.
+[00:09:41.2 - 00:09:42.7] Speaker 1: Das Eis verzeiht keinen Fehler.
+[00:09:44.0 - 00:09:55.5] Speaker 1: Er beschreibt die Schönheit der Polarnacht, die Aurora Australis, diese tanzenden Vorhänge aus Licht am Himmel, die Sterne, die so hell sind, dass man fast Angst bekommt. Sie könnten herunterfallen. Es fühlt
+[00:09:55.5 - 00:09:56.5] Speaker 1: sich eins mit dem
+[00:09:58.1 - 00:10:02.5] Speaker 1: Universum an. Es klingt fast religiös, wie er das beschreibt, eine Art kosmische Harmonie.
+[00:10:03.4 - 00:10:04.7] Speaker 1: Aber dann begann der Albtraum.
+[00:10:05.3 - 00:10:16.0] Speaker 1: Er begann schleichend, sein Ofen war defekt, die Belüftung funktionierte nicht richtig. Ganz langsam füllte sich seine kleine, vergrabene Hütte mit Kohlenmonoxid. Es ist ein heimtückisches Gift, man riecht es
+[00:10:16.1 - 00:10:20.5] Speaker 1: nicht, man sieht es nicht, man wird nur müde, man bekommt Kopfschmerzen, man fühlt sich schwach.
+[00:10:21.9 - 00:10:30.5] Speaker 1: Byrd dokumentiert seinen eigenen Verfall, das ist das Unheimliche daran. Er wusste, dass etwas nicht stimmte, er wusste wahrscheinlich sogar, dass es der Ofen war. Aber er brauchte den Ofen, um nicht zu erfrier
+[00:10:30.6 - 00:10:30.7] Speaker 1: en.
+[00:10:31.2 - 00:10:33.4] Speaker 1: Es war ein teuflischer Kreislauf, Wärme gegen Gift.
+[00:10:34.3 - 00:10:34.9] Speaker 1: Im Mai 19
+[00:10:35.4 - 00:10:46.0] Speaker 1: 34 brach er fast zusammen. Er konnte kaum die Instrumente ablesen. Er musste sich auf dem Boden kriechend fortbewegen. Sein Körper versagte, und sein Geist begann, ihm Streiche zu spielen. Er hatte Halluzination
+[00:10:46.2 - 00:10:47.6] Speaker 1: en, er sah Dinge, die nicht da waren.
+[00:10:48.2 - 00:10:55.5] Speaker 1: Aber, und das zeigt den Charakter dieses Mannes, er funkte Little America nicht an, um Hilfe zu holen, er wollte seine Männer nicht gefährden.
+[00:10:56.4 - 00:11:01.7] Speaker 1: Eine Rettungsaktion mitten im antarktischen Winter, bei ständiger Dunkelheit und mörderischen Stürmen,
+[00:11:02.4 - 00:11:09.4] Speaker 1: wäre ein fast sicheres Todesurteil für das Rettungsteam gewesen, also log er, er funkte Normalität, obwohl er kaum noch die Tasten des Funkgeräts drücken konnte.
+[00:11:10.0 - 00:11:10.0] Speaker 1: Er
+[00:11:10.6 - 00:11:17.7] Speaker 1: fand Ausreden, warum seine Morsezeichen so langsam und zittrig waren. "Ich habe mir den Arm verletzt", funkte er, "oder der Generator macht Probleme."
+[00:11:18.2 - 00:11:28.3] Speaker 1: Könnt ihr euch diese Einsamkeit vorstellen? Zu wissen, dass man stirbt, alleine im Dunkeln unter dem Eis, und die einzigen Menschen, die helfen können, sind unerreichbar, weil du zu stolz bist oder zu edel b
+[00:11:28.3 - 00:11:29.0] Speaker 1: ist, sie zu rufen.
+[00:11:30.7 - 00:11:34.2] Speaker 1: Das ist eine Gratwanderung zwischen Heldentum und Wahnsinn. War es edel? Ja.
+[00:11:34.9 - 00:11:38.7] Speaker 1: Aber war es auch vernünftig? Byrd hatte eine Familie, er hatte Verantwortung.
+[00:11:39.3 - 00:11:42.4] Speaker 1: Aber in diesem Loch im Eis gelten die normalen Regeln nicht mehr.
+[00:11:43.2 - 00:11:53.2] Speaker 1: Seine Männer in Little America wurden aber erst misstrauisch. Sein Stellvertreter, der Pulter, merkte, dass die Funksprüche seltsam waren, dass Byrd nicht mehr er selbst war, und sie beschlossen, eine Rettungsaktion
+[00:11:53.3 - 00:11:58.5] Speaker 1: zu starten, gegen alle Regeln, gegen alle Vernunft. Drei Versuche brauchten sie, zweimal mussten sie w
+[00:11:59.9 - 00:12:02.3] Speaker 1: egen Schneestürmen und mechanischen Problemen umkehren.
+[00:12:03.0 - 00:12:13.1] Speaker 1: Ich stelle mir Byrd vor, wie er in seiner Hütte liegt, den Tod vor Augen, und plötzlich, eines Tages im August, sieht er ein Licht am Horizont, den Scheinwerfer eines Traktors, nach Monaten der Dunkelheit. Dies
+[00:12:13.1 - 00:12:15.2] Speaker 1: es Licht muss wie ein Engel gewirkt haben.
+[00:12:15.8 - 00:12:25.5] Speaker 1: Als Pulter und die anderen ankamen, fanden sie Byrd abgemagert, grau, kaum fähig zu stehen, aber er stand da, er hatte überlebt. Er bot ihnen Suppe an. "Komm rein, Jungs, ich habe etwas Suppe", als ob nichts
+[00:12:25.6 - 00:12:26.2] Speaker 1: gewesen wäre.
+[00:12:26.9 - 00:12:27.7] Speaker 1: Die Geschichte von der
+[00:12:28.4 - 00:12:38.6] Speaker 1: Advanced Base ist für mich der Kern von Byrds Legende. Nicht die großen Flüge, sondern dieser Kampf eines einzelnen Mannes gegen die Dämonen der Kälte und der eigenen Psyche. Er kam verändert zurück.
+[00:12:39.2 - 00:12:49.6] Speaker 1: Er war philosophischer geworden, er schrieb später, dass er dort draußen erkannt hatte, dass der Mensch nicht alleine vom Brot lebt, sondern von der Harmonie des Universums, dass all der Ehrgeiz, all der Lärm der Z
+[00:12:49.6 - 00:12:53.3] Speaker 1: ivilisation im Angesicht der Ewigkeit des Eises bedeutungslos ist.
+[00:12:55.1 - 00:13:05.2] Speaker 1: Es ist schon ironisch, dass ein Mann, der so viel für technische Eroberung der Pole getan hat, seine tiefsten Einsichten in der völligen Abwesenheit von Technik, oder zumindest beim Versagen der Technik, fand.
+[00:13:06.0 - 00:13:14.2] Speaker 1: Nach dieser Nahtoderfahrung hätte man meinen können, Byrd würde sich zur Ruhe setzen, er hatte alles erreicht, er hatte Nord- und Südpol überflogen, sagen wir mal, er ist zumindest glaubhaft versichert.
+[00:13:14.7 - 00:13:25.4] Speaker 1: Er hat den Winter alleine überlebt, was gab es noch zu tun? Aber dann kam der Krieg. Der Zweite Weltkrieg veränderte die Weltkarte erneut, und nach dem Krieg verschob sich der Fokus, der Kalte Krieg begann, und plöt
+[00:13:25.4 - 00:13:25.9] Speaker 1: zlich wurde die
+[00:13:26.6 - 00:13:27.8] Speaker 1: Antarktis strategisch
+[00:13:29.4 - 00:13:29.8] Speaker 1: wirksam
+[00:13:30.7 - 00:13:31.4] Speaker 1: und interessant.
+[00:13:32.0 - 00:13:34.9] Speaker 1: Und hier kommen wir zu Operation Highjump 19
+[00:13:35.5 - 00:13:36.1] Speaker 1: 46.
+[00:13:37.5 - 00:13:49.0] Speaker 1: Wenn die ersten Expeditionen Abenteuer waren, dann war Highjump eine Machtdemonstration. Stellt euch die Dimension vor: 4.700 Mann, 13 Schiffe, ein Flugzeugträger, ein U-Boot, zahlreiche Flugzeuge und Hub
+[00:13:49.1 - 00:13:49.5] Speaker 1: schrauber.
+[00:13:50.2 - 00:13:53.9] Speaker 1: Byrd, inzwischen fast 60 Jahre alt, wurde als nomineller Leiter eingesetzt,
+[00:13:54.4 - 00:13:57.0] Speaker 1: auch wenn die operative Führung bei der Navy lag.
+[00:13:57.8 - 00:14:03.1] Speaker 1: Das Ziel war offiziell: Training für den Kalten Krieg in einer polaren Region, Kartierung, Erforschung. Aber natürlich
+[00:14:03.7 - 00:14:09.5] Speaker 1: wucherten sofort die Gerüchte. Warum schickt man eine ganze Flotte in die Antarktis? Wen will man da bekämpfen? Pinguine?
+[00:14:10.1 - 00:14:20.5] Speaker 1: Hier beginnt der Teil der Geschichte, der ins Fantastische abgleitet. Wenn ihr heute den Namen Admiral Byrd im Internet eingebt, werdet ihr nicht sofort auf seriöse Biografien stoßen. Ihr werdet auf Websites sto
+[00:14:20.6 - 00:14:27.9] Speaker 1: ßen, die von der hohlen Erde sprechen, von Nazi-Basen im Eis, Neuschwabenland, UFOs, geheimen Zivilisationen im Erdinneren.
+[00:14:28.9 - 00:14:38.8] Speaker 1: Es gibt dieses angebliche geheime Tagebuch von Byrd, in dem er beschreibt, wie er während eines Fluges ins Innere der Erde geflogen ist, dort Mammuts und grüne Wiesen sah und von einer hochentwickelten Rasse
+[00:14:39.0 - 00:14:40.3] Speaker 1: empfangen wurde, die
+[00:14:41.5 - 00:14:42.9] Speaker 1: ihn vor Atomwaffen warnte.
+[00:14:43.6 - 00:14:53.3] Speaker 1: Ich muss euch enttäuschen oder vielleicht auch beruhigen: Dieses Tagebuch ist eine Fälschung. Es ist physikalisch unmöglich, es passt nicht zu den historischen Daten, und der Stil hat nichts mit Byrds tatsächlich
+[00:14:53.5 - 00:14:58.7] Speaker 1: em, sehr nüchternen Schreibstil zu tun. Aber warum kleben diese Mythen gerade an ihm, warum nicht an Amundsen?
+[00:14:59.2 - 00:15:03.1] Speaker 1: Ich glaube, es liegt daran, dass Byrd immer an der Grenze des Bekannten operierte. Er flog über
+[00:15:04.7 - 00:15:14.6] Speaker 1: Gebiete, die noch nie ein Mensch in Augen gesehen hatte. Das Land jenseits des Pols nannte er es manchmal poetisch. Und in unserer Fantasie wollen wir, dass da noch etwas ist. Wir ertragen den Gedanken nicht,
+[00:15:14.6 - 00:15:16.4] Speaker 1: dass die Welt komplett kartografiert, komplett
+[00:15:17.0 - 00:15:25.3] Speaker 1: entzaubert ist. Wir wollen, dass Byrd Mammuts gesehen hat, weil die Realität, eine endlose, lebensfeindliche Eiswüste, uns Angst macht oder uns langweilt.
+[00:15:26.9 - 00:15:36.3] Speaker 1: Aber zurück zur Realität von Highjump. Es war ein riesiges Unterfangen, aber auch ein riesiges Chaos. Das Wetter war furchtbar, Schiffe blieben im Packeis stecken, ein Flugzeug stürzte ab, drei Männer starb
+[00:15:36.3 - 00:15:44.8] Speaker 1: en. Es war kein Triumphzug, es war ein harter Kampf gegen die Elemente, diesmal mit schwerem Gerät. Und am Ende mussten sie die Übung früher als geplant abbrechen, weil der Winter zu früh kam.
+[00:15:45.8 - 00:15:55.7] Speaker 1: Byrd warnte nach seiner Rückkehr in einem Interview davor, dass die USA in Zukunft darauf vorbereitet sein müsste, über die Pole angegriffen zu werden. Flugzeuge könnten von Pol zu Pol fliegen. Das war eine re
+[00:15:55.8 - 00:15:59.6] Speaker 1: alistische, militärische Einschätzung in Zeiten von Langstreckenbombern.
+[00:16:00.2 - 00:16:09.6] Speaker 1: Aber die Verschwörungstheoretiker machten daraus: "Wir wurden von Flugscheiben aus der Antarktis angegriffen." So entstanden Legenden. Aus einem Satz wird ein ganzer Mythos.
+[00:16:10.4 - 00:16:13.7] Speaker 1: Dennoch: Byrds Rolle bei Highjump war mehr als die eines Symbols.
+[00:16:14.2 - 00:16:25.1] Speaker 1: Er war das Angesicht der Antarktis für die amerikanische Öffentlichkeit. Er war der Eiskönig. In den 50er Jahren kehrte er ein letztes Mal zurück, Operation Deep Freeze. Da war er schon ein alter Mann, er starb 19
+[00:16:25.7 - 00:16:35.6] Speaker 1: 57, kurz nachdem er von seiner letzten Reise zurückgekehrt war. Er starb im Schlaf in seinem Bett in Boston. Ironisch, oder? Nach all den Gefahren, nach Flugzeugabstürzen, Kohlenmonoxid, Gletscherspalten, St
+[00:16:35.6 - 00:16:39.0] Speaker 1: ürmen und so weiter, stirbt er einfach friedlich zu Hause.
+[00:16:41.6 - 00:16:52.3] Speaker 1: Was also bleibt von Richard E. Byrd? Wenn wir heute auf die Antarktis schauen, sehen wir moderne Forschungsstationen. Die Amundsen-Scott-Südpolstation ist wie eine Raumstation auf dem Eis. Menschen leben dort
+[00:16:52.3 - 00:17:01.1] Speaker 1: das ganze Jahr über. Es gibt Internet, Fitnessräume, Gewächshäuser. Die Isolation, die Byrd in der Advanced Base erlebte, gibt es heute kaum noch. Wir sind immer vernetzt.
+[00:17:01.7 - 00:17:12.4] Speaker 1: Aber Byrd war derjenige, der die Tür aufgestoßen hat. Er hat gezeigt, dass man dort dauerhaft leben kann, wenn man die richtige Logistik hat. Er hat die Luftfahrt zum Standmittel der Polarforschung gemacht. Oh
+[00:17:12.4 - 00:17:14.8] Speaker 1: ne ihn wüssten wir heute viel weniger über das Ozonloch,
+[00:17:15.4 - 00:17:15.5] Speaker 1: über
+[00:17:16.3 - 00:17:22.1] Speaker 1: das Klimaarchiv im Eis, über die Meteoriten, die man dort findet. Ich finde aber, sein größtes Vermä
+[00:17:22.9 - 00:17:28.4] Speaker 1: chtnis ist nicht wissenschaftlich, es ist philosophisch. Es ist das, was er in "Alone" geschrieben hat.
+[00:17:29.0 - 00:17:36.7] Speaker 1: Wisst ihr, ich habe mir mal eine Passage rausgeschrieben, die ich euch vorlesen möchte, oder zumindest sinngemäß wiedergeben. Er sitzt da in seiner Hütte,
+[00:17:37.3 - 00:17:47.7] Speaker 1: die Kälte drückt gegen die Wände, und er schreibt über den Glauben, er schreibt, dass er in dieser Einsamkeit verstanden hat, dass das Universum nicht tot ist, dass es nicht nur eine zufällige Ansammlung von Atomen
+[00:17:47.8 - 00:17:55.4] Speaker 1: ist, dass es einen Rhythmus gibt, eine Ordnung, und dass der Mensch Teil dieser Ordnung ist. "Ich bin nicht allein", schreibt er sinngemäß, "denn die Einsamkeit ist eine Illusion."
+[00:17:56.0 - 00:18:05.7] Speaker 1: Das sagt ein Mann, der physisch einsamer war als jeder andere Mensch in der Geschichte. Das ist doch tröstlich, oder? In einer Welt, in der wir uns heute oft isoliert fühlen, trotz aller unserer sozialen Medien
+[00:18:05.8 - 00:18:10.6] Speaker 1: und Verbindungen, lehrt Byrd uns, dass wahre Verbindung von innen kommt. Man muss Frieden finden,
+[00:18:11.5 - 00:18:11.9] Speaker 1: selbst wenn
+[00:18:13.3 - 00:18:17.0] Speaker 1: um einen herum der Sturm tobt und das Thermometer auf -60 fällt.
+[00:18:17.6 - 00:18:21.6] Speaker 1: Natürlich war er kein Heiliger, er war ein Mann mit Ecken und Kanten. Er hat sich mit Kolle
+[00:18:22.4 - 00:18:25.7] Speaker 1: gen zerstritten, er hat Fakten vielleicht manchmal zu seinen Gunsten gedreht.
+[00:18:27.0 - 00:18:32.3] Speaker 1: Er war ein Produkt seiner Zeit und seiner Klasse, ein privilegierter Offizier, der es gewohnt war, Befehle zu geben.
+[00:18:33.1 - 00:18:42.6] Speaker 1: Aber ich glaube, die Antarktis hat ihn demütig gemacht. Man kann nicht arrogant bleiben, wenn man vor einem Eisberg steht, der so groß ist wie eine Stadt. Man kann sich nicht für den Größten halten, wenn der Wind
+[00:18:42.8 - 00:18:42.8] Speaker 1: einen
+[00:18:44.5 - 00:18:45.9] Speaker 1: umwirft wie eine Spielzeugfigur.
+[00:18:46.4 - 00:18:46.8] Speaker 1: Die Natur
+[00:18:47.8 - 00:18:49.0] Speaker 1: rückt die Verhältnisse zurecht.
+[00:18:50.8 - 00:18:52.3] Speaker 1: Ich denke oft darüber nach, wie es sich
+[00:18:53.0 - 00:18:56.2] Speaker 1: anfühlt, wie er sich fühlen würde, wenn er die Antarktis heute sehen würde.
+[00:18:56.7 - 00:19:02.2] Speaker 1: Die Touristenkreuzfahrten, die Wissenschaftler, die in beheizten Modulen sitzen, würde er es als Fortschrit
+[00:19:03.0 - 00:19:06.4] Speaker 1: t sehen, oder würde er die Wildheit vermissen, das Unbekannte?
+[00:19:10.0 - 00:19:19.7] Speaker 1: Es gibt da eine Geschichte, eine kleine Anekdote, die vielleicht nicht wahr ist, aber sie passt so gut. Man sagt, dass Byrd auf seinen späteren Reisen oft stundenlang an der Reling stand und einfach nur auf das Eis
+[00:19:19.9 - 00:19:29.2] Speaker 1: starrte. Nicht auf die Karten, nicht auf die Instrumente, sondern einfach nur auf das Weiß, als ob er dort draußen etwas gelassen hätte, das er zurückholen wollte. Vielleicht seinen Frieden,
+[00:19:29.9 - 00:19:32.9] Speaker 1: vielleicht seine Jugend oder vielleicht einfach Klarheit des Überlebens.
+[00:19:33.6 - 00:19:40.3] Speaker 1: Wir leben heute in einer sehr komplexen Welt, alles ist grau, nuanciert, kompliziert. In der Antarktis gibt es nur Weiß oder Schwarz oder Blau.
+[00:19:40.9 - 00:19:47.0] Speaker 1: Es gibt das Leben oder Tod, warm oder kalt. Diese Einfachheit hat eine unglaubliche Anziehungskraft. Das ist es, was Abenteuer immer
+[00:19:48.4 - 00:19:51.0] Speaker 1: gesucht haben: die Reduktion auf das Wesentliche.
+[00:19:51.8 - 00:19:54.6] Speaker 1: Byrd hat uns gezeigt, was das Wesentliche ist.
+[00:19:55.2 - 00:20:01.1] Speaker 1: Nicht der Ruhm, nicht die Medaillen, sondern die Fähigkeit, mit sich selbst im Reinen zu sein, wenn das Licht ausgeht.
+[00:20:01.9 - 00:20:11.2] Speaker 1: Vielleicht sollten wir alle mal versuchen, unsere eigene Advanced Base zu finden. Es muss ja kein Loch im Eis sein, aber ein Ort, an dem wir den Stecker ziehen oder wo wir den Lärm ausschalten, wo wir einf
+[00:20:11.3 - 00:20:17.5] Speaker 1: ach nur zuhören. Und was hören wir denn dann? Unsere Ängste? Unsere Hoffnungen? Oder vielleicht, wenn wir Glück haben,
+[00:20:18.0 - 00:20:20.5] Speaker 1: diese kosmische Harmonie, von der Byrd sprach?
+[00:20:23.6 - 00:20:23.9] Speaker 1: Lassen wir
+[00:20:25.1 - 00:20:35.5] Speaker 1: die Verschwörungstheorien mal ganz beiseite, vergessen wir die hohle Erde und die Flugscheiben. Die wahre Geschichte ist viel spannender, die Geschichte eines Mannes, der die Grenzen der Technik und des menschlichen
+[00:20:35.8 - 00:20:37.1] Speaker 1: Geistes ausgetestet hat.
+[00:20:37.7 - 00:20:41.7] Speaker 1: Ich finde es auch bemerkenswert, wie sehr sich die Rolle des Entdeckers gewandelt hat.
+[00:20:43.6 - 00:20:45.2] Speaker 1: Zu Byrds Zeiten waren Entdecker National
+[00:20:45.7 - 00:20:54.0] Speaker 1: helden, fast wie Astronauten später. Heute, wer kennt heute noch die Namen der Leute, die in der Antarktis forschen? Es ist Routine geworden, das ist der Preis des Erfolgs.
+[00:20:54.5 - 00:21:00.3] Speaker 1: Byrd hat das Außergewöhnliche gewöhnlich gemacht. Er hat den Weg geebnet, damit andere folgen können, ohne ihr Leben zu riskieren.
+[00:21:01.0 - 00:21:09.6] Speaker 1: Aber es gibt da noch einen Aspekt, über den ich nachdenken muss: Das Eis schmilzt. Die Antarktis verändert sich. Das, was Byrd als ewig beschrieb, ist fragil geworden.
+[00:21:10.1 - 00:21:14.9] Speaker 1: Wenn wir seine Berichte lesen, lesen wir über eine Welt, die es so vielleicht bald nicht mehr geben wird.
+[00:21:15.4 - 00:21:27.1] Speaker 1: Die Schelfeiße brechen ab, die Temperaturen steigen. Byrd sah das Eis als Gegner, als majestätische, unbezwingbare Kraft. Wir müssen heute lernen, es als Patienten zu sehen, als etwas Schützenswertes.
+[00:21:28.7 - 00:21:32.5] Speaker 1: Er war auch einer der Ersten, der den Naturschutz in diesen Regionen ansprach, wenn
+[00:21:33.2 - 00:21:35.5] Speaker 1: auch aus einer anderen Perspektive.
+[00:21:36.0 - 00:21:47.3] Speaker 1: Er sah die Schönheit und wollte sie bewahren. Er wollte nicht, dass die Antarktis zu einem Schlachtfeld wird oder zu einer Bergbaukolonie. Der Antarktisvertrag, der 1961 in Kraft trat und den Kontinent zu einem Ort
+[00:21:47.5 - 00:21:51.5] Speaker 1: des Friedens und der Wissenschaft erklärte, ist ganz im Geiste Byrds. Auch
+[00:21:52.2 - 00:21:54.7] Speaker 1: wenn er ihn nicht mehr miterlebte, so hat er seine Arbeit do
+[00:21:55.6 - 00:21:55.6] Speaker 1: ch
+[00:21:57.5 - 00:21:58.8] Speaker 1: den Grundstein dafür gelegt.
+[00:21:59.7 - 00:22:01.1] Speaker 1: Kooperation statt Konfr
+[00:22:02.0 - 00:22:02.4] Speaker 1: ontation.
+[00:22:02.9 - 00:22:03.8] Speaker 1: Denn im Eis kann man
+[00:22:04.4 - 00:22:08.7] Speaker 1: nicht gegeneinander kämpfen. Das Eis gewinnt immer. Man muss zusammenarbeiten.
+[00:22:09.9 - 00:22:10.4] Speaker 1: Wisst ihr,
+[00:22:11.2 - 00:22:11.5] Speaker 1: manchm
+[00:22:13.0 - 00:22:15.3] Speaker 1: al, wenn ich mir alte Filmaufnahmen von deiner
+[00:22:16.1 - 00:22:17.3] Speaker 1: Expedition ansehe,
+[00:22:17.9 - 00:22:29.5] Speaker 1: diese griseligen Schwarz-Weiß-Bilder, dann achte ich auf die Hunde, die Schlittenhunde. Wir reden viel über Flugzeuge, aber ohne die Hunde wäre auch Byrd aufgeschmissen gewesen. Es gab Momente, in denen die
+[00:22:29.7 - 00:22:34.1] Speaker 1: Motoren versagten, und dann waren es die Huskies, die die Last zogen. Es ist
+[00:22:34.6 - 00:22:37.9] Speaker 1: dieses Zusammenspiel, die modernste Technik der 1930er Jahre
+[00:22:38.6 - 00:22:48.0] Speaker 1: und dieälteste Fortbewegungsmethode der Welt: das Flugzeug und der Hund. Der Propeller und die Pfoten, das ist Byrd, ein Fuß in der Zukunft, ein Fuß in der Tradition.
+[00:22:49.3 - 00:23:00.2] Speaker 1: Es gibt eine Szene in "Alone", wie er beschreibt, wie er bei -70 Grad draußen steht und den Sternenhimmel beobachtet. Er sagt, er fühlte sich wie auf einem anderen Planeten, und im Grunde war er das auch. Die
+[00:23:00.4 - 00:23:07.5] Speaker 1: Antarktis ist wie ein anderer Planet. Sie ist der Mars, nur mit Sauerstoff und viel kälter. Die NASA testet heute dort
+[00:23:09.8 - 00:23:10.9] Speaker 1: Raumanzüge und Rover.
+[00:23:11.6 - 00:23:14.4] Speaker 1: Byrd war also in gewisser Weise dererste Astronaut, lange
+[00:23:15.1 - 00:23:17.5] Speaker 1: bevor Gagarin oder Armstrong abhoben.
+[00:23:18.2 - 00:23:19.3] Speaker 1: Er war ein Terranaut.
+[00:23:20.6 - 00:23:24.1] Speaker 1: Ich frage mich oft, was er wohl gedacht hat, als er daserste Mal über das
+[00:23:24.7 - 00:23:25.3] Speaker 1: transantarkt
+[00:23:28.0 - 00:23:29.0] Speaker 1: ische Gebirge flog.
+[00:23:29.6 - 00:23:31.1] Speaker 1: Niemand wusste, was dahinter liegt.
+[00:23:32.0 - 00:23:34.2] Speaker 1: Vielleicht ein warmes Tal, ein riesiger See.
+[00:23:34.9 - 00:23:36.0] Speaker 1: Es gab ja Theorien.
+[00:23:36.8 - 00:23:37.6] Speaker 1: Aber da war nur
+[00:23:38.1 - 00:23:40.5] Speaker 1: mehr Eis. Mehr Weiß, mehr Nichts.
+[00:23:41.8 - 00:23:45.9] Speaker 1: Muss das nicht enttäuschend gewesen sein, oder war es erhaben?
+[00:23:46.5 - 00:23:50.6] Speaker 1: Ich glaube, für Byrd war das Nichts nie leer gewesen, es war voll von Bedeutung.
+[00:23:51.2 - 00:23:55.6] Speaker 1: Es war eine leere Leinwand, auf die er seinen Willen projizieren konnte.
+[00:23:56.3 - 00:24:00.7] Speaker 1: Und denk mal an seine Frau Marie. Sie saß zu Hause in Boston, monatelang, jahrelang,
+[00:24:01.3 - 00:24:11.6] Speaker 1: wusste nicht, ob er lebt oder tot ist. Funkkontakt war sporadisch und auch wochenlang unterbrochen. Was für eine Stärke muss sie gehabt haben? Hinter jedem großen Entdecker steht meistens jemand, der zu Hause
+[00:24:11.7 - 00:24:16.4] Speaker 1: die Stellung hält und die Rechnungen bezahlt oder die Kinder erzieht, während der Held im Eis spielt.
+[00:24:17.5 - 00:24:20.3] Speaker 1: Byrd benannte ein Land nach ihr: Mary Birdland.
+[00:24:21.1 - 00:24:23.5] Speaker 1: Ein riesiges Gebiet, größer als Frankreich.
+[00:24:24.3 - 00:24:27.9] Speaker 1: Aber ist das ein guter Tausch? Ein Stück Eis gegen Jahre der Abwesenheit?
+[00:24:28.9 - 00:24:33.2] Speaker 1: Das sind die menschlichen Kosten der Entdeckung. Wir sehen die Statuten und die Landkarten,
+[00:24:34.3 - 00:24:38.2] Speaker 1: aber wir sehen nicht die leeren Stühle am Abendbrottisch. Byrd war sich dessen bewusst.
+[00:24:38.8 - 00:24:40.1] Speaker 1: In seinen späteren Jahren sp
+[00:24:41.2 - 00:24:42.8] Speaker 1: rach er oft liebevoll von seiner Familie.
+[00:24:43.3 - 00:24:47.3] Speaker 1: Vielleicht war die Advanced Base auch der Moment, wo er begriff, was er zu Hause hatte.
+[00:24:48.3 - 00:24:51.1] Speaker 1: Manchmal muss man sehr weit gehen, um zu sehen, was direkt
+[00:24:51.8 - 00:24:52.7] Speaker 1: vor der Nase liegt.
+[00:24:56.5 - 00:24:56.7] Speaker 1: So,
+[00:24:57.4 - 00:25:00.8] Speaker 1: wir nähern uns langsam dem Ende unserer kleinen Reise durch das Eis.
+[00:25:01.7 - 00:25:06.5] Speaker 1: Wir haben über Flugzeuge gesprochen, über Einsamkeit, über Verschwörungen und über die Stille.
+[00:25:07.3 - 00:25:16.7] Speaker 1: Aber es gibt da noch eine Sache, die ich erwähnen möchte: den Mut zum Scheitern. Wir feiern Byrd als Erfolgsmenschen, aber seine Karriere war gepflastert mit Beinahe-Katastrophen.
+[00:25:17.2 - 00:25:29.0] Speaker 1: Die Fokker beim Nordpolflug hatte ein Ölleck, die Amerika beim Transatlantikflug stürzte ins Meer. In der Advanced Base wäre er fast gestorben, bei Highjump verlor er Männer und Material. Byrd war kein Perfek
+[00:25:29.2 - 00:25:35.0] Speaker 1: tionist, bei dem alles glatt lief. Er war ein Improvisateur. Er war jemand, der weitermachte, wenn die Dinge schiefgehen.
+[00:25:35.6 - 00:25:38.8] Speaker 1: Und Dinge gehen immer schief, wenn man die Komfortzone verlässt.
+[00:25:39.7 - 00:25:49.4] Speaker 1: Und das ist vielleicht die wichtigste Lektion, die wir von ihm lernen können: nicht, dass wir alle zum Südpol fliegen sollen, sondern dass wir keine Angst davor haben sollen, Dinge zu wagen, bei denen der Aus
+[00:25:49.4 - 00:25:55.3] Speaker 1: gang ungewiss ist. Dass wir akzeptieren, dass Scheitern eine Option ist, aber dass Aufgeben keine ist.
+[00:25:55.9 - 00:25:58.9] Speaker 1: Als er 1957 starb, schrieb die New York Times,
+[00:25:59.4 - 00:26:03.5] Speaker 1: er sei der letzte der großen Entdecker gewesen. In gewisser Weise stimmt das.
+[00:26:04.1 - 00:26:07.0] Speaker 1: Nach ihm kamen die Wissenschaftler, die Touristen, die Bürokraten.
+[00:26:07.6 - 00:26:11.9] Speaker 1: Die Ära der weißen Flecken auf der Landkarte war vorbei, Byrd hat sie ausgemalt.
+[00:26:12.5 - 00:26:20.8] Speaker 1: Er hat uns eine Welt hinterlassen, die kleiner geworden ist, aber auch verständlicher. Ich habe vorhin gesagt, ich stelle ihn mir am Fenster stehen vor. Ich glaube, jeder von uns
+[00:26:21.4 - 00:26:27.3] Speaker 1: hat ein bisschen was von Byrd in sich. Dieser Drang zu wissen, was hinter dem nächsten Hügel ist, was hinter dem Horizont liegt.
+[00:26:27.9 - 00:26:31.6] Speaker 1: Dieser kleine Funke Unruhe, der uns nicht stillsitzen lässt.
+[00:26:32.3 - 00:26:38.3] Speaker 1: Bei den meisten von uns äußert sich das vielleicht darin, dass wir eine neue Sprache lernen oder einen neuen Job anfangen oder einfach
+[00:26:38.9 - 00:26:47.1] Speaker 1: mal einen anderen Weg zur Arbeit nehmen. Bei Byrd äußert es sich darin, dass er Schiffe packte und ans Ende der Welt segelte, aber der Impuls ist derselbe:
+[00:26:47.6 - 00:26:48.1] Speaker 1: Neugier.
+[00:26:48.7 - 00:26:49.3] Speaker 1: Und vielleicht
+[00:26:50.2 - 00:26:51.5] Speaker 1: auch die Suche nach sich selbst.
+[00:26:52.5 - 00:26:56.8] Speaker 1: Wir definieren uns oft darüber, was wir tun, was wir besitzen, wen wir kennen.
+[00:26:57.5 - 00:27:00.2] Speaker 1: Aber wer wir sind, wenn das alles wegfällt?
+[00:27:01.0 - 00:27:04.8] Speaker 1: Darüber reden wir nicht. Wer sind wir in der Dunkelheit der Polarnacht?
+[00:27:06.0 - 00:27:13.1] Speaker 1: Byrd fand darauf eine Antwort. Er fand heraus, dass er stark genug war, um nicht zu zerbrechen, aber auch zerbrechlich genug, um Hilfe zu brauchen.
+[00:27:13.7 - 00:27:22.6] Speaker 1: Wenn ihr heute Abend rausgeht und es ist vielleicht kalt und dunkel, dann schaut mal kurz in den Himmel, sucht den Polarstern oder, wenn ihr im Süden seid, das Kreuz des Südens.
+[00:27:23.4 - 00:27:29.1] Speaker 1: Und denkt an Richard Evelyn Byrd, der Mann im Pelzparker, den Admiral des Eises.
+[00:27:29.9 - 00:27:41.5] Speaker 1: Denkt an die Stille in seiner kleinen Hütte unter dem Schnee und daran, dass selbst in der tiefsten Kälte, in der dunkelsten Nacht, immer noch ein Funke Menschlichkeit glüht, solange wir nicht aufgeben, solange w
+[00:27:41.5 - 00:27:44.6] Speaker 1: ir den Ofen am Brennen halten, auch wenn er qualmt.
+[00:27:46.6 - 00:27:49.6] Speaker 1: Ich danke euch fürs Zuhören. Es war mir eine Freude,
+[00:27:50.1 - 00:27:53.0] Speaker 1: diese Gedanken mit euch zu teilen. Es ist ein riesiges Thema.
+[00:27:54.5 - 00:27:58.9] Speaker 1: Wir haben nur an der Oberfläche gekratzt, wie ein Eispickel auf einem Gletscher.
+[00:27:59.6 - 00:28:06.6] Speaker 1: Aber vielleicht hat es euch auch angeregt, mal wieder selbst ein Buch über die alten Entdecker an die Hand zu nehmen oder einfach mal die Stille zu genießen.
+[00:28:07.7 - 00:28:15.4] Speaker 1: Also zieht euch warm an, die Welt da draußen ist kalt, aber sie ist auch wunderschön. Und beim nächsten Mal: Passt auf euch auf und bleibt neugierig.
+[00:28:18.2 - 00:28:18.9] Speaker 1: Ach, wisst ihr was?
+[00:28:20.0 - 00:28:26.4] Speaker 1: Ich habe da noch ein paar Minuten. Und mir fällt gerade auch noch was ein, was ich fast vergessen hätte, was aber eigentlich perfekt passt.
+[00:28:27.1 - 00:28:31.9] Speaker 1: Es geht um die Hunde. Ich habe sie ja vorhin einmal ganz kurz erwähnt, aber ich muss da noch mal drauf zurückkommen.
+[00:28:33.3 - 00:28:37.1] Speaker 1: Es gibt da diese Geschichten von Iglo. Iglo war Byrds Foxterrier.
+[00:28:37.8 - 00:28:48.4] Speaker 1: Kein Husky, ein kleiner, drahtiger Foxterrier. Er war auf den Expeditionen dabei. Stellt euch das vor: ein kleiner Hund, der eigentlich in einen englischen Garten gehört, rennt in der Antarktis herum. Byrd hat
+[00:28:48.4 - 00:28:51.8] Speaker 1: ihm sogar spezielle Mäntel und Schuhe anfertigen lassen, damit er nicht erfriert.
+[00:28:52.4 - 00:28:58.7] Speaker 1: Warum erzähle ich das? Weil es zeigt, wie sehr Byrd versucht hat, ein Stück Normalität, ein Stück Heimat mitzunehmen.
+[00:28:59.9 - 00:29:01.3] Speaker 1: Iglo war sein Begleiter,
+[00:29:01.8 - 00:29:02.5] Speaker 1: sein Freund.
+[00:29:03.1 - 00:29:06.2] Speaker 1: Wenn Byrd in seinen Aufzeichnungen über Iglo schreibt,
+[00:29:06.8 - 00:29:08.3] Speaker 1: wird seine Sprache ganz weich.
+[00:29:09.1 - 00:29:11.8] Speaker 1: Er hatte Angst um ihn, wenn er zu lange draußen war.
+[00:29:12.4 - 00:29:14.1] Speaker 1: Er trauerte um ihn, als er starb.
+[00:29:15.2 - 00:29:18.7] Speaker 1: Iglo ist auch eine Legende. Es gibt sogar Bücher über ihn.
+[00:29:19.5 - 00:29:22.0] Speaker 1: Iglo, der Hund, der mit Byrd zum Nordpol flog.
+[00:29:23.6 - 00:29:28.3] Speaker 1: Das macht die ganze harte, fast unmenschliche Geschichte der Polarforschung plötzlich so
+[00:29:29.6 - 00:29:31.0] Speaker 1: nahbar. Es menschelt.
+[00:29:32.0 - 00:29:41.2] Speaker 1: Und genau das ist es, was Byrd für mich ausmacht. Er war kein Übermensch aus Stahl. Er war ein Mann, der seinen Hund liebte, der Angst hatte, der fror, der Fehler machte und der trotzdem Dinge tat, die unmög
+[00:29:41.3 - 00:29:44.2] Speaker 1: lich schienen. Es erinnert mich daran, dass Geschichte nicht von
+[00:29:45.1 - 00:29:50.9] Speaker 1: Statuen gemacht wird, sondern von Menschen aus Fleisch und Blut. Menschen, die kalte Füße bekommen und die ihre Haustiere vermissen.
+[00:29:51.5 - 00:29:57.7] Speaker 1: Wenn man Bilder von Byrd sieht, schaut er oft sehr ernst, sehr militärisch. Aber wenn man genau hinsieht in die Augen,
+[00:29:58.3 - 00:29:59.4] Speaker 1: da ist oft ein Staunen.
+[00:30:00.4 - 00:30:03.7] Speaker 1: Ein fast kindliches Staunen über die Welt. Und ich glaube,
+[00:30:04.3 - 00:30:06.4] Speaker 1: dieses Staunen dürfen wir nie verlieren.
+[00:30:07.2 - 00:30:14.6] Speaker 1: Egal, wie alt wir werden, egal, wie wir, wie viel wir schon gesehen haben: Die Welt ist immer noch voller Wunder.
+[00:30:15.8 - 00:30:20.4] Speaker 1: Vielleicht gibt es keine unentdeckten Kontinente mehr, aber es gibt immer noch unentdeckte Perspektiven,
+[00:30:21.2 - 00:30:23.0] Speaker 1: neue Wege, die alten Dinge zu sehen.
+[00:30:23.5 - 00:30:28.4] Speaker 1: So wie Byrd das Eis sah. Nicht als leeren Raum, sondern als Kathedrale, als Prüfstein.
+[00:30:31.1 - 00:30:34.7] Speaker 1: In diesem Sinne: Jetzt mache ich aber wirklich Schluss.
+[00:30:35.3 - 00:30:36.4] Speaker 1: Mein Tee ist kalt geworden.
+[00:30:37.3 - 00:30:42.7] Speaker 1: Und das würde Byrd sicher nicht gut heißen. Warme Getränke sind wichtig fürs Überleben, hat er gesagt.
+[00:30:43.6 - 00:30:43.8] Speaker 1: Also
+[00:30:45.8 - 00:30:46.4] Speaker 1: macht's gut
+[00:30:48.2 - 00:30:49.1] Speaker 1: und denkt an Iglo,
+[00:30:50.5 - 00:30:52.9] Speaker 1: den kleinen Terrier im großen Eis.
+[00:30:54.7 - 00:30:55.0] Speaker 1: Tschüss.
+[00:30:57.4 - 00:30:57.8] Speaker 1: Ach so,
+[00:30:59.9 - 00:31:01.6] Speaker 1: fasse dich das Mikrofon schon ausgeschaltet.
+[00:31:02.3 - 00:31:02.5] Speaker 1: Aber
+[00:31:03.7 - 00:31:04.0] Speaker 1: ja.
+[00:31:05.4 - 00:31:06.4] Speaker 1: Ach, und falls
+[00:31:06.9 - 00:31:07.4] Speaker 1: einer von euch
+[00:31:08.6 - 00:31:13.5] Speaker 1: "Alone" liest: Achtet mal auf die Stelle mit dem Dominospiel.
+[00:31:14.2 - 00:31:14.6] Speaker 1: Er spielt
+[00:31:15.9 - 00:31:16.9] Speaker 1: alleine Domino,
+[00:31:17.6 - 00:31:19.1] Speaker 1: um seinen Verstand zu schärfen.
+[00:31:20.0 - 00:31:21.7] Speaker 1: Das Bild: ein Mann
+[00:31:22.5 - 00:31:23.5] Speaker 1: vergraben im Eis,
+[00:31:24.8 - 00:31:29.4] Speaker 1: der gegen sich selbst Domino spielt, während draußen der Schneesturm heult.
+[00:31:30.3 - 00:31:31.0] Speaker 1: Das ist für mich
+[00:31:34.6 - 00:31:41.7] Speaker 1: das ultimative Bild der menschlichen Existenz. Wir spielen unser Spiel, wir versuchen, Regeln zu finden, während um uns
+[00:31:42.4 - 00:31:47.2] Speaker 1: herum das Chaos tobt. Und irgendwie, irgendwie gewinnen wir doch, solange wir weiterspielen.
+[00:31:48.0 - 00:31:48.2] Speaker 1: Okay,
+[00:31:49.0 - 00:31:52.3] Speaker 1: jetzt ist aber wirklich Schluss. Alles Gute für euch. Tschüss.

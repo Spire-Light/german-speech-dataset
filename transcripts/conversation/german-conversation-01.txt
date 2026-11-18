@@ -1,0 +1,159 @@
+German Dialogue 01
+Language: German
+Duration: 00:25:06.0
+Speakers: 2
+Machine transcription: ElevenLabs Scribe v2, word-level timestamps (see transcript.json). Not human-reviewed.
+
+[00:00:01.7 - 00:00:06.0] Speaker 2: Hallo, guten Tag, willkommen im Arbeitsamt Dresden. Wie kann ich Ihnen helfen?
+[00:00:07.4 - 00:00:11.1] Speaker 1: Ja, guten Tag. Ähm, ja, nun leider
+[00:00:12.2 - 00:00:17.6] Speaker 1: bin ich jetzt, äh, mit 55 Jahren, äh, arbeitslos, äh, geworden und, äh,
+[00:00:18.6 - 00:00:20.7] Speaker 1: hab meinen Job bei einer Softwarefirma
+[00:00:22.1 - 00:00:27.5] Speaker 1: leider verloren. Und ja, da will ich natürlich, äh, schauen, ob ich da eventuell andere Optionen
+[00:00:28.7 - 00:00:33.1] Speaker 1: wahrnehmen kann und wollte Sie dann um Rat fragen, was denn da möglich wäre.
+[00:00:35.2 - 00:00:47.0] Speaker 2: Ja, also erst mal tut es mir natürlich sehr leid, dass Sie Ihren Job verloren haben. Ähm, aber gut, dann können wir Ihnen natürlich, ähm, auf dem, weiter auf 'm Weg helfen.
+[00:00:47.2 - 00:00:58.8] Speaker 2: Ähm, und erst mal würde ich Sie dann nach Ihrem Hintergrund fragen, ähm, was Sie denn so, ähm, von früh auf studiert haben, wo Ihr Weg im Berufsleben Sie entlanggeführt hat.
+[00:00:58.9 - 00:01:07.0] Speaker 2: Und, ähm, ja, damit wir dann 'n bisschen Backgroundcheck machen können und auch wissen, für was für Stellen wir Sie später vorschlagen können.
+[00:01:08.2 - 00:01:15.3] Speaker 1: Also gut, ja, ich hab in England studiert und bin dort auch, äh, Rechtsanwalt, also nach englischem Recht geworden.
+[00:01:16.3 - 00:01:23.9] Speaker 1: Also hab das Kapitalmarktrecht, Unternehmensrecht und dann auch Investmentfondsrecht praktiziert. Das Letztere auch auf den
+[00:01:24.8 - 00:01:28.5] Speaker 1: Kaimaninseln, wo ich auch als Anwalt zugelassen wurde. Und, äh,
+[00:01:29.7 - 00:01:30.2] Speaker 1: ja, dann
+[00:01:31.1 - 00:01:38.1] Speaker 1: ging das zu Ende und da hatte ich mein eigenes Geschäft aufgemacht, äh, mit dem Import von Acrylprodukten.
+[00:01:39.1 - 00:01:47.6] Speaker 1: Das ist dann leider durch COVID in die Brüche gegangen, weil diese, äh, Speditionsfirmen dann das Zehnfache für die Transporte von China verlangt hatten.
+[00:01:48.8 - 00:01:59.6] Speaker 1: Und ja, dann musste ich, äh, so eigentlich neu anfangen und bin dann bei, äh, Sales, äh, eingestiegen als Sales Development Representative bei 'ner amerikanischen
+[00:02:00.5 - 00:02:03.5] Speaker 1: Firma im Human Resources Bereich. Und da,
+[00:02:05.0 - 00:02:05.3] Speaker 1: ja,
+[00:02:06.3 - 00:02:15.0] Speaker 1: bin ich also ein Jahr gewesen. Dann ging das weiter mit Sales, äh, Development und Business Development und so. Da war ich jetzt bei einer deutschen
+[00:02:16.0 - 00:02:19.6] Speaker 1: Firma und, äh, die haben mich dann nach sechs Monaten abserviert, ja.
+[00:02:21.3 - 00:02:33.7] Speaker 2: Okay, Sie haben also schon einen guten, soliden, ähm, Background, besonders mit Ihrem Studium und Ihrem, ja, Expertenwissen, was, ähm, die Rechtswelt angeht.
+[00:02:33.8 - 00:02:48.3] Speaker 2: Das wird auf jeden Fall, ähm, bei uns zu vielen möglichen Positionen führen. Ähm, Sie sagten, dass Sie auch schon im Sales-Bereich gearbeitet haben und dadurch sehe ich schon, dass Sie hier, ähm, ja, sehr vielfältig sind.
+[00:02:48.8 - 00:03:09.3] Speaker 2: Ähm, dennoch funktioniert nicht jede Stellung für jeden. Und dann würde ich jetzt die, ähm, subjektive, ähm, Frage stellen: Ähm, von diesen ganzen Berufen, die Sie jetzt erlebt haben und, ähm, äh, praktiziert haben, gibt es da einen oder mehrere, die Sie besonders
+[00:03:09.3 - 00:03:15.3] Speaker 2: gerne gemacht haben? Und auch die Gegenfrage, die Sie wirklich nicht wieder machen möchten?
+[00:03:16.2 - 00:03:18.8] Speaker 1: Nein, eigentlich nicht. Also alles sehr ungern gemacht.
+[00:03:20.5 - 00:03:33.8] Speaker 1: Aber wenn ich denn wählen sollte, wahrscheinlich so den Rechtsanwaltjob auf den Kaimaninseln. Aber hier in Deutschland gibt es ja eigentlich null Chance, dass ich als kaimanischer Investmentfonds-Anwalt irgendwelche
+[00:03:34.6 - 00:03:40.4] Speaker 1: Klienten, äh, Sachen bearbeiten könnte. Von daher wird das wohl keine Option sein.
+[00:03:41.8 - 00:03:50.3] Speaker 2: Gut, lassen S..., ähm, Sie uns das schon so darstellen, dass, ähm, es immer eine Option ist. Also manchmal haben wir hier, ähm,
+[00:03:51.5 - 00:04:04.0] Speaker 2: ähm, Jobs, äh, im Angebot, die natürlich, ähm, auf, ähm, äh, von zu Hause aus, ähm, gearbeitet werden und, ähm, andere natürlich, die wir dann, ähm, ja, Ihr,
+[00:04:04.8 - 00:04:05.1] Speaker 2: ähm,
+[00:04:05.9 - 00:04:19.6] Speaker 2: Ihren Lebenslauf an die richtige Firma dann weiterleiten. Und ja, da würde ich Sie dann halt auch fragen, ob, ähm, diese Art der Arbeit, also von zu Hause aus zu arbeiten, für Sie eine Option wäre.
+[00:04:20.9 - 00:04:33.1] Speaker 1: Ja, natürlich. Ich liebe es, zu Hause zu arbeiten. Das hab ich ja auch schon gemacht mit, äh, dieser Human Resources Firma aus den-- wo na, aus den USA und auch mit, äh, dieser deutschen Softwarefirma.
+[00:04:33.2 - 00:04:37.8] Speaker 1: Da hab ich auch von zu Hause aus gearbeitet. Das schätze ich durchaus sehr, diese Freiheit.
+[00:04:38.6 - 00:04:44.1] Speaker 1: Und da spart man natürlich auch Spritkosten und, äh, so weiter. Also das würde mir durchaus liegen, ja.
+[00:04:45.4 - 00:04:52.5] Speaker 2: Gut, das ist natürlich schon mal gut, weil heutzutage gibt es halt auch viele Firmen, die, ähm, in dieser Art, ähm,
+[00:04:53.4 - 00:05:13.6] Speaker 2: ähm, ja auch, äh, neue Menschen, neues Talent rekrutieren. Ähm, dann ist das halt auch eine Option. Äh, im Gegensatz muss ich halt auch die Frage stellen: Wie stehen Sie denn dann dazu, ähm, in das Büroleben einzutauchen und aktiv jeden Tag dann, äh, diese Spritkosten anzugehen und halt auch vor Ort
+[00:05:13.7 - 00:05:16.0] Speaker 2: präsent zu sein für Ihren Arbeitsgeber?
+[00:05:17.0 - 00:05:29.8] Speaker 1: Ja, das ist für mich natürlich die zweite Option. Ich würde es auf jeden Fall, äh, bevorzugen, von zu Hause aus zu arbeiten, aber wenn es nicht anders geht, ja, dann müsste ich ins Büro gehen, das ist ja klar.
+[00:05:30.1 - 00:05:59.3] Speaker 1: Aber auf jeden Fall würde ich das nicht als erste Option auswählen. [hustet]
+[00:05:35.3 - 00:05:45.8] Speaker 2: Das ist natürlich verständlich. Das, äh, hören wir heutzutage auch immer öfter, ähm, dass ja diese Art der Perspektive über das Arbeitsleben halt, ähm, geführt wird.
+[00:05:45.9 - 00:05:57.3] Speaker 2: Und das ist natürlich auch kein Problem, solange es halt, ähm, nicht dogmatisch gesehen wird, dass man nur das eine oder nur das andere möchte. Dann besteht da weiterhin diese Flexibilität.
+[00:05:57.8 - 00:06:10.0] Speaker 2: Gut, Sie sagten, dass, ähm, Ihr vorheriges Arbeitsverhältnis halt geendet hat. Ähm, können Sie mir noch ein paar Details darüber, ähm, sagen? Also wie lange ist das her gewesen?
+[00:06:10.1 - 00:06:17.8] Speaker 2: Wie lange waren Sie da und wie kam es dann zu der Entlassung oder, ähm, dass Sie sich halt selber dafür entschieden haben zu gehen?
+[00:06:18.9 - 00:06:25.2] Speaker 1: Ja, da war ich sechs Monate. Das war vor zwei Monaten, die Entlassung. Und, ähm,
+[00:06:27.3 - 00:06:42.9] Speaker 1: ja, also das kam daher, weil die hatten eigentlich schon ein volles Team und sagten aber, äh, also die, die Person, die das Sales Team leitete, als sie dann meinen Lebenslauf sah mit Anwalt und, äh, anderen Sachen, da sagte sie, das,
+[00:06:43.8 - 00:06:55.9] Speaker 1: äh, wär was, was sie interessieren würde, den müssten wir einstellen. Allerdings war mir, war mir nicht bewusst, dass ich so im Konkurrenzkampf mit der letzten Person war, die man eingestellt hatte, weil das Team ja schon voll war.
+[00:06:56.9 - 00:07:11.1] Speaker 1: Und hätte ich das gewusst, hätte ich natürlich, äh, so viel mehr Anrufe getätigt, aber das wusste ich nicht. Und, äh, der war ja auch schon paar Monate vor mir dort und hatte damit auch mehr, äh, Übergaben und mehr Anrufe und so weiter.
+[00:07:11.3 - 00:07:17.0] Speaker 1: Und dann kam dann, dass man die Entscheidung getroffen hätte im November, dass eben, ähm,
+[00:07:18.1 - 00:07:22.2] Speaker 1: ja, das nicht weitergehen würde, äh, weil meine Zahlen nicht vergleichbar waren. Aber
+[00:07:23.4 - 00:07:27.4] Speaker 1: wie gesagt, ähm, das war eigentlich ein volles Team schon und, äh, das war
+[00:07:28.7 - 00:07:31.4] Speaker 1: ein Konkurrenzkampf, von dem ich gar nicht bewusst war, dass es einer war.
+[00:07:32.4 - 00:07:33.6] Speaker 1: Das war mir nicht bewusst. Von daher,
+[00:07:34.6 - 00:07:36.1] Speaker 1: äh, ja, da bin ich dann ausgeschieden.
+[00:07:37.6 - 00:07:49.1] Speaker 2: Ja, das sind dann natürlich nicht die optimalen Bedingungen für einen Konkurrenzkampf, wenn, äh, zumindest eine der Parteien sich gar nicht bewusst ist, dass sie [lacht] in diesem Kampf halt steckt.
+[00:07:49.3 - 00:07:58.6] Speaker 2: Also, ähm, das verstehen wir natürlich. Ähm, es war also, ähm, es-- Gut, es ging also vor zwei Monaten, sagten Sie, ähm,
+[00:07:59.4 - 00:08:16.1] Speaker 2: ähm, dem Ende zu von diesem Arbeitsvertrag. Ähm, seitdem haben Sie aktiv, ähm, waren Sie aktiv irgendwo auf dem Arbeitsmarkt entweder als, äh, Freelancer oder haben Sie aktiv Ihren Lebenslauf an, an neue Firmen gesendet?
+[00:08:16.2 - 00:08:21.5] Speaker 2: Oder wie können wir uns diese zwei Monaten in Ihrem beruflichen Leben vorstellen?
+[00:08:22.6 - 00:08:37.3] Speaker 1: Ja, natürlich hab ich, äh, an Unternehmen meinen Lebenslauf verschickt, aber ich wollte noch eine Frage fragen, weil, äh, tatsächlich bekam ich ein letztes Gehalt, äh, das bloß 600 Euro war, weil man den letzten Tag als den 10.
+[00:08:37.4 - 00:08:39.2] Speaker 1: Dezember festgelegt hatte.
+[00:08:40.2 - 00:08:44.4] Speaker 1: Aber man hatte mir gesagt, man würde noch Urlaubstage mitberechnen, aber,
+[00:08:45.7 - 00:08:48.8] Speaker 1: ähm, das schien also nicht passiert zu sein. Ähm,
+[00:08:49.9 - 00:09:00.8] Speaker 1: äh, das sch..., ist doch viel zu 'n niedrigeren Betrag, als, als dass das, äh, rechtens wäre. Und es scheint auch, dass die Urlaubstage gar nicht mitberechnet wurden.
+[00:09:01.0 - 00:09:02.1] Speaker 1: Sehen Sie das auch so?
+[00:09:03.6 - 00:09:23.6] Speaker 2: Also da müsste ich auf jeden Fall nachschlagen. Ich weiß auf jeden Fall, dass, ähm, wenn der Vertrag von mindestens einem Jahr ist, dass dem, ähm, Arbeiter auch diese Urlaubstage zustehen und die dann natürlich bei Vertragsende, egal durch welche Partie, die auch ausbezahlt werden müssen, falls
+[00:09:23.6 - 00:09:30.6] Speaker 2: sie ungenutzt geblieben sind. Ähm, da Sie von einem kürzeren Vertrag von sechs Monaten, ist das richtig?
+[00:09:31.7 - 00:09:38.1] Speaker 1: Ja, es war schon ein, ein Jahresvertrag, aber eben mit der Probezeit. Und ja, genau die Probezeit war eben diese sechs Monate.
+[00:09:39.4 - 00:09:52.0] Speaker 2: Gut, das ist dann natürlich, äh, vertraglich etwas verzwickter, weil manchmal ist es auch so, dass, ähm, in bestimmten Firmen man während der Probezeit gar kein Anrecht auf, äh, Urlaubstage hat.
+[00:09:52.5 - 00:10:12.7] Speaker 2: Und das ist dann natürlich, ähm, ja, ein Szenario, das müssten wir dann uns genauer anschauen oder, ähm, Sie auch mit einem Rechtsexperten, Arbeitsanwalt, ähm, weil, ähm, gut, es ist halt, ähm, nicht so einfach, äh, ohne den Vertrag zu sehen und, ähm, dadurch halt auch die Vereinbarung zu verstehen, die Sie mit
+[00:10:12.7 - 00:10:13.6] Speaker 2: der Firma hatten.
+[00:10:14.3 - 00:10:34.2] Speaker 1: Ja, das überrascht mich jetzt doch, weil ich hab einen Bekannten, der ist Anwalt und der sagte mir, auch in der Probezeit müssten die Urlaubstage angerechnet werden. Man könnte die nur eventuell so bruchteilhaft, also zum Teil so mit einer Formel dann reduzieren, aber man müsste die schon auch zum Teil mindestens mitberech..., aber ja, ich werd das dann mit einem
+[00:10:35.2 - 00:10:37.2] Speaker 1: Anwalt noch mal, äh, beleuchten.
+[00:10:38.1 - 00:10:58.4] Speaker 2: Na ja, auf jeden Fall haben Sie schon Ihren Teil der Recherche dann also getätigt, dass Sie, ähm, mit Ihrem, ähm, Kollegen oder Freund halt darüber gesprochen haben. Und dann wissen Sie auch eigentlich schon, ähm, Bescheid und haben eine viel informiertere Antwort bekommen als, äh, meine, die halt natürlich auf Hypothesen basiert.
+[00:10:59.0 - 00:11:16.8] Speaker 2: Ähm, und dann würde ich auf jeden Fall sagen, dass Sie Anrecht auf diese Urlaubstage gehabt hätten. Ähm, ich weiß nicht, ob vielleicht ein paar weniger oder die halt auch anders verrechnet werden, aber auf jeden Fall müssten Sie dann schon irgendeine Art der Kompensation dafür bekommen.
+[00:11:16.9 - 00:11:42.3] Speaker 2: [lacht]
+[00:11:18.1 - 00:11:31.5] Speaker 1: Gut, ja und ich hab mich wie gesagt beworben bei anderen Unternehmen. Allerdings, ja, mit dem Alter von 55 Jahren, glaub ich, ist das doch recht schwierig. Ich weiß nicht, ob, wie, wie Sie das einschätzen, ob ich in dem Alter eigentlich schon
+[00:11:32.6 - 00:11:41.0] Speaker 1: auf dem Abstellgleis bin, auf dem Arbeitsmarkt. Äh, wie sehen Sie das denn mit dem, äh, ja, ja 55 Jahren, die ich auf dem Buckel habe?
+[00:11:42.7 - 00:12:03.0] Speaker 2: Das ist auf jeden Fall sehr interessant, ähm, und auch ein gutes Thema, das Sie ansprechen. Es ist natürlich so, dass viele Firmen, ähm, sich, ähm, ja, junges Talentier, Talent zulegen, ähm, und auch nach jungem Talent suchen, allein weil, ähm, sie es noch, äh, besser formen können und
+[00:12:03.4 - 00:12:18.2] Speaker 2: es dann halt auch die Chance, ähm, besteht, dass sie dann länger etwas davon haben, dass sie diese Person einweisen und, ähm, die Schulungen abgeben, dass es dann langfristig für die Firma profitabler ist.
+[00:12:18.8 - 00:12:36.3] Speaker 2: Dennoch gibt es viele andere Optionen, die jetzt, ähm, hauptsächlich im technologischen Bereich, ähm, ich fin... Weiß jetzt nicht, ob das für Sie interessant ist, aber technologischer Bereich, so digitale Arbeiten, ähm, die dann wirklich noch aktiv, ähm, rekrutieren.
+[00:12:37.5 - 00:12:50.3] Speaker 1: Ja, natürlich, das würde mich auch schon interessieren, KI und all so was. Äh, ich bin ja sehr versiert auch mit Computern und ja, eigentlich, äh, hab ich da großes Interesse an so digitalen Sachen immer.
+[00:12:51.5 - 00:13:09.2] Speaker 2: Gut, es gibt nämlich so viele Outsourcing-Firmen, die im Moment, ähm, so mit, äh, Marktleiter sind am Rekrutieren. Ähm, und die bieten dann natürlich auch sehr interessante Optionen, ähm, was halt diese digitale Welt angeht, ähm, zum Teil auch Sales.
+[00:13:09.8 - 00:13:22.9] Speaker 2: Und ja, diese Outsourcing-Firmen, ähm, bieten dann Projekte für größere Firmen an, wie Google, wie Microsoft, ähm, wie Siemens oder TikTok und so weiter.
+[00:13:23.0 - 00:13:42.2] Speaker 2: Also die Möglichkeiten sind unbegrenzt und das sind dann halt, ähm, Projekte, die so zwischen 200 und 300 Leuten halt, ähm, bestehen und, ähm, die sind auch, ähm, sehr danach, ähm, erpicht, dass sie halt, äh, die Vielfalt im Team erhalten können.
+[00:13:42.3 - 00:13:52.8] Speaker 2: Nicht nur durch, ähm, Geschlechts-, äh, -verteilung oder auch durch, ähm, die, ähm, Herkunft der Menschen, sondern auch tatsächlich durch das Alter.
+[00:13:54.2 - 00:13:57.9] Speaker 1: Na, das hört sich ja vielversprechend an. Und, ähm,
+[00:13:58.8 - 00:14:06.5] Speaker 1: sind diese Jobs denn auch, äh, normale Jobs oder ist das eher als Freelancer oder, oder wie muss man das verstehen?
+[00:14:07.8 - 00:14:26.6] Speaker 2: Also viele dieser Firmen sind aktiv, ähm, äh, mit Freelancern. Ähm, dennoch gibt es auch viele, die dann eher, ähm, auf ein Arbeitsverhältnis, ähm, wirklich, ähm, im traditionellen Sinne, ähm, ja suchen und auf der Aufschau, Ausschau sind.
+[00:14:26.8 - 00:14:40.0] Speaker 2: Und dadurch, ähm, gibt es halt dann diese ganzen, äh, positiven Mitbringsel wie, ähm, eine Versicherung, wie, ähm, das, ähm, Essensgeld und, ähm,
+[00:14:41.2 - 00:14:50.0] Speaker 2: ja unter anderem diese, diese speziellen Sachen, die halt bei einem festen Arbeitsvertrag meistens mit dabei sind.
+[00:14:51.8 - 00:15:11.6] Speaker 1: Verstehe, verstehe. Und, äh, darf ich fragen, wie lange dauert eigentlich die Bearbeitung von Seiten des Arbeitsamtes? Weil ich muss dann auch bald wieder Miete bezahlen und bräuchte eigentlich ja die, äh, Zusage vom Arbeitsamt, äh, dass die, äh, Gelder dann genehmigt werden für Arbeitslosengeld II.
+[00:15:12.9 - 00:15:31.9] Speaker 2: Tja, da muss ich Ihnen eine realistische Antwort geben, weil es ist halt doch so, dass, ähm, wir hier im Moment in der Bürokratie ertrinken und, ähm, schon im Backlog sind, was, ähm, was die Bearbeitung der, ähm, Kandidaten angeht.
+[00:15:32.3 - 00:15:48.6] Speaker 2: Und da können Sie schon mit, ähm, so bis zu zwei Monaten rechnen im optimistischen Falle. [lacht] Ja, das tut mir auch sehr leid.
+[00:15:37.7 - 00:15:38.0] Speaker 1: Oh.
+[00:15:40.6 - 00:15:46.0] Speaker 1: Das hör ich ja sehr, sehr ungerne. Das ist ja sehr lang. Das hätt ich nicht gedacht, dass das so lange dauern wird.
+[00:15:48.7 - 00:16:00.3] Speaker 2: Also wie gesagt, ich kann Ihnen da persönlich, ähm, nur die realistische, ähm, Version der Geschichte geben, weil alles andere wäre, ähm, zu optimistisch.
+[00:16:00.5 - 00:16:19.8] Speaker 2: Und, ähm, ich glaube, es ist schon wichtig, dass man dann so nah an der Wahrheit, äh, bleibt wie möglich. Weil ich weiß ja, dass, ähm, Sie und alle anderen Menschen in Ihrer Position dann halt auch davon abhängig sind, dass Sie irgendwie, ähm, ja weiterkommen.
+[00:16:20.2 - 00:16:33.7] Speaker 2: Aber diese Prüfung wird halt vom Staat her immer strenger und dadurch für uns immer zeitaufwendiger und sogar wir am Arbeitsamt haben hier zu wenig Personal, also dieses typische Problem.
+[00:16:34.9 - 00:16:48.4] Speaker 1: Na gut, also ich, äh, sprech ja wie gesagt fließend Englisch, hab da, hab da viele Jahre gelebt. Äh, wäre das denn eine Option, dass ich eventuell als Englischlehrer oder Übersetzer mich ausbilden lasse?
+[00:16:48.4 - 00:16:59.5] Speaker 1: Würde das Arbeitsamt dann eventuell auch, ähm, Kurskosten bezahlen, wenn ich irgend so eine Qualifikation, ähm, für Sprachlehrer,
+[00:17:00.5 - 00:17:03.9] Speaker 1: äh, bei einem Institut, äh, absolvieren würde?
+[00:17:05.2 - 00:17:25.4] Speaker 2: Das ist auf jeden Fall eine sehr gute Option, die Sie da ansprechen. Und das ist natürlich auch Teil, ähm, des Programmes, das wir hier führen am, ja am Arbeitsamt Dresden, dass wir halt viel, ähm, für die Bildung der Menschen, die zu uns kommen, tun und dafür dann halt auch finanziell,
+[00:17:26.0 - 00:17:46.3] Speaker 2: äh, mit aufkommen. Also wir würden dann diesen Kurs, ähm, als, äh, zum Englischlehrer, diese, ähm, Ausbildung vorstrecken und, ähm, dann würden Sie im Laufe Ihrer ersten Position, die dann von uns verschafft wir, wird – das ist natürlich dann ein Kompromiss, den wir eingehen
+[00:17:46.3 - 00:17:55.6] Speaker 2: – ähm, werden Sie dann, ähm, nur 40 % zurückbezahlen müssen im Laufe des, ähm, ersten Arbeitsjahres.
+[00:17:56.6 - 00:18:00.6] Speaker 1: Oh, ich muss was zurückbezahlen. Wirklich 40 % sogar. Das ist aber viel.
+[00:18:01.5 - 00:18:12.2] Speaker 2: Ja, wie gesagt, der Staat ist an seinen Grenzen und, ähm, das ist halt die beste Option, die wir im Moment, ähm, ja anbieten können, damit Ihr Prozess auch schneller geht.
+[00:18:12.3 - 00:18:32.5] Speaker 2: Weil wie Sie wissen, besteht ja im Moment sehr großer Lehrermangel. Ähm, generell Fachkräfte werden überall gebraucht und durch diech, diese Spezialisierung ist es natürlich, ähm, ein beidseitiger Kompromiss, dass, ähm, dass, äh, Sie vielleicht sogar, äh, schneller an eine Arbeit kommen als an
+[00:18:32.6 - 00:18:35.3] Speaker 2: de, die Hilfe für das Arbeitslosengeld.
+[00:18:36.7 - 00:18:49.0] Speaker 1: Ja, da werd ich natürlich, äh, da mich weiter bewerben. Wobei ich müsste ja Qualifikationen haben, die ich ja zurzeit nicht habe für Sprachlehrer und so. Deswegen, äh, sehe ich da eigentlich wenig Chancen.
+[00:18:49.8 - 00:18:55.3] Speaker 1: Hab mich da auch noch nicht beworben deswegen, weil ich dachte, ich bräuchte erst die Qualifikation, bevor ich mich da bewerben kann.
+[00:18:55.1 - 00:18:55.7] Speaker 2: Ja, genau.
+[00:18:56.9 - 00:19:17.1] Speaker 2: Ja, genau. Also wie gesagt, wir, wir haben diese Ausbildung und, ähm, die würden wir dann auch direkt, ähm, ähm, für Sie rausfinden. Es gibt die ganze Zeit, äh, gute Kurse zur Ausbildung, besonders auch, was, ähm, Englisch und Pädagogik angeht, was ja dann die Haupt, ähm, ja,
+[00:19:17.3 - 00:19:37.6] Speaker 2: Fächer für Sie wären zur Weiterbildung. Und, ähm, auf jeden Fall könnten wir, ähm, hier im System, hab ich grad nachgeschaut, ähm, Ihnen sogar anbieten, dass Sie, äh, falls das in Ihrem Interesse besteht, eine Schulung, ähm, schon nächste Woche beginnen können am Mittwoch und dafür dann
+[00:19:37.6 - 00:19:52.8] Speaker 2: halt, ähm, drei Wochen lang diese intensive Schulung mitmachen. Und, ähm, dann sind Sie auf jeden Fall schon qualifiziert als, ähm, Lehrer für, ähm, die Anfangsklassen oder die Schüler, die nachts studieren.
+[00:19:53.7 - 00:19:55.4] Speaker 1: Verstehe, ja. Das hört sich ja
+[00:19:56.3 - 00:19:57.9] Speaker 1: dann vielversprechend an.
+[00:19:59.1 - 00:19:59.3] Speaker 1: Ähm,
+[00:20:00.7 - 00:20:11.0] Speaker 1: ja, ich wollte da nur noch fragen, weil ich weiß nicht, wie oft muss ich eigentlich beim Arbeitsamt dann erscheinen? Gibt's da eine Faustregel, äh, wie oft, äh, wir da
+[00:20:12.3 - 00:20:17.0] Speaker 1: uns zeigen müssen, wenn wir, ähm, den Antrag benehmich bekommen?
+[00:20:18.4 - 00:20:30.9] Speaker 2: Also ab dem Moment, wo Sie den Antrag genehmigt bekommen, dass Sie das Geld dann auch bekommen, ähm, ist es schon nötig, dass wir, ähm, von Ihnen dann regelmäßig, ähm, Kontakt erhalten.
+[00:20:31.1 - 00:20:51.3] Speaker 2: Also, ähm, oft senden wir eine E-Mail oder rufen Sie an und bitten Sie dann, zu einem bestimmten Datum zu uns zu kommen, nur damit wir uns halt, ähm, versichern können natürlich, dass Sie dieses Geld, ähm, in sich investieren und auch als Unterstützung für Ihr tägliches Leben benutzen und
+[00:20:51.4 - 00:20:58.0] Speaker 2: nicht als, ähm, ich übertreibe mal, als Grund, ähm, in die Karibik zu gehen, in den Urlaub zu fliegen.
+[00:20:58.5 - 00:21:03.2] Speaker 1: Ach, das ist dann nicht möglich. Ich kann nicht in Thailand wohnen und, äh, das Arbeitslosengeld beziehen.
+[00:21:04.5 - 00:21:14.6] Speaker 2: Das wird dann schon eher kompliziert, ähm, von uns aus. Also das, ähm, würde ich Ihnen schon als schwierigen Prozess schon, ähm, ja, vorstellen.
+[00:21:15.1 - 00:21:16.7] Speaker 1: Verstehe, verstehe. Gut. Ähm,
+[00:21:17.8 - 00:21:24.5] Speaker 1: ja, ist ja eh schwierig, wenn ich mich dann zeigen muss, äh, jeden Monat. Äh, das wär ja dann viel zu teuer, immer zurückzufliegen,
+[00:21:25.5 - 00:21:28.1] Speaker 1: äh, dafür, für so 'n Treffen. Aber, ähm,
+[00:21:29.9 - 00:21:33.8] Speaker 1: ja, ähm, dann hatte ich noch gehört, äh, dass
+[00:21:34.9 - 00:21:41.1] Speaker 1: da auch, äh, Hilfe, äh, bezogen werden kann, äh, für die, äh, Heizkosten. Ist das richtig?
+[00:21:43.1 - 00:22:03.8] Speaker 2: Äh, ja, besonders jetzt im Winter, ähm, ist dieses Arbeitslosengeld dann auch verbunden mit, ähm, ein wenig Unterstützung für die Heizkosten, weil wir ja, wie gesagt, wissen, dass auch durch den Krieg die, die Kosten unheimlich in die Höhe gesprungen sind und da hilft der Staat halt auch weiterhin,
+[00:22:04.0 - 00:22:19.8] Speaker 2: ähm, diese Kosten etwas erträglicher zu machen für, für die Menschen, die halt von unserem, ähm, Zuschuss dann halt auch abhängig sind. Ähm, und da wir über Heizung, ähm, sprechen, komme ich dann auch zu dem Thema, ähm, der Gesundheit.
+[00:22:20.0 - 00:22:34.2] Speaker 2: Und, ähm, da würde ich Sie eigentlich fragen, ob Sie, ähm, regelmäßig, ähm, zum Arzt sind und ein Gesundheitsattest auch, ähm, ja, zu uns bringen könnten, denn das wäre schon wichtig für unsere Dokumentation.
+[00:22:35.8 - 00:22:40.9] Speaker 1: Äh, nee, das mache ich eigentlich nicht, äh, aber da Sie das jetzt schon erwähnt haben, äh,
+[00:22:42.3 - 00:22:50.0] Speaker 1: ich nehme an, dass ich dann in die gesetzliche Krankenkasse gehen kann und das wird dann vom Arbeitsamt voll bezahlt. Ist das richtig so?
+[00:22:51.8 - 00:23:08.4] Speaker 2: Ähm, ja, das ist schon richtig so, genau. Also wir, im deutschen Staate ist es ja schon so, dass, ähm, wir, [räuspert sich] Entschuldigung, dass wir jedem Bürger, ähm, eine Versicherung und eine Unterstützung, was die Gesundheit angeht, ähm,
+[00:23:09.3 - 00:23:09.4] Speaker 2: ja,
+[00:23:10.2 - 00:23:19.1] Speaker 2: dass wir diesen Bürgern halt dazu verhelfen wollen und dadurch, ähm, werden Sie dann halt auch, ähm, in die staatliche Kasse mit aufgenommen natürlich.
+[00:23:19.9 - 00:23:26.8] Speaker 1: Und, und ich kann ja auch frei wählen dann, weil ich war bei der AOK zuvor. Das wär eigentlich dann meine Krankenversicherung meiner Wahl.
+[00:23:27.7 - 00:23:29.3] Speaker 1: Äh, da hab ich freie Hand, nehm ich an, ja.
+[00:23:30.6 - 00:23:41.5] Speaker 2: Da bin ich mir nicht so sicher. Also ich glaube schon, dass Sie dann da ein, ähm, Produkt vorgeschrieben bekommen, aber ich weiß, dass wir auch, ähm, sehr mit der AOK zusammenarbeiten.
+[00:23:41.6 - 00:23:46.0] Speaker 2: Also sollte es dann doch, ähm, in diese Richtung gehen, ja.
+[00:23:47.8 - 00:23:54.5] Speaker 1: Okay, okay, weil ich muss das natürlich auch für die Kinder dann regeln mit der, äh, ja gesetzlichen Krankenversicherung.
+[00:23:56.0 - 00:23:60.0] Speaker 1: Ja, da kommt schon einiges auf mich zu an Formularen und Dokumenten, glaub ich, ja.
+[00:23:56.1 - 00:23:56.7] Speaker 2: Ja, also ...
+[00:24:00.8 - 00:24:09.5] Speaker 2: Auf jeden Fall. Da Sie jetzt, ähm, von Kindern sprachen: Gibt es denn familiäre Verpflichtungen, die Ihre Arbeitszeit zum Beispiel einschränken?
+[00:24:11.6 - 00:24:18.7] Speaker 1: Ja, eigentlich kümmert sich ja meine Frau um die Kinder normalerweise. Von daher wär ich schon frei für den Arbeitsmarkt, ja.
+[00:24:19.8 - 00:24:33.4] Speaker 2: Okay, also würde die Familie, ähm, ja, sagen wir mal, das Hart, ähm, kein Problem darstellen, dass Sie dann, ähm, frei, ähm, sind, äh, die Arbeitszeiten, die Ihnen dann auch vorgeschlagen werden, wahrzunehmen.
+[00:24:34.7 - 00:24:39.2] Speaker 1: Nein, das wäre, glaube ich, kein Problem. Das, äh, kann ich durchaus, äh, wahrnehmen.
+[00:24:40.5 - 00:24:47.9] Speaker 2: Okay, gut. Haben Sie denn sonst noch irgendwelche Fragen oder Anliegen, mit denen ich Ihnen heute behilflich sein könnte?
+[00:24:50.2 - 00:24:54.9] Speaker 1: Nein, das war's eigentlich. Sie haben mir schon sehr viel geholfen. Vielen, vielen Dank für Ihr,
+[00:24:55.8 - 00:24:56.6] Speaker 1: ähm, ja,
+[00:24:58.0 - 00:25:01.0] Speaker 1: für Ihre Zeit und, äh, ja, wir sehen uns bestimmt noch.
+[00:25:01.9 - 00:25:05.0] Speaker 2: Wir sehen uns auf jeden Fall und ich schick Ihnen dann die Broschüre zu.
+[00:25:05.7 - 00:25:06.0] Speaker 1: Danke.

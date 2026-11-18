@@ -1,0 +1,636 @@
+German Dialogue 02
+Language: German
+Duration: 00:55:16.3
+Speakers: 2
+Machine transcription: ElevenLabs Scribe v2, word-level timestamps (see transcript.json). Not human-reviewed.
+
+[00:00:04.0 - 00:00:08.7] Speaker 1: Wie war denn-- Ich bin, ich bin ja ein bisschen neugierig. Wie war denn der Matthias so in der Schule?
+[00:00:10.7 - 00:00:11.7] Speaker 2: Wie ich in der Schule war?
+[00:00:11.0 - 00:00:12.6] Speaker 1: Was warst du, warst du vorbildlich?
+[00:00:13.5 - 00:00:16.5] Speaker 2: Ja, übelst. Ich war sehr vorbildlich. Ich war
+[00:00:17.7 - 00:00:27.1] Speaker 2: Einser-Schüler oder ma-maximal Zwei. Ich hab immer sehr viel gelernt. Ich war immer 'n vor-- 'n gutes Vorzeigebeispiel, ja. Mhm.
+[00:00:28.3 - 00:00:28.5] Speaker 2: Und du?
+[00:00:28.8 - 00:00:29.0] Speaker 1: Okay.
+[00:00:32.8 - 00:00:35.6] Speaker 1: Und immer, hast du den, hast du deinen Mit-Mitschülern geholfen oder?
+[00:00:37.0 - 00:00:38.4] Speaker 2: Ja, die haben immer bei mir abgeschrieben.
+[00:00:39.0 - 00:00:41.8] Speaker 1: Na klar. [lacht] Und das hast du zugelassen? Das hätte ich nicht gedacht.
+[00:00:42.1 - 00:00:42.7] Speaker 2: Ja klar.
+[00:00:46.7 - 00:00:49.5] Speaker 2: Na ja klar, das ist ja eine Hand wäscht die andere.
+[00:00:52.1 - 00:00:52.5] Speaker 1: Okay.
+[00:00:53.3 - 00:00:53.6] Speaker 2: Und du?
+[00:00:54.8 - 00:00:57.7] Speaker 1: Ähm, na ja, Gru-Grundschule auf jeden Fall ja.
+[00:00:58.8 - 00:01:00.2] Speaker 1: Das war eigentlich auch schließlich Einsen.
+[00:01:01.1 - 00:01:17.2] Speaker 1: Ähm, in der Sek zwei dann nicht mehr so, weil da hab ich halt auch, hatte ich halt auch ab und zu immer andere Prioritäten und ich hab halt auch keine Lust mehr, mich in Sachen reinzuvertiefen, auf die ich einfach keine Lust habe und so was wie Geschichte und so was hat's dann halt rausgerissen.
+[00:01:18.3 - 00:01:19.7] Speaker 1: Das hat mich dann halt ein bisschen totgemacht.
+[00:01:21.2 - 00:01:21.8] Speaker 1: Aber sonst
+[00:01:22.9 - 00:01:23.9] Speaker 1: ... Ja, war okay.
+[00:01:24.9 - 00:01:27.0] Speaker 1: Also ich hab kein eins Nuller Abi. Nein, hab ich nicht.
+[00:01:30.9 - 00:01:32.4] Speaker 1: Dam-damit kann ich nicht dienen.
+[00:01:36.4 - 00:01:40.4] Speaker 2: Mhm, okay, ja, das ist ja kein, kein Ding. Es muss ja jetzt nicht jeder irgendwie so
+[00:01:41.2 - 00:01:42.3] Speaker 2: der Überflieger sein.
+[00:01:43.9 - 00:01:44.9] Speaker 2: Hauptsache, man ist
+[00:01:47.4 - 00:01:50.8] Speaker 2: eben gut dabei und kümmert sich und
+[00:01:52.4 - 00:01:58.0] Speaker 2: lernt eben ein bisschen was, um für die spätere Zukunft sich entsprechend verwirklichen zu können.
+[00:01:59.4 - 00:02:00.4] Speaker 1: Okay, dann, ähm,
+[00:01:59.4 - 00:02:00.2] Speaker 2: Ja, das ist gut.
+[00:02:04.2 - 00:02:04.4] Speaker 1: lass,
+[00:02:06.4 - 00:02:07.7] Speaker 1: lass uns dann doch mal
+[00:02:10.2 - 00:02:11.0] Speaker 1: über die, äh,
+[00:02:13.8 - 00:02:15.7] Speaker 1: die, die Lernbereitschaft von, von, von,
+[00:02:16.8 - 00:02:21.2] Speaker 1: um das Ganze ins, äh, Business zu, zu lenken, wieder zurück, ähm,
+[00:02:23.1 - 00:02:25.9] Speaker 1: wa-was denn, was denn prinzipiell die Kinder
+[00:02:27.3 - 00:02:29.5] Speaker 1: geschäftstauglich macht und was sie eigentlich
+[00:02:30.4 - 00:02:35.5] Speaker 1: besser lernen sollten, um in der Geschäftswelt zu überleben. Weißt du, was ich meine?
+[00:02:35.9 - 00:02:36.3] Speaker 2: Mhm.
+[00:02:37.7 - 00:02:38.5] Speaker 1: Also prinzipiell,
+[00:02:39.4 - 00:02:39.7] Speaker 1: ähm,
+[00:02:41.4 - 00:02:47.1] Speaker 1: man lernt zwar ganz viel über die Photosynthese und über, äh, Interpretationen von Faust und Goethe
+[00:02:48.1 - 00:02:49.8] Speaker 1: und alles drumherum und, äh,
+[00:02:50.9 - 00:02:55.1] Speaker 1: aber was, was macht die denn, was macht denn Kinder in der Schule wirklich
+[00:02:56.2 - 00:02:57.6] Speaker 1: bereit fürs
+[00:02:58.8 - 00:03:02.9] Speaker 1: Geschäftsleben, für den Alltag, für den, für das, äh,
+[00:03:03.9 - 00:03:12.9] Speaker 1: Herumhantieren und Herumhandeln mit, mit Steuererklärungen, mit Geschäftsverhalten, mit Vorstellungsgesprächen, mit
+[00:03:14.0 - 00:04:34.2] Speaker 1: Ansprüchen, wenn keiner mehr sagt, äh, das sind deine Hausaufgaben, das musst du heute Nachmittag machen und dann ist alles fein, sondern wenn die plötzlich sich selber ihre Wege überlegen müssen. Hast du dich dafür gewappnet gefühlt?
+[00:03:27.2 - 00:03:28.0] Speaker 2: Ja, auf jeden Fall.
+[00:03:28.8 - 00:03:35.3] Speaker 2: Wie Friedrich Nietzsche sagen würde oder mit den Worten von ihm: „Wer sein Warum kennt, erträgt fast jedes Wie."
+[00:03:38.4 - 00:03:39.3] Speaker 2: Das ist so der,
+[00:03:40.1 - 00:03:44.4] Speaker 2: der Einstieg, der Ursprung und dieser eine kleine
+[00:03:45.4 - 00:03:46.6] Speaker 2: winzig feine Satz,
+[00:03:47.5 - 00:03:50.9] Speaker 2: den kann man auf verschiedene Bereiche, verschiedene,
+[00:03:52.7 - 00:03:55.2] Speaker 2: äh, Situationen übertragen,
+[00:03:56.4 - 00:03:57.3] Speaker 2: dass man eben
+[00:03:58.7 - 00:04:03.6] Speaker 2: vorwärtskommt und dass man eben seinen, seinen Antrieb findet, seine, seine Leidenschaft, sein--
+[00:04:05.0 - 00:04:12.5] Speaker 2: Wenn man das Ganze mal richtig verinnerlicht und kultiviert, ja, das ist der Ursprung. Das ist der Same, den man pflanzt und dann muss man das halt,
+[00:04:13.9 - 00:04:15.9] Speaker 2: da muss man dem halt konsequent,
+[00:04:17.6 - 00:04:22.3] Speaker 2: äh, beistehen, um das, das Ganze zu verfolgen, diese philosophische Ader.
+[00:04:24.4 - 00:04:26.6] Speaker 2: Würde ich sagen, zumindest hat das mir geholfen.
+[00:04:27.6 - 00:04:31.1] Speaker 2: Wenn man sein wirkliches Warum kennt, erträgt man
+[00:04:32.1 - 00:04:32.8] Speaker 2: viele Wies.
+[00:04:34.3 - 00:04:36.3] Speaker 1: Aber lernen denn Kinder an der Schule schon ihr Warum?
+[00:04:37.7 - 00:04:38.7] Speaker 2: Das sollten sie lernen.
+[00:04:39.7 - 00:04:43.4] Speaker 1: Ja, sollten sie. Tun sie das auch? [lacht]
+[00:04:43.5 - 00:04:44.2] Speaker 2: Lernen nicht.
+[00:04:45.2 - 00:04:45.7] Speaker 2: Manche,
+[00:04:46.5 - 00:04:50.2] Speaker 2: die spüren aber intuitiv was und oder beziehungsweise
+[00:04:51.0 - 00:04:57.3] Speaker 2: die distanzieren sich halt oder wie auch immer. Nein, nein, sie lernen's nicht und das ist halt nicht so toll.
+[00:04:58.7 - 00:05:01.2] Speaker 2: Da sollte man Verbesserungsmaßnahmen ergreifen,
+[00:05:03.8 - 00:05:08.9] Speaker 2: um halt eben die Re-- die Kinder von, von Anfang an, von klein auf am besten in
+[00:05:09.9 - 00:05:11.2] Speaker 2: die passende Bahn zu lenken,
+[00:05:14.3 - 00:05:14.8] Speaker 2: würde ich sagen.
+[00:05:15.9 - 00:05:16.1] Speaker 1: Mhm.
+[00:05:17.8 - 00:05:19.4] Speaker 2: Wie s-- wie siehst du denn das Ganze?
+[00:05:22.1 - 00:05:25.8] Speaker 1: Ähm, also ich war überfordert [lacht] damals,
+[00:05:27.2 - 00:05:34.3] Speaker 1: weil ich war zwar in der Schule immer gut, aber da wurde einem halt auch, äh, sehr viel gesagt, was man denn lernen muss, was man, was man machen muss und dann allein schon die,
+[00:05:35.6 - 00:05:38.4] Speaker 1: allein schon, dass ich mir dann selbst überlegen muss, was ich denn studieren möchte.
+[00:05:39.3 - 00:05:42.1] Speaker 1: Das war schon, da war ich schon überfordert von der Auswahl.
+[00:05:44.5 - 00:05:52.0] Speaker 1: Und da irgendwie, man war zwar im Berufsinformationszentrum mal gewesen mit der Schulklasse, aber das heißt ja noch lange nicht, dass ich weiß,
+[00:05:53.0 - 00:05:59.3] Speaker 1: was möchte ich denn später mal im, im Erwachsenenalter machen bis zur Rente? Was möchte ich denn im Geschäftsleben machen? Was, was kann ich denn eigentlich erreichen?
+[00:06:00.3 - 00:06:01.9] Speaker 1: Das muss man sich halt dann doch
+[00:06:04.4 - 00:06:13.0] Speaker 1: Selber aneignen, sich selber überlegen. Also die ganzen beruflichen Möglichkeiten hab ich jetzt eigentlich nicht so damals gelernt bekommen quasi.
+[00:06:18.1 - 00:06:41.9] Speaker 2: Mhm, mhm, mhm. Okay. Was
+[00:06:19.6 - 00:06:26.0] Speaker 1: Aber wie man's denn besser machen kann, ob man quasi 'n Schulfach, äh, dafür, für so was noch einführt von wegen,
+[00:06:27.3 - 00:06:29.4] Speaker 1: keine Ahnung, Vorbereitung aufs Business-Leben.
+[00:06:30.4 - 00:06:34.5] Speaker 1: Wär ja auch ganz nett, wenn's denn schon das Schulfach Glück gibt, warum nicht auch das Schulfach Business-Leben?
+[00:06:35.7 - 00:06:35.9] Speaker 1: Hm.
+[00:06:37.9 - 00:06:39.3] Speaker 1: Vielleicht würde das anderen auch helfen.
+[00:06:41.9 - 00:06:43.9] Speaker 2: hättest du dir denn gewünscht früher,
+[00:06:44.9 - 00:06:46.1] Speaker 2: was dir geholfen hätte
+[00:06:47.1 - 00:06:47.9] Speaker 2: in jungen Jahren?
+[00:06:50.9 - 00:07:20.1] Speaker 2: Und
+[00:06:51.3 - 00:06:51.9] Speaker 1: Hmm.
+[00:06:56.0 - 00:06:56.3] Speaker 1: Hm.
+[00:07:04.8 - 00:07:05.4] Speaker 1: Ich weiß gar nicht.
+[00:07:07.7 - 00:07:10.5] Speaker 1: Ich weiß gar nicht, wie man das Ganze aufdrück, auf, äh, ziehen könnte.
+[00:07:20.2 - 00:07:23.0] Speaker 2: wenn du mal rein intuitiv das Ganze durchleuchtest,
+[00:07:23.9 - 00:07:25.4] Speaker 2: der erste Impuls, der dir kommt.
+[00:07:27.9 - 00:07:29.2] Speaker 1: Na, vielleicht dort schon 'n bisschen,
+[00:07:32.2 - 00:07:33.8] Speaker 1: wo man sich halt durchaus, ähm,
+[00:07:35.7 - 00:07:40.7] Speaker 1: selbst überlegen muss, wa, mit welchen Studien kann ich denn quasi was erreichen? Wo, wo kann's denn hingehen? Was ist denn,
+[00:07:41.6 - 00:07:45.6] Speaker 1: was kann ich denn wählen und studieren und, und, ähm, was kann ich denn dann später noch damit machen?
+[00:07:50.3 - 00:07:54.9] Speaker 1: Allein das muss man sich ja schon häufig irgendwie selber aneignen oder selber überlegen und selber raussuchen.
+[00:07:59.9 - 00:08:01.4] Speaker 2: Mhm, okay, okay, okay.
+[00:08:02.3 - 00:08:03.6] Speaker 1: Oder wusstest du das immer direkt?
+[00:08:04.5 - 00:08:05.6] Speaker 2: Was wusst ich immer direkt?
+[00:08:06.5 - 00:08:08.8] Speaker 1: Ob du, ob du da, ob dir das völlig klar gewesen ist?
+[00:08:12.0 - 00:08:21.8] Speaker 2: Nee, nee, nee, das war auch 'n schrittweiser Prozess. 'N sch... 'N aufbauender Prozess war das, Step für Step, Stufe für Stufe.
+[00:08:22.2 - 00:08:22.4] Speaker 1: Ja.
+[00:08:23.7 - 00:08:27.4] Speaker 2: Manchmal vielleicht braucht man auch solche, ja, was heißt brauchen?
+[00:08:28.4 - 00:08:31.1] Speaker 2: Für manche war's halt 'n Weckruf, für manche war's 'n Hindernis.
+[00:08:32.5 - 00:08:32.7] Speaker 2: Tja,
+[00:08:36.1 - 00:08:41.5] Speaker 2: man kann einfach nur für die kommende Generation und für die jetzige Generation
+[00:08:43.3 - 00:08:46.5] Speaker 2: in dem Lebensbereich kann man versuchen, das Beste draus zu machen
+[00:08:47.8 - 00:08:50.3] Speaker 2: und eben vielleicht so 'n System zu entwickeln,
+[00:08:51.5 - 00:08:54.9] Speaker 2: was halt ziemlich allgemeingültig ist, wo man halt viele
+[00:08:56.2 - 00:08:58.1] Speaker 2: jüngere Leute, besonders natürlich
+[00:08:59.5 - 00:09:03.3] Speaker 2: Schulkinder oder sogar Kinder, vielleicht sogar schon noch im Kindergarten,
+[00:09:04.4 - 00:09:06.5] Speaker 2: dass man die damit abholen kann mit diesem System
+[00:09:07.4 - 00:09:08.7] Speaker 2: und dass man die Schritt für Schritt
+[00:09:09.6 - 00:09:11.0] Speaker 2: eben in die richtige Bahn lenkt.
+[00:09:12.3 - 00:09:12.9] Speaker 2: Dass die eben
+[00:09:13.9 - 00:09:18.3] Speaker 2: gewisse Dinge selber erkennen, dass die selber ins Machen, Tun, Handeln, Denken kommen
+[00:09:19.6 - 00:09:20.5] Speaker 2: und dann eben so
+[00:09:22.4 - 00:09:25.8] Speaker 2: schon von klein auf das Ganze, den Samen ins Wachsen bringen.
+[00:09:28.3 - 00:09:34.4] Speaker 1: Was lief denn bei dir anders, wa, was bei, was bei anderen vielleicht nicht so lief? Weil du wusstest ja immer von vornherein ziemlich genau, was du tust, was du willst.
+[00:09:35.2 - 00:09:36.7] Speaker 1: Was ist bei dir anders gelaufen?
+[00:09:38.0 - 00:09:41.3] Speaker 1: Vielleicht besser. [hustet] Mhm.
+[00:09:39.1 - 00:09:43.9] Speaker 2: Boah, gute Frage. Ich würd sagen, bei mir hat damals das Schachspielen eben sehr, sehr viel
+[00:09:45.3 - 00:09:59.2] Speaker 2: ausgemacht, dass ich von klein auf schon gelernt hab, dass es verschiedene Züge gibt und dass es nicht nur so den, den einen Weg gibt und dass, dass manches eben 'n bisschen komplexer und differenzierter zu betrachten ist als
+[00:10:00.1 - 00:10:02.2] Speaker 2: so völlig monoton und eindimensional. Also
+[00:10:03.4 - 00:10:14.1] Speaker 2: das hat mir schon sehr, sehr viel fürs Leben auch mitgegeben und früher hab ich das Ganze natürlich noch nicht so rational und tiefgreifend erkannt, aber so intuitiv hatt ich das sicherlich schon als, als Kind in mir, würd ich sagen,
+[00:10:15.0 - 00:10:20.9] Speaker 2: fing das schon an, aber ich hab halt noch nicht so zugreifen können drauf. Also die Hardware war da,
+[00:10:21.8 - 00:10:30.2] Speaker 2: aber die Software, die entsprechende Software, um auf die Hardware zugreifen zu können, hat halt noch in gewisser Weise gefehlt. Aber dennoch hat man, würd ich sagen,
+[00:10:31.4 - 00:10:39.4] Speaker 2: schon teilweise intuitiv das manches, manches halt erahnen können oder eben in sich drin gehabt dadurch, dass man das gemacht hat jahrelang,
+[00:10:40.4 - 00:10:53.3] Speaker 2: dass man eben gar nicht so auf diesen stumpfen Weg erst gekommen ist, weil dadurch hat man ja immer quasi den Verstand geschärft. Man musste ja immer Wege, mehrere Wege ausloten, musste mal schauen, was kann man machen, was kommt dann, was passiert dann?
+[00:10:54.0 - 00:11:00.9] Speaker 2: Und man-- Somit ist der Verstand halt eben ziemlich scharf geblieben, während es bei anderen eher stumpf geblieben ist,
+[00:11:01.8 - 00:11:03.9] Speaker 2: wo eben der Körper vielleicht geschärft wurde,
+[00:11:04.8 - 00:11:10.8] Speaker 2: aber die entsprechende Hardware ja gar nicht irgendwie funktioniert hat. Also man hat sich um die Software gekümmert, aber nicht um die Hardware.
+[00:11:12.0 - 00:11:12.3] Speaker 2: Und
+[00:11:13.5 - 00:11:19.0] Speaker 2: das ist ja auch im Generellen so, man sollte lieber erst sich um die Hardware kümmern und dann um die entsprechende Software.
+[00:11:20.5 - 00:11:25.7] Speaker 2: Also ich bin der Meinung, viele Leute sind von, von klein auf schon eher
+[00:11:27.1 - 00:11:33.6] Speaker 2: unpraktisch rangegangen an das Ganze und nicht wirklich zielführend mit 'nem Konzept, sondern dass man sich vielleicht mal um, um
+[00:11:34.5 - 00:11:42.4] Speaker 2: den Körper 'n bisschen gekümmert hat durch Sport, aber auch nicht so der passende Sport, würd ich sagen. Immer nur so 'n bisschen umhergeistern. Der Schulsport ist auch nicht so
+[00:11:41.4 - 00:11:41.4] Speaker 1: Mhm.
+[00:11:43.1 - 00:11:43.3] Speaker 1: Mhm. Mhm.
+[00:11:43.2 - 00:11:46.7] Speaker 2: das Wahre, würd ich sagen, für die Kinder. So 'n bisschen austoben, ja,
+[00:11:47.6 - 00:11:51.3] Speaker 2: aber ich würd sagen, selbst Kinder brauchen schon so 'n bisschen Kraftsport.
+[00:11:52.1 - 00:11:54.8] Speaker 2: Natürlich nur z... definitiv kontrollierter,
+[00:11:55.3 - 00:11:55.5] Speaker 1: Ja. Mhm. Mhm. Mhm.
+[00:11:55.8 - 00:12:06.2] Speaker 2: aber dass das vielen Kindern schon beigebracht wird, find ich 'n ziemlich wichtigen Punkt. Und dann natürlich auch besser das Gehirn ansprechen mit verschiedenen, mit verschiedenen Dingen.
+[00:12:07.4 - 00:12:12.8] Speaker 2: Sei es jetzt kreatives Denken, sei es jetzt pragmatisches Denken, sei es
+[00:12:13.9 - 00:12:16.1] Speaker 2: problem-, lösungsorientiertes Denken
+[00:12:17.0 - 00:12:27.5] Speaker 1: Mhm. [tippt] Mhm.
+[00:12:17.4 - 00:12:18.4] Speaker 2: In verschiedenen Wegen,
+[00:12:19.4 - 00:12:21.3] Speaker 2: dass man das Denken beansprucht und nicht so,
+[00:12:22.4 - 00:12:26.7] Speaker 2: nicht so wie in der Schule mit diesem stumpfen Auswendiglernen. Das bringt eben herzlich wenig.
+[00:12:28.3 - 00:12:28.4] Speaker 2: So.
+[00:12:29.9 - 00:12:31.3] Speaker 1: Das denke ich auch manchmal bei einem Abi.
+[00:12:32.3 - 00:12:46.2] Speaker 1: Die Leute können super auswendig lernen, aber das heißt noch lange nicht, dass sie super denken können. [tippt] Ja, also kehren könnten sie vielleicht super, wenn sie nicht so-- wenn sie wissen, wie's geht.
+[00:12:36.2 - 00:12:37.1] Speaker 2: Nee, das stimmt, ja.
+[00:12:38.5 - 00:12:41.0] Speaker 2: Schulintelligent, aber nicht straßenschlau.
+[00:12:46.2 - 00:13:01.2] Speaker 1: [tippt] Und deine Lehrer, waren die denn auch immer
+[00:12:46.7 - 00:12:48.1] Speaker 2: Mhm, so ist das.
+[00:12:51.5 - 00:12:52.7] Speaker 2: Ja, das stimmt.
+[00:12:55.9 - 00:12:56.6] Speaker 2: Das stimmt.
+[00:13:03.5 - 00:13:04.2] Speaker 1: einsatzbereit?
+[00:13:06.2 - 00:13:06.8] Speaker 1: Waren die denn gut?
+[00:13:07.8 - 00:13:09.7] Speaker 1: Oder müsste es eigentlich mal so einen Lehrer-TÜV geben?
+[00:13:11.6 - 00:13:16.8] Speaker 2: Lehrer-TÜV auf jeden Fall. Die folgen ja alle nur stumpf 'nem Skript, 'nem, 'nem Konzept.
+[00:13:17.8 - 00:13:20.5] Speaker 2: Aber 'n guter Lehrer, der folgt keinem Skript, sondern
+[00:13:18.1 - 00:14:33.6] Speaker 1: Mhm. [tippt]
+[00:13:21.6 - 00:13:24.3] Speaker 2: der ist anpassungsfähig, weil
+[00:13:25.1 - 00:13:28.0] Speaker 2: jede Schu-jede Schulklasse ist anders
+[00:13:29.0 - 00:13:33.0] Speaker 2: und, und es gibt unterschiedliche Personen in Schulklassen und
+[00:13:33.8 - 00:13:49.3] Speaker 2: manchmal muss man, also man muss sich immer anpassen, würd ich sagen. Und dieses Anpassen ist schwierig. Das kriegen die meisten Lehrer nicht gebacken. So, das ist-- schon alleine da hängt's ja und da hängt's halt auch viel davon ab, welcher Lehrer könnte wirklich passend sein.
+[00:13:49.3 - 00:14:06.9] Speaker 2: Also das sind viele Faktoren und das spiegelt sich dann auch wieder auf das Lernverhalten und die Leistung natürlich der, der Kinder wieder letztendlich. Wenn sie den Lehrer nicht mögen, wenn da keine oder wenig Sympathie da ist, dann mangelt natürlich auch die Leistung, die Mitarbeit und entsprechend das Generelle.
+[00:14:06.9 - 00:14:18.0] Speaker 2: Also alles mangelt ja. Und wenn man da sich so'n bisschen adaptiert, so'n bisschen anpasst an das Geschehen, an, an die Leute, dann hat man sicherlich auch bessere Ergebnisse. Und meine Lehrer, die,
+[00:14:20.0 - 00:14:22.8] Speaker 2: oh, wie soll ich sagen, die waren zwar fachlich okay, ja,
+[00:14:24.2 - 00:14:30.4] Speaker 2: aber mich hat's einfach nicht interessiert und die haben die, die Kinder einfach zu wenig abgeholt. Also es war zu wenig
+[00:14:31.6 - 00:14:34.3] Speaker 2: Menschlichkeit da und einfach viel zu viel,
+[00:14:33.6 - 00:14:52.8] Speaker 1: Mhm. Mhm. [tippt] Mhm.
+[00:14:36.2 - 00:14:38.5] Speaker 2: viel zu viel Dogmatismus, viel zu viel,
+[00:14:40.4 - 00:14:48.6] Speaker 2: äh, stumpf einseitiges Denken, Handeln und, und Tun, so wie's halt in vielen Schulen der Fall ist. Einfach nicht so dieses,
+[00:14:49.5 - 00:14:55.2] Speaker 2: dieses Menschliche, sondern nur dieses Skriptarbeiten nach Ablauf und fertig. Weil ja gut,
+[00:14:52.8 - 00:14:53.0] Speaker 1: [tippt]
+[00:14:56.8 - 00:14:59.7] Speaker 2: die, die Lehrer, die haben ja auch wenig Anreiz, sag ich mal,
+[00:15:01.4 - 00:15:08.3] Speaker 2: irgendwas eigenes oder, oder, oder eben selbst zu denken, weil die haben das eben jahrelang so gemacht und dafür werden sie bezahlt. Und
+[00:15:09.3 - 00:15:11.1] Speaker 2: ja, ich weiß nicht. Also
+[00:15:13.0 - 00:15:14.0] Speaker 2: ich würde mir halt immer über--
+[00:15:13.6 - 00:15:42.5] Speaker 1: Na, sie müssen ja auch nicht denken. Sie müssen ja nicht mehr denken. Sie sind ja eh schon verbeamtet. Ihnen geht's ja gut. [lacht]
+[00:15:17.2 - 00:15:20.9] Speaker 2: Ja, genau so ist es. Genau so ist es. Und das, das halt ich alles für,
+[00:15:22.4 - 00:15:24.9] Speaker 2: ja, wenig zielführend so. Das ist alles,
+[00:15:26.9 - 00:15:32.6] Speaker 2: man muss immer überlegen, es hat natürlich alles auch seine Daseinsberechtigung in gewisser Weise und dann ist die Frage:
+[00:15:33.5 - 00:15:35.5] Speaker 2: Es kommt halt immer drauf an. Es ist
+[00:15:36.9 - 00:15:40.9] Speaker 2: nicht einfach, nicht einfach. Aber wenn's einfach wär, wär's langweilig.
+[00:15:42.6 - 00:15:44.0] Speaker 1: Aber manchmal soll's auch mal einfach sein.
+[00:15:44.5 - 00:15:53.0] Speaker 2: Mhm. Ja, soll's, aber ist es nicht in der Praxis. 'Ne Theorie vielleicht. Und wenn man denkt, es ist einfach in der Theorie, hat man einfach nur noch nicht die andere
+[00:15:53.9 - 00:16:06.1] Speaker 2: Seite der Medaille durchleuchtet. Oder viele machen sich's auch einfach, weil sie eben nicht die andere Seite durchleuchtet haben oder weil sie vielleicht die andere Seite durchleuchtet haben, aber die eben ausblenden, bewusst oder unbewusst.
+[00:16:06.5 - 00:16:06.7] Speaker 1: Mhm.
+[00:16:07.1 - 00:16:07.7] Speaker 2: Je nachdem.
+[00:16:10.1 - 00:16:10.4] Speaker 2: Tja.
+[00:16:10.5 - 00:16:13.2] Speaker 1: Was wäre, was wäre denn als Kind so dein Traumjob gewesen?
+[00:16:14.5 - 00:16:15.6] Speaker 2: Kfz-Mechatroniker.
+[00:16:18.5 - 00:16:22.1] Speaker 2: Kfz-Mechatroniker, würd ich sagen. Also was heißt Traum-- boah.
+[00:16:23.2 - 00:16:28.2] Speaker 2: Ja, das war so, aber auch nicht so, wie soll ich sagen, Traumjob, Traum würd ich auch nicht sagen.
+[00:16:29.4 - 00:16:34.0] Speaker 2: Also das hätt ich gerne gemacht, ja, aber so richtig Traumjob hatt ich nie.
+[00:16:35.4 - 00:16:35.6] Speaker 2: Nee.
+[00:16:37.7 - 00:16:48.2] Speaker 2: Das wär das, was ich gerne gemacht hätte, aber so jetzt im Sinne von Traumjob, ich weiß es nicht. Also vielleicht würden das manche an meiner Stelle als Traumjob definieren, aber find ich schwierig,
+[00:16:49.3 - 00:16:50.4] Speaker 2: diese Definition.
+[00:16:51.5 - 00:16:59.4] Speaker 2: Aber ja, wenn man's jetzt ganz streng genommen will, kann man sagen Traumjob, aber ich würd jetzt viel mehr sagen, ich hab's gerne gemacht oder hätt es auch gerne gemacht.
+[00:17:01.4 - 00:17:14.0] Speaker 2: Aber das weiß man ja dann immer erst, wenn man's tut und ich war immer so'n bisschen der Freigeist, der, der Überlebenskünstler, hab auch früher schon eher so in meiner Welt da immer gezockt und so als,
+[00:17:08.5 - 00:17:08.7] Speaker 1: Mhm.
+[00:17:15.2 - 00:17:24.7] Speaker 2: als Schüler und immer gemerkt so'n bisschen, dass, dass das alles nicht so meins ist. Ja, und das, das, ähm, merk ich ja jetzt auch wieder so. Ich
+[00:17:16.7 - 00:17:30.5] Speaker 1: Mhm. [tippt] Mhm.
+[00:17:25.5 - 00:17:32.7] Speaker 2: bin halt nicht gerne unter Menschen. Die meiste Energie gewinn ich, wenn ich für mich bin, wenn ich meine Ruhe hab, wenn ich alleine bin, wenn ich im Hintergrund arbeiten kann,
+[00:17:30.5 - 00:17:30.5] Speaker 1: Mhm. Mhm.
+[00:17:34.1 - 00:17:38.3] Speaker 2: wenn ich dann Ruhe mein Zeug machen kann, dann bin ich, bin ich ziemlich zufrieden und glücklich.
+[00:17:39.3 - 00:17:42.7] Speaker 2: Und je weniger um mich Trubel ist, desto besser.
+[00:17:44.2 - 00:17:47.4] Speaker 2: Bin eher so der, der da im Stillen, Verborgenen was macht,
+[00:17:50.5 - 00:17:51.1] Speaker 2: muss ich sagen.
+[00:17:52.9 - 00:17:54.0] Speaker 1: Und das funktioniert so für dich.
+[00:17:54.2 - 00:17:56.0] Speaker 2: Ja, ja, wunderbar.
+[00:17:55.4 - 00:17:57.0] Speaker 1: Das ist das, was du auch gerne machen möchtest.
+[00:17:57.0 - 00:17:59.1] Speaker 2: Ja, auf jeden Fall. Ich brauch sehr viel Ruhe.
+[00:18:00.2 - 00:18:13.3] Speaker 2: Auch so generell, ich hab das in den letzten ein, zwei Jahren schon noch mal mehr gemerkt, wie, wie geil das eigentlich ist, wenn ich meine Ruhe hab. So damals war ich ja auch noch mehr unter Leuten, bin ins Studio gegangen zum Trainieren, haste die ganzen Kasper gesehen
+[00:18:08.6 - 00:18:08.8] Speaker 1: Mhm.
+[00:18:14.4 - 00:18:27.6] Speaker 2: und die dich angequatscht haben und immer irgendwas, was weiß ich, aber das ist alles so. Du hast halt immer diese ständige Reizüberflutung. Reiz dort, Reiz dort, da quatscht dich einer an, da hast du Musik. Das ist halt-- Wie so eine Art, du hast ständig Reize überall.
+[00:18:27.8 - 00:18:39.8] Speaker 2: Überall hast du ja Reize. Da fährt 'n Auto vorbei, ist 'n Reiz, da gehst du dahin, da siehst du Leute, das ist wieder 'n Reiz. Im Fitnessstudio läuft Musik, ist wieder 'n Reiz für dein Gehirn. Das sind alles immer Reize, die auf dein Gehirn prallen.
+[00:18:40.4 - 00:18:42.0] Speaker 2: Und was ich festgestellt hab, ist:
+[00:18:42.9 - 00:18:49.0] Speaker 2: Je mehr sich, je mehr man sich entreizt, desto mehr spürt man sich selber wieder.
+[00:18:49.8 - 00:18:50.0] Speaker 1: Mhm. Mhm. Mhm.
+[00:18:49.9 - 00:19:05.2] Speaker 2: Die wahre, die wahre Glückseligkeit liegt nicht im, in Reizüberflutung, sondern in weniger Reizen. Und deswegen sagt man ja auch so Dopamin-Detox oder Dopamin-Entzug, weil diese ganzen Dinge, die stimulieren dein Dopamin.
+[00:18:57.0 - 00:20:59.9] Speaker 1: Mhm. [lacht]
+[00:19:05.2 - 00:19:15.8] Speaker 2: Das heißt nicht unbedingt, dass das konsequent schlecht ist, aber um dich wirklich mal wieder befreiend und glücklich zu fühlen, musst du halt auch mal wieder diese komplette Stille haben.
+[00:19:16.1 - 00:19:30.0] Speaker 2: Und mit komplett mein ich auch komplett. So, und deswegen ist ja auch zum Beispiel 'n Waldspaziergang oder man sagt ja auch Waldbaden so geil. Da gehst du in die Natur, da hörst du vielleicht mal 'n Blatt rascheln oder 'n Tier vorbeilaufen oder Sonstiges.
+[00:19:30.1 - 00:19:32.3] Speaker 2: [schnieft] Oder am besten Fall gar nix.
+[00:19:33.2 - 00:19:43.8] Speaker 2: Und da hast du die Waldluft, die du einatmest. So, da hast du keinen Elektrosmog, hast du kein, äh, WLAN und den ganzen Dreck. Und da bist du mal nur für dich so.
+[00:19:44.0 - 00:19:47.4] Speaker 2: Und da kannst du mal wieder nach innen horchen und was ist 'n da eigentlich los?
+[00:19:48.2 - 00:19:57.2] Speaker 2: Und da legt sich auch vieles. Weißt du, der Körper kann so 'n bisschen sich befreien von, von den Altlasten, von den, von den destruktiven Gedanken.
+[00:19:58.3 - 00:20:02.1] Speaker 2: Die Biochemie innen drin, die wird besser. Bio, äh, die ganzen, äh,
+[00:20:03.5 - 00:20:06.5] Speaker 2: physiologischen Prozesse verbessern sich in gewisser Weise.
+[00:20:07.8 - 00:20:10.5] Speaker 2: Und [atmet durch] ja,
+[00:20:12.1 - 00:20:18.8] Speaker 2: ich denke, die meisten, die, die kommen davon zu kurz und die sind förmlich reizsüchtig, die meisten Menschen. Das
+[00:20:19.8 - 00:20:34.1] Speaker 2: merke ich auch, wenn ich irgendwo hingehe, die brauchen immer irgend 'nen Reiz, haben entweder das Handy in der Hand oder, oder quatschen mit irgendeinem oder, oder was weiß ich auch immer, aber die können nicht mal wirklich alleine sein und mal, mal nichts tun.
+[00:20:34.3 - 00:20:49.0] Speaker 2: Das kriegen die nicht gefressen. Die brauchen ständig immer von außen irgendwelche Scheißreize: Süßigkeiten, Pornos, Alkohol, Rauchen, Gespräche. Sage ich: „Lass doch das Ganze mal weg." Und dann fragen sich Menschen: „Ja, mir geht's nicht gut.
+[00:20:49.5 - 00:20:55.8] Speaker 2: Irgendwie weiß ich nicht. Äh, ich fühl mich nicht glücklich." Sage ich: „Ja, weil du dich verreizt.
+[00:20:57.1 - 00:20:58.8] Speaker 2: Aber dann entreize dich doch mal."
+[00:21:00.0 - 00:21:02.5] Speaker 1: Mhm. Aber du arbeitest ja auch permanent mit deinem Handy, oder nicht?
+[00:21:02.7 - 00:21:04.1] Speaker 2: Ja, weil ich's muss.
+[00:21:03.8 - 00:21:05.0] Speaker 1: Du sagst, ohne geht's ja gar nicht.
+[00:21:05.0 - 00:21:15.3] Speaker 2: Ja, natürlich, weil ich's muss, aber ich versuche mich halt von, von unnötigen, von überflüssigen Reizen zu entkoppeln, weil ich genau weiß, dass das nicht so das Wahre ist.
+[00:21:15.7 - 00:21:32.6] Speaker 2: So, mein Handy nutze ich sonst auch nur, um mir irgendwas reinzuziehen, um mich weiterzubilden. Dafür ist es auch okay. So, das mache ich auch gerne, aber ansonsten versuche ich eigentlich, so wenig Reize wie nur möglich zu haben, so wenig Gespräche wie nur möglich, so wenig-- Wie, wie gesagt, ich, ich guck lieber so nach innen, weißt du?
+[00:21:16.5 - 00:21:39.1] Speaker 1: Mhm.
+[00:21:32.6 - 00:21:35.1] Speaker 2: Weil je mehr ich meine Ruhe hab, desto mehr
+[00:21:36.4 - 00:21:49.0] Speaker 2: geht auch alles in Homöostase. Weißt du, was Homöostase ist? Also Ausgleich quasi. Der Körper und alles strebt ja immer nach Ausgleich. Ist ja wie im Auto auch. Deswegen hast du auch nicht nur das Gaspedal und nicht nur die Bremsen, sondern du hast Gaspedal und Bremse.
+[00:21:39.1 - 00:21:39.1] Speaker 1: Mhm.
+[00:21:41.1 - 00:21:41.3] Speaker 1: Mhm. Mhm. Mhm.
+[00:21:44.0 - 00:21:44.1] Speaker 1: Ja. Ja,
+[00:21:49.8 - 00:21:57.4] Speaker 2: Also alles in diesem Universum, alles auf diesem Planeten strebt ja quasi oder ist geprägt von Homöostase, von Ausgleich.
+[00:21:50.6 - 00:21:51.1] Speaker 1: sehr gut.
+[00:21:58.2 - 00:22:10.4] Speaker 2: So, wenn du ständig 'ne Reizüberflutung hast in jeglicher Hinsicht, manche sind ja sogar so krass übergewichtig, Fast Food, vielleicht noch 'n bisschen Alkohol oder Rauchen oder so, dann wenig Kohle,
+[00:21:58.3 - 00:21:58.5] Speaker 1: Mhm.
+[00:22:11.3 - 00:22:27.6] Speaker 2: dann ständig mit anderen labern. Du hast ständig Reize. Du, du weißt gar nicht mehr, wer du selber bist. Das-- Die Leute wissen gar nicht mehr, wer sie selber sind. Deswegen suchen sie auch immer so viel im Außen, so viel Geld und ja, da muss ich mit dem quatschen und da muss ich...
+[00:22:14.7 - 00:22:14.9] Speaker 1: Mhm.
+[00:22:27.7 - 00:22:30.7] Speaker 2: Nee. [seufzt] Die brauchen mal weniger.
+[00:22:31.7 - 00:23:59.5] Speaker 1: Leitet, leist, leitet dich das Geld denn überhaupt nicht? Lockt es dich überhaupt nicht, wenn du weißt, äh, wenn ich dieses oder jenes mache, dann verdiene ich damit richtig Kohle? [räuspert sich]
+[00:22:38.5 - 00:22:50.1] Speaker 2: Doch auf jeden Fall. Doch auf jeden Fall. Das ist ja nur so, das sagen ja auch nur diese ganzen, äh, Depressiven und die einen an der Klatsche haben, von wegen Geld macht nicht glücklich und so 'ne Scheiße, was die da alles erzählen, so.
+[00:22:50.8 - 00:23:11.0] Speaker 2: Äh, das ist-- [seufzt] Also ich mag das auch nicht, wenn da, wenn da Leute verklappt werden, ne? Da gibt's ja auch Leute, die vermeintlich erfolgreich sind und die dann auch sagen: „Ach ja, jetzt hab ich ja so viel Geld und wenn ihr mal so viel Geld habt, dann wüsstet ihr eigentlich, dass das ganze Geld nicht glücklich macht." Da sage ich: „Das ist alles dummer Scheiß, was die den Leuten labern."
+[00:23:11.3 - 00:23:14.0] Speaker 2: Also entweder sind das nur Leute, die keine Kohle haben
+[00:23:15.5 - 00:23:35.6] Speaker 2: oder die wirklich was haben, aber nie im Leben in der Scheiße gehangen haben, oder das sind solche Affen, die die Leute verklapsen für Klicks, für YouTube-Klicks, dass die Leute draufklicken und sich dann sagen: „Ach ja, ich muss ja gar nicht reich werden." So, das einerseits, um Klicks zu kassieren, dann um die Leute zu verwirren und dann, dass die Leute sagen: „Ach ja, da kann ich ja in meiner Komfortzone bleiben.
+[00:23:35.6 - 00:23:48.6] Speaker 2: Ich muss da nicht stinkreich werden." Das ist, äh, dummer Quatsch. Natürlich macht Geld glücklich. Klar. Also jeder, der sagt, Geld macht nicht glücklich, der, der hat entweder keins, der weiß nichts damit anzufangen oder ist depressiv.
+[00:23:49.4 - 00:23:50.3] Speaker 2: Einer der drei Gründe:
+[00:23:51.3 - 00:23:53.5] Speaker 2: Er ist depressiv, er weiß nichts damit anzufangen
+[00:23:54.3 - 00:23:58.0] Speaker 2: oder ja, [lacht] er ist einfach depressiv.
+[00:23:59.5 - 00:23:59.7] Speaker 1: Mhm.
+[00:24:00.9 - 00:24:02.9] Speaker 2: Ja, da gibt's für mich auch keine Diskussion. Es ist,
+[00:24:04.0 - 00:24:11.0] Speaker 2: ich, es ist, das finde ich auch nicht individuell, das ist einfach Schwachsinn. Weil wenn, wenn Geld nicht glücklich machen würde,
+[00:24:08.7 - 00:24:08.9] Speaker 1: Hm.
+[00:24:12.0 - 00:24:14.8] Speaker 2: dann müsste ja wiederum Armut nicht unglücklich machen. Tut's aber.
+[00:24:15.6 - 00:24:24.1] Speaker 2: Und dann sagen ja auch manche: „Ja, es gibt ja auch Arme, die s-leben so glücklich." Die haben überhaupt keine Ahnung. Wenn ich so 'ne Scheiße immer höre von den Leuten, das, das ist, äh--
+[00:24:25.0 - 00:24:26.1] Speaker 2: Die erzählen da irgendwas
+[00:24:25.5 - 00:24:30.3] Speaker 1: Aber es gibt ja, es gibt ja auch Übergewichtige, die sagen: „Ich fühle mich total wohl in meiner Haut. Ich will überhaupt nichts ändern."
+[00:24:29.2 - 00:24:29.4] Speaker 2: Ja.
+[00:24:30.4 - 00:24:45.4] Speaker 2: Ja natürlich, weil sie die Realität ausblenden. Genau, das ist, äh, Realitätsausblendung. Genauso ist es jetzt-- Das machen ja meistens nur Arme, die, die so 'n Quatsch erzählen. So, die reden sich das schön, weil sie genau wissen: „Okay, da müsst ich mi, mich ja mal ranklemmen." Weißt du?
+[00:24:31.8 - 00:24:32.7] Speaker 1: Geht doch in dieselbe Richtung.
+[00:24:45.4 - 00:24:57.0] Speaker 2: Weil Kohle zu verdienen ist ja nicht einfach. Da müsst ich ja mal meinen scheiß Arsch bewegen, da müsst ich mich ja mal ranklemmen. So, und deswegen kommen die, deswegen driften die so auf die spirituelle Sicht ab: „Ach ja, Geld ist ja nicht so gut.
+[00:24:47.8 - 00:24:48.0] Speaker 1: Nee.
+[00:24:57.1 - 00:25:04.3] Speaker 2: Man muss ja nur spirituell sein." Ach, das, dieses ganze, ach, ich will's schon gar nicht sagen. Dieses ganze Gelaber da, das ist alles,
+[00:25:05.3 - 00:25:17.4] Speaker 2: das sind alles Luschen, das sind alles Mogelpackungen, Weicheier, Versager, die sich ihre eigene, ähm, ihr eigenes Versagen schönreden wollen oder, oder ausblenden wollen.
+[00:25:17.5 - 00:25:20.4] Speaker 2: Aber wirklich mal zu sagen: „Ja, verdammt, äh,
+[00:25:21.6 - 00:25:32.5] Speaker 2: ich hab's nicht gefressen gekriegt. Jetzt müsst ich mal Kohle verdienen, müsst mich um meine Gesundheit kümmern." So, das kriegen die nicht gefressen und deswegen erzählen die da so 'n Scheiß. So. Ne, warum sollte Geld nicht glücklich machen?
+[00:25:32.6 - 00:25:44.0] Speaker 2: Also mich macht Geld überglücklich. So, wenn ich Kohle hab, da hab ich meine Ruhe. Geld bedeutet Ruhe, bedeutet Freiheit, Entscheidungsfähigkeit. Du hast mehr Gesundheit. Das ist ja nicht nur die Leute sagen einfach nur Geld.
+[00:25:44.3 - 00:26:00.9] Speaker 2: Sag ich: „Weißt du eigentlich, was du mit Geld alles machen kannst? Du kannst dir das beste Leben ermöglichen. Das wiederum führt zu mehr Zufriedenheit und Zufriedenheit bedeutet Glück." Ganz einfach. So, und da braucht man nicht zu sagen: „Geld macht nicht glücklich." Ja, weil du nichts damit anzufangen weißt oder weil du depressiv bist oder weil du einfach 'n Depp bist.
+[00:26:01.8 - 00:26:14.8] Speaker 2: Aber in jedem Fall macht Geld einfach glücklich. Nicht jetzt im Sinne von du kannst dir mehr materielle Güter kaufen. Nein, aber du kannst dir die beste medizinische Versorgung leisten. Du kannst dir die besten Gesundheitsprodukte kaufen, ne.
+[00:26:14.8 - 00:26:35.0] Speaker 2: Der Markt ist ja momentan übersättigt damit. Es gibt ja so viele Produkte, was du alles für deine Gesundheit tun kannst. Da gibt's ja so unfassbar viel, wovon die meisten Menschen nicht mal wissen, aber förmlich behaupten, es würde nicht glücklich machen, sag ich: „Wa-- Ich kann die Scheiße nicht mehr hören." Na ja, jedenfalls, jedenfalls, wenn, wenn Geld nicht
+[00:26:17.7 - 00:26:18.0] Speaker 1: Ja klar.
+[00:26:30.1 - 00:26:30.1] Speaker 1: Mhm. [lacht]
+[00:26:32.0 - 00:26:44.5] Speaker 1: Ja klar. [lacht] Na los.
+[00:26:35.0 - 00:26:36.9] Speaker 2: glücklich machen würde, dann müsste die Armut
+[00:26:37.8 - 00:26:53.5] Speaker 2: nicht unglücklich machen. Tut's aber. Armut macht immer unglücklich. Immer. So, und wenn dann Leute als Beispiel sagen: „Ja, aber es gibt doch auch Menschen, Kulturen und Länder, da sind die Leute richtig arm und die sind auch glücklich." Da sag ich: „Frage ich:
+[00:26:53.3 - 00:26:54.5] Speaker 1: Ja, dann sollten sie doch dahinziehen.
+[00:26:55.1 - 00:27:06.4] Speaker 2: „Ja, warst du schon mal in den Ländern?", frag ich, „Warst du schon mal in den Ländern, dass du solche Behauptungen aufstellst? Warst du schon mal in Afrika?", frag ich. „Warst du da schon mal? Weißt du, ob dass die Leute glücklich sind?",
+[00:27:07.3 - 00:27:21.0] Speaker 2: sag ich. „Nein, das hab ich aber gesehen auf Bildern oder auf Videos." Ja natürlich, weil das ja auch alles so echt ist. Da sag ich: „Nach außen hin strahlen die." Ja, weil's in gewisser Weise Gewohnheit ist, weil die sich dran gewöhnt haben.
+[00:27:21.3 - 00:27:31.6] Speaker 2: Klar, das heißt aber nicht, dass die glücklich sind. Das ist nur so 'n bisschen Gewohnheit und weil die sich's erträglich machen müssen. Die können ja nicht jeden Tag mit so 'ner, mit so 'ner Fresse durchs Leben rennen.
+[00:27:32.2 - 00:27:38.4] Speaker 2: Aber dass die wirklich wahrhaftig glücklich sind, nein. Und ich habe tatsächlich schon mit einigen Afrikanern gesprochen.
+[00:27:39.3 - 00:27:43.6] Speaker 2: Die haben mir auch bestätigt, dass die, dass manche dort nicht mal arm sind.
+[00:27:44.7 - 00:27:51.1] Speaker 2: Also viele dort. Also wir Deutschen denken ja: „Ja, die sind ja, äh, bettelarm." 'N Teil ja,
+[00:27:50.9 - 00:27:52.4] Speaker 1: Nee, sind die nicht alle. Nee.
+[00:27:52.0 - 00:27:54.7] Speaker 2: aber viele davon sind gar nicht bettelarm. So.
+[00:27:56.6 - 00:28:15.6] Speaker 2: Und ja, das ist so meine Meinung dazu. Also ich find das alles dummes Schwachsinnsgelaber und das find ich einfach unterste Sau, wenn sich da Leute hinstellen und irgendwie online erzählen: „Ja, ich hab mich selbst gefunden und jetzt brauch ich kein Geld mehr und wenn du spirituell bist, dann brauchst du das." Ach, das ist-- Ich kann's nicht mehr hören, ey.
+[00:28:16.7 - 00:28:18.0] Speaker 1: Also ich brauche durchaus Geld
+[00:28:18.4 - 00:28:19.7] Speaker 2: Ja, wer braucht das nicht?
+[00:28:19.3 - 00:28:23.7] Speaker 1: und ich hab auch gerne was aufm Konto. Und ich hab auch gerne keine So-- keine, keine Bedenken, dass mir irgendwie,
+[00:28:20.8 - 00:28:20.9] Speaker 2: Ja.
+[00:28:24.7 - 00:28:33.5] Speaker 1: dass mir, äh, die nächste Miete irgendwie Probleme bereiten würde. Möcht ich, möcht ich auch gar nicht. Ich möchte keine, ich möchte keine Sorgen darüber haben, dass ich mir irgendetwas Wichtiges nicht leisten kann.
+[00:28:33.8 - 00:28:35.1] Speaker 2: Ich behaupte auch mal, dass...
+[00:28:34.5 - 00:28:36.7] Speaker 1: Und das beruhigt mich sehr. Das beruhigt mich.
+[00:28:37.2 - 00:28:41.2] Speaker 2: Ja, auf jeden Fall natürlich und ich behaupte mal, das ist bei jedem normalen Menschen so.
+[00:28:43.0 - 00:28:44.6] Speaker 2: Oder sollte es zumindest so sein.
+[00:28:46.2 - 00:28:49.1] Speaker 1: Na ja, ich hab auch 'n Freund, der hat sich jetzt, äh, erst, äh,
+[00:28:48.8 - 00:28:48.8] Speaker 2: Aha.
+[00:28:50.1 - 00:28:51.1] Speaker 1: einiges geliehen von mir,
+[00:28:52.4 - 00:28:59.0] Speaker 1: weil er halt 'ne Geldstrafe zahlen musste, schon horrende. [räuspert sich] Konnte er sich aber nicht leisten und wäre prinzipiell auch in den Knast gegangen.
+[00:29:00.7 - 00:29:01.1] Speaker 1: Weil er
+[00:29:02.4 - 00:29:04.5] Speaker 1: halt auch so ist, dass er halt sagt: „Ja, hm,
+[00:29:05.8 - 00:29:08.2] Speaker 1: ja, heut keine Lust und heute müde und ähm,
+[00:29:09.4 - 00:29:09.6] Speaker 1: jo,
+[00:29:11.4 - 00:29:11.7] Speaker 2: Könntest...
+[00:29:11.4 - 00:29:23.1] Speaker 1: heute krank, heute Rücken, heute geht nicht, heute Wetter, heute ...“ Ähm,
+[00:29:15.4 - 00:29:16.7] Speaker 2: Könntest du mal kurz pausieren?
+[00:29:26.8 - 00:29:32.4] Speaker 1: ja, manche können sich's halt einfach nicht leisten, weil manche haben sich halt irgendwie nicht so richtig was
+[00:29:33.3 - 00:29:33.8] Speaker 1: aufgebaut
+[00:29:35.2 - 00:29:38.1] Speaker 1: und manchen ist es halt einfach zu anstrengend, sich irgendwas aufzubauen.
+[00:29:42.1 - 00:29:43.5] Speaker 2: Ja, das ist wohl wahr,
+[00:29:44.7 - 00:29:49.3] Speaker 2: weil das ist, liegt meiner Meinung nach viel mit an Dopamin
+[00:29:50.4 - 00:29:54.9] Speaker 2: und eben Testosteronmangel bei Männern und Frauen
+[00:29:55.7 - 00:29:58.4] Speaker 2: haben manchmal gar nicht so die Ambitionen dafür.
+[00:29:59.7 - 00:30:05.2] Speaker 2: Und manche Frauen, ja, weiß ich nicht, mit Frauen kenn ich mich jetzt nicht so aus mit den Prozessen, was das anbelangt.
+[00:29:59.9 - 00:30:00.1] Speaker 1: Mhm.
+[00:30:06.4 - 00:30:09.8] Speaker 2: Bei manchen Frauen kommt's dann erst später. Hm, kommt drauf an.
+[00:30:11.1 - 00:30:15.5] Speaker 2: Manche schauen dann doch mal, so was kann man noch tun, weil das Einkommen nicht reicht.
+[00:30:15.1 - 00:30:15.3] Speaker 1: Mhm.
+[00:30:16.8 - 00:30:27.8] Speaker 2: Aber Männer, denk ich mal, sind trotzdem tendenziell schon mehr auf Finanzen fokussiert, auf Karriere und so und Frauen halt viel mehr so auf Familie, auf dieses Zwischenmenschliche.
+[00:30:26.7 - 00:30:26.8] Speaker 1: Ja.
+[00:30:28.4 - 00:30:45.5] Speaker 2: Das ist bei Frauen mehr verankert und Frauen schauen tendenziell jetzt mehr darauf, weil halt eben das Geld knapper ist sicherlich, klar. Aber Männer würden auch, also normale Männer, die gut aufgestellt sind, die würden auch so schauen, dass sie mehr vorankommen, selbst wenn das Geld jetzt nicht so knapp ist.
+[00:30:46.2 - 00:30:57.2] Speaker 2: Ist zumindest meine Ansicht, weil Männer streben halt immer nach dem Maximum. Frauen streben so nach dem Optimum und Männer streben nach dem Maximum, zumindest jetzt, was Finanzen anbelangt.
+[00:30:47.3 - 00:30:47.5] Speaker 1: Mhm.
+[00:30:57.3 - 00:30:59.0] Speaker 2: Tendenziell, tendenziell.
+[00:30:59.1 - 00:30:59.5] Speaker 1: Mhm.
+[00:31:00.9 - 00:31:01.2] Speaker 2: Und
+[00:31:02.5 - 00:31:14.3] Speaker 2: na ja, dann ist sicherlich vielleicht auch wieder personenabhängig, lebensabhängig, was man erlebt hat, was man so für Ausgaben hat, ko, ähm, was man für Lebensstandard hat und dies und das.
+[00:31:16.2 - 00:31:19.3] Speaker 2: Aber ja, dennoch sollte man ja immer nach vorne schauen, oder? Bin ich der Meinung.
+[00:31:20.2 - 00:31:20.5] Speaker 1: Schon.
+[00:31:22.5 - 00:31:22.8] Speaker 2: Tja.
+[00:31:22.8 - 00:31:23.5] Speaker 1: Das auf jeden Fall.
+[00:31:29.7 - 00:31:31.2] Speaker 1: Meinst du, die m-- Frauen haben's schwerer
+[00:31:32.1 - 00:31:32.7] Speaker 1: nach wie vor?
+[00:31:33.7 - 00:31:34.2] Speaker 2: Inwiefern?
+[00:31:35.5 - 00:31:41.9] Speaker 1: Schwerer, ähm, Fuß zu fassen, schwerer voranzukommen, schwerer Karriere zu machen heutzutage immer noch.
+[00:31:43.4 - 00:31:45.9] Speaker 2: Schwierige Frage. Ich würd sagen,
+[00:31:47.9 - 00:31:50.6] Speaker 2: es ist jetzt, ich kann jetzt nur subjektiv reden,
+[00:31:51.5 - 00:31:54.2] Speaker 2: aber subjektiv gesehen würd ich sagen, Frauen haben's
+[00:31:55.6 - 00:32:00.5] Speaker 2: eher sogar noch leichter als Männer. Frauen haben's leichter, weil Frauen haben einfach,
+[00:32:01.3 - 00:32:01.8] Speaker 2: äh, pff,
+[00:32:02.6 - 00:32:09.4] Speaker 2: Frauen haben einfach mehr Vorteile, eben durch ihr Geschlecht. Ja, wirklich, muss ich wirklich sagen. Aus meiner Sicht,
+[00:32:05.5 - 00:32:05.9] Speaker 1: Meinst du?
+[00:32:07.9 - 00:32:48.8] Speaker 1: [tippt]
+[00:32:10.9 - 00:32:24.5] Speaker 2: hm, ist aber jetzt schon wieder meine Sicht, wenn, wenn man's jetzt objektiv beurteilen würde. Also wer kann denn das schon wirklich objektiv beurteilen? Vielleicht 'ne KI, ja, aber die ist ja auch kein Mensch. Die kann ja auch nur auf Daten zugreifen, aber schon in der Tendenz, ja, würd ich schon sagen.
+[00:32:25.2 - 00:32:25.6] Speaker 2: Weil
+[00:32:26.8 - 00:32:39.2] Speaker 2: es gibt ja etwas mehr Männer als Frauen in der Welt, soweit ich weiß. Und Männer haben ja meistens sicherlich die Oberhand, sind in Geschäftsstrukturen stark vertreten. Es gibt ja mehr Chefs als Chefinnen
+[00:32:40.2 - 00:32:40.4] Speaker 2: und,
+[00:32:41.3 - 00:32:49.5] Speaker 2: und also 'n Mann, der, der räumt halt 'ner Frau tendenziell mehr Vorteile ein als 'nem Mann. Das ist ja auch nicht irgendwie,
+[00:32:48.8 - 00:32:49.0] Speaker 1: Mhm.
+[00:32:50.3 - 00:33:05.7] Speaker 2: das ist halt einfach so. Das ist häufig der Fall, ja. Nur alleine deswegen, dass die manchmal einfach auch mehr Geld bekommen oder noch irgendwelche anderen Vorzüge oder Vorteile. Und auch so generell, was Business anbelangt, sind Frauen tendenziell auch eher im Vorteil.
+[00:33:06.4 - 00:33:10.9] Speaker 2: Leute kaufen einfacher als von 'ner Frau als von 'nem Mann. Das ist einfach so.
+[00:33:12.0 - 00:33:23.4] Speaker 2: Wenn, wenn die Verkaufsfähigkeiten von, von 'nem Mann und von 'ner Frau auf gleichem Niveau sind, kauft der Automat-- Normalverbraucher trotzdem noch mal eher von einer Frau als von einem Mann, würd ich sagen.
+[00:33:23.9 - 00:33:30.2] Speaker 2: Schon alleine nur aufgrund des Geschlechtes, weil die einfach dadurch 'ne etwas höhere Überzeugungskraft haben.
+[00:33:24.0 - 00:33:24.1] Speaker 1: Ja.
+[00:33:31.4 - 00:33:31.7] Speaker 1: Okay.
+[00:33:31.8 - 00:33:42.4] Speaker 2: Also die sind, ja, Frauen sind schon aus meiner Sicht bevorteilt, was das anbelangt. Also sie sind halt einfach privilegiert, was, was das Finanzielle, was das Kommerzielle angeht, würd ich schon sagen.
+[00:33:43.5 - 00:33:47.5] Speaker 1: Also eigentlich ist es ja eher so, dass das die Frauen meistens weniger verdienen als die Männer
+[00:33:48.5 - 00:34:01.4] Speaker 2: Ja, sie verdienen weniger, aber so generell, wenn, wenn's jetzt um das Geschäftliche geht, wenn's um die Verwirklichung geht, um das Marketing oder wie auch immer, sind tendenziell schon die Frauen privilegierter als die Männer, würd ich sagen.
+[00:33:48.6 - 00:33:49.2] Speaker 1: nach wie vor.
+[00:34:02.5 - 00:34:04.8] Speaker 2: Würd ich sagen. Ist meine subjektive Meinung.
+[00:34:06.1 - 00:34:06.4] Speaker 1: Okay.
+[00:34:06.5 - 00:34:07.7] Speaker 2: Heißt nicht, dass es jetzt
+[00:34:09.1 - 00:34:16.1] Speaker 2: immer so stimmt oder dass es überhaupt stimmt, aber das ist so meine Wahrnehmung halt, dass Frauen eben bevorteilt sind, was das anbelangt.
+[00:34:14.4 - 00:34:14.7] Speaker 1: Mhm.
+[00:34:17.8 - 00:34:19.0] Speaker 1: Fühlst du dich benachteiligt?
+[00:34:20.5 - 00:34:32.7] Speaker 2: Ja, was heißt, also ich fühl mich nicht benachteiligt in dem Sinne. Es ist halt einfach mein Geschlecht. Ich hab halt andere Vorteile, aber was das Finanzielle anbelangt, mein Mann kann sich genauso verwirklichen oder halt, was heißt genauso?
+[00:34:32.7 - 00:34:40.3] Speaker 2: Also ja, er kann halt selbst sehr, sehr, sehr gute Resultate erzielen. Das will ich damit nicht sagen, dass ich mich jetzt benachteiligt fühle.
+[00:34:41.4 - 00:34:41.7] Speaker 2: Hm,
+[00:34:44.3 - 00:34:56.2] Speaker 2: ja, wenn man's jetzt ganz streng genommen nimmt, kann man schon sagen, dass ich mich als Mann oder als Männer sich etwas benachteiligt fühlen, weil halt die Frauen 'nen leichten Vorteil hab, haben, aber das ist jetzt für mich keine Ausrede oder,
+[00:34:57.3 - 00:35:00.4] Speaker 2: hm, Aufhängekriterium, dass ich sagen würde,
+[00:35:01.8 - 00:35:06.8] Speaker 2: nur weil ich benachteiligt bin oder, oder so, da hab ich jetzt 'nen Freifahrtschein. Nein, nein, nein, nein, nein.
+[00:35:08.0 - 00:35:14.7] Speaker 2: Nö, nö, ich seh das, wenn ich das so betrachte, seh ich das dann eher als Antrieb. Und wie gesagt, Männer können sich genauso gut verwirklichen.
+[00:35:16.0 - 00:35:16.8] Speaker 2: Auch sehr, sehr gut.
+[00:35:20.0 - 00:35:29.1] Speaker 2: Nur weil man einen etwas, etwas leichten Vorteil hat oder weil man privilegierter ist, heißt das ja nicht unbedingt, dass man immer die besten Karten hat.
+[00:35:20.2 - 00:35:20.3] Speaker 1: Ja.
+[00:35:30.2 - 00:35:30.9] Speaker 1: Ja, das stimmt.
+[00:35:31.1 - 00:35:35.0] Speaker 2: Also man hat mal vielleicht die besten Karten, aber muss ja nicht immer so sein und
+[00:35:36.1 - 00:35:42.9] Speaker 2: jemand anders hat dann dafür vielleicht etwas mehr Antrieb als der andere oder ist etwas disziplinierter, je nachdem und
+[00:35:43.7 - 00:35:50.4] Speaker 2: auf lange Sicht hin gesehen kann sich das ja eventuell ausgleichen, je nachdem. Also es kommt immer, kommt immer drauf an.
+[00:35:51.5 - 00:35:51.7] Speaker 1: Mhm.
+[00:35:53.2 - 00:35:54.3] Speaker 2: Und wie siehst du das Ganze?
+[00:35:56.4 - 00:36:01.2] Speaker 1: Also allein vom, von der Gehaltszahlung her würde ich mal sagen, dass die Männer schon nach wie vor
+[00:36:02.3 - 00:36:06.4] Speaker 1: Vorteile haben. Vielleicht auch einfach, weil sie besser verhandeln, würde ich sagen. Also es ist gar nicht...
+[00:36:08.9 - 00:36:15.8] Speaker 1: Ich glaub, ich glaub, die treten einfach eher für sich ein. Die sind einfach überzeugter von dem, was sie machen, überzeugter von dem, was sie tun
+[00:36:16.9 - 00:36:17.7] Speaker 1: und entsprechend
+[00:36:19.7 - 00:36:22.9] Speaker 1: stehen sie dann halt am bes-- am Ende auch 'n bisschen besser da, glaub ich.
+[00:36:29.9 - 00:36:36.5] Speaker 1: Also es ist-- Ich weiß gar nicht, ob sie-- Ja, ich glaub, es liegt dann schon eher an der Mentalität, weil ich bin auch so tatsächlich, dass ich eher zurückschreite
+[00:36:36.8 - 00:36:37.1] Speaker 2: Mhm.
+[00:36:37.5 - 00:36:39.2] Speaker 1: und dann eher nachgebe als, ähm,
+[00:36:41.1 - 00:36:42.6] Speaker 1: Kollegen. Definitiv.
+[00:36:47.8 - 00:36:51.4] Speaker 1: Ich glaube aber, du bist aber auch von der Mentalität her einer, der vorangeht.
+[00:36:53.7 - 00:38:00.5] Speaker 1: Das ist, glaub ich, auch ein großer Unterschied.
+[00:36:53.9 - 00:37:04.6] Speaker 2: Tja, auf jeden Fall. Ja, das ist so für mich der Sinn des Lebens. Der Rest ergibt ja auch keinen Sinn irgendwie. Also ja, ja natürlich, klar, in jeglicher Hinsicht. Ich probier mal vorwärts zu gehen,
+[00:37:06.7 - 00:37:08.0] Speaker 2: so lange, so gut wie's geht.
+[00:37:10.0 - 00:37:10.3] Speaker 2: Und
+[00:37:11.2 - 00:37:13.7] Speaker 2: ja, das zu tun, was in meiner Macht steht
+[00:37:14.8 - 00:37:21.8] Speaker 2: und das, was ich nicht tun kann oder das, was ich nicht verändern kann, in größtmöglicher Gelassenheit zu akzeptieren.
+[00:37:25.0 - 00:37:32.4] Speaker 2: Manchmal gelingt was gut, manchmal gewinnt was, manchmal gelingt was eher mittelgut und manchmal eher suboptimal, aber
+[00:37:33.7 - 00:37:38.7] Speaker 2: so generell hinterfrage ich mich auch dann immer selber: Was hätt ich besser machen können? Was war gut?
+[00:37:40.1 - 00:37:41.1] Speaker 2: Um so halt eben
+[00:37:44.5 - 00:37:45.0] Speaker 2: zu wissen,
+[00:37:46.0 - 00:37:46.6] Speaker 2: wie, wo, was.
+[00:37:53.7 - 00:38:08.0] Speaker 2: Mhm. [stöhnt] Das kommt,
+[00:38:00.6 - 00:38:03.8] Speaker 1: Bist, bist du denn eher ein, ein, ein Umsetzer oder eher ein Berater?
+[00:38:09.0 - 00:38:11.0] Speaker 2: das kommt drauf an. Boah.
+[00:38:12.3 - 00:38:16.3] Speaker 2: Eigentlich eher so viel mehr der Umsetzer. Das Beraten, das, pff,
+[00:38:15.3 - 00:38:15.5] Speaker 1: Mhm.
+[00:38:18.6 - 00:38:18.9] Speaker 2: tja,
+[00:38:20.0 - 00:38:20.6] Speaker 2: mach ich halt,
+[00:38:21.5 - 00:38:25.3] Speaker 2: kann ich halt. Nee, ich setz schon lieber eher um, muss ich sagen. Ja.
+[00:38:26.7 - 00:38:28.1] Speaker 2: Mhm. Ich setz lieber um.
+[00:38:29.2 - 00:38:29.5] Speaker 2: Und du?
+[00:38:35.0 - 00:38:35.9] Speaker 1: Ein bisschen beides?
+[00:38:38.3 - 00:38:48.4] Speaker 1: Aber lieber ein-- Ich mag, ich mag's gar nicht so sehr, drüber, drüber zu, zu fachsimpeln und zu planen und zu, und zu, zu überlegen. Ich mag's dann eher, wenn ich, wenn ich sehe, dass was gemacht werden muss, möcht ich's gerne machen.
+[00:38:50.1 - 00:38:54.7] Speaker 1: Und dieses Ganze vorher entscheiden und planen und auch irgendwie austüfteln, das mag ich gar nicht.
+[00:38:56.8 - 00:39:00.3] Speaker 1: Finde, manche Sachen würden viel schneller gehen und umgesetzt werden, wenn, wenn man sie einfach umsetzt.
+[00:39:01.4 - 00:39:02.0] Speaker 2: Ja, auf jeden Fall.
+[00:39:03.0 - 00:39:11.2] Speaker 1: Deswegen bin ich auch kein toller IT-Entwicklungsprojektmensch, weil ich will, ich will gar kein langes Projekt, ich möcht's gerne gelöst.
+[00:39:11.8 - 00:39:12.0] Speaker 2: Mhm.
+[00:39:13.7 - 00:39:14.1] Speaker 2: Versteh ich.
+[00:39:16.9 - 00:39:19.8] Speaker 1: Ich will auch kein Problemlöser sein, ich will überhaupt gar keine Probleme haben.
+[00:39:22.2 - 00:39:22.9] Speaker 1: Ist ja noch besser.
+[00:39:23.5 - 00:39:25.2] Speaker 2: Das wär noch besser allerdings, ja.
+[00:39:26.1 - 00:39:27.8] Speaker 2: Aber darum, da kommt man
+[00:39:28.7 - 00:39:30.7] Speaker 2: manchmal oder häufig sogar nicht drum rum.
+[00:39:31.7 - 00:39:32.2] Speaker 1: Das stimmt.
+[00:39:32.5 - 00:39:34.3] Speaker 2: Das ist ja auch, das sind ja auch,
+[00:39:35.6 - 00:39:39.0] Speaker 2: pff, sind ja auch wesentliche,
+[00:39:42.1 - 00:39:44.2] Speaker 2: wesentliche Stellschrauben in gewisser Weise,
+[00:39:45.4 - 00:39:45.8] Speaker 1: Ja, schon.
+[00:39:45.5 - 00:39:51.2] Speaker 2: die den Fortschritt, die die Entwicklung vorantreiben. Wenn's keine Probleme geben würde, dann
+[00:39:52.4 - 00:39:55.9] Speaker 2: warum sollten dann Lösungen dafür her? Warum sollte dann gesagt werden:
+[00:39:57.5 - 00:40:03.0] Speaker 2: „Da müssen wir jetzt was verbessern“, oder: „Da müssen wir was Neues machen oder was anderes“, oder wie auch immer.
+[00:40:04.2 - 00:40:06.5] Speaker 2: Das baut ja nur auf Fehlern und Problemen alles auf.
+[00:40:07.5 - 00:40:10.4] Speaker 2: Deswegen, die wird's ja immer in gewisser Weise geben, würd ich sagen.
+[00:40:11.2 - 00:40:13.6] Speaker 2: Auch im, weiß ich, ich kann mir schwer vorstellen...
+[00:40:15.0 - 00:40:17.7] Speaker 2: Ja, aber auch im, auch im Leben so. Das ist,
+[00:40:18.8 - 00:40:22.2] Speaker 2: selbst wenn man dann Kohle hat, es wird sicherlich immer mal irgendwie zwischendrin
+[00:40:23.2 - 00:40:28.8] Speaker 2: gewisse Probleme geben, auch wenn das für mich schwer vorstellbar ist, weil Geld ist ja häufig so das
+[00:40:29.8 - 00:40:34.6] Speaker 2: einzige Problem. Gut, Gesundheit natürlich vielleicht auch, ja, oder mal irgendwas im Haushalt oder so.
+[00:40:35.6 - 00:40:40.4] Speaker 2: Aber abgesehen davon, was gibt's denn jetzt, wenn man allein ist, noch großartig für Probleme? Hm.
+[00:40:41.5 - 00:40:44.7] Speaker 2: Tja, vielleicht mit dem Partner oder Partnerin, aber wenn man die auch nicht hat.
+[00:40:46.7 - 00:40:47.0] Speaker 2: Tja.
+[00:40:48.5 - 00:40:49.8] Speaker 1: Meinst du, du hast gar keine Probleme?
+[00:40:51.8 - 00:40:53.6] Speaker 2: Hm, was ich... Doch.
+[00:40:54.4 - 00:40:56.2] Speaker 2: Doch, doch, doch. Aber
+[00:40:59.2 - 00:41:03.4] Speaker 2: sicherlich weniger als, als die meisten anderen, denk ich mal.
+[00:41:05.9 - 00:41:14.3] Speaker 2: Aber ich kann ja nur, es ist ja auch wieder jetzt subjektiv. Ich weiß ja gar nicht, wie viele Probleme die anderen haben, aber ja, würd ich schon sagen. Ich hab tendenziell,
+[00:41:09.3 - 00:41:09.9] Speaker 1: Meinst du das?
+[00:41:15.1 - 00:41:17.5] Speaker 2: denk ich mal, schon weniger Probleme als viele anderen.
+[00:41:21.9 - 00:41:22.2] Speaker 1: Okay.
+[00:41:23.6 - 00:41:32.4] Speaker 2: Hm. Ja, irgendwie, irgendwie seh ich das so, aber vielleicht lieg ich auch verkehrt aus. Wobei es kommt auch immer drauf an, mit wem ich mich jetzt vergleiche. So.
+[00:41:32.4 - 00:41:32.6] Speaker 1: Ja.
+[00:41:33.9 - 00:41:36.5] Speaker 2: Äh, aber wenn ich mich jetzt so mit dem Durchschnitt vergleiche,
+[00:41:37.6 - 00:41:41.6] Speaker 2: tja, würd ich schon sagen, dass ich weniger Probleme hab, denk ich mal.
+[00:41:41.8 - 00:41:41.9] Speaker 1: Mhm.
+[00:41:42.9 - 00:41:43.0] Speaker 2: Ja.
+[00:41:48.0 - 00:41:50.1] Speaker 1: Meinst du denn, es war früher einfacher,
+[00:41:52.4 - 00:42:00.5] Speaker 1: ich sag jetzt, ich sag jetzt mal ganz pa-pauschal, groß rauszukommen, weil's zwar weniger Technik gab und weniger Unterstützung, aber auch weniger Fehlermög-möglichkeiten. Und jetzt--
+[00:42:01.4 - 00:42:12.3] Speaker 1: Oder ist es jetzt einfacher, wo du in unendlich viele Möglichkeiten und Wege und technische Unterstützung hast, aber auch ganz viele Sachen, die du einfach falsch machen könntest oder Chancen, die du halt nicht nutzen könntest? Weißt du, was ich meine?
+[00:42:12.4 - 00:42:13.3] Speaker 1: Weil's einfach so viel gibt,
+[00:42:14.5 - 00:42:17.2] Speaker 1: dass du quasi dich für das Falsche entscheidest und dann am Ende irgendwie
+[00:42:18.6 - 00:42:21.5] Speaker 1: das Einfache von früher vielleicht besser funktioniert hätte.
+[00:42:22.3 - 00:42:24.0] Speaker 2: Das ist 'ne wirklich spannende Frage.
+[00:42:25.9 - 00:42:26.8] Speaker 2: Ich würde sagen,
+[00:42:28.1 - 00:42:28.6] Speaker 2: boah, das ist,
+[00:42:29.8 - 00:42:34.3] Speaker 2: ist echt spannend, echt spannend. Ich würde sagen,
+[00:42:38.2 - 00:42:39.2] Speaker 2: es ist jetzt,
+[00:42:40.0 - 00:42:42.7] Speaker 2: es kommt immer, kommt auf die Person drauf an,
+[00:42:43.9 - 00:42:45.5] Speaker 2: kommt auf die Person drauf an,
+[00:42:47.3 - 00:42:48.4] Speaker 2: aber so generell
+[00:42:49.3 - 00:42:59.0] Speaker 2: Kommt auch immer sicherlich drauf an, in welchem Land man lebt, wie man aufgewachsen ist, aber früher sind die auch nich gut aufgewachsen. Also wenn ich das jetzt mal alles so versuche zusammenzubeziehen,
+[00:42:52.5 - 00:42:52.7] Speaker 1: Mhm.
+[00:42:59.9 - 00:43:00.6] Speaker 2: würde ich
+[00:43:02.4 - 00:43:03.0] Speaker 2: sagen,
+[00:43:03.8 - 00:43:04.8] Speaker 2: dass es heute
+[00:43:05.7 - 00:43:10.4] Speaker 2: schon wesentlich leichter ist. Doch, wesentlich leichter. Wesentlich.
+[00:43:11.2 - 00:43:12.6] Speaker 2: Und ich denke, die meisten,
+[00:43:13.8 - 00:43:15.1] Speaker 2: die meisten ...
+[00:43:18.3 - 00:43:21.0] Speaker 1: Aber man hat halt auch viel mehr Konkurrenz, die das auch alle nutzen.
+[00:43:21.5 - 00:43:35.6] Speaker 2: Ja, was heißt auch alle nutzen? Nee, nee, früher, äh, früher hatten die's wesentlich schwieriger, weil die mussten ja erst mal was erfinden und das war ja nicht einfach. Und die hatten ja auch mit extremer Armut zu kämpfen, die meisten, die da was erfunden haben.
+[00:43:35.6 - 00:43:47.6] Speaker 2: Die haben unter richtig Armut, ich hab da auch viele, viele Biografien gelesen und Storys und so, die haben mit, äh, sehr, sehr großer Armut und unter sehr, sehr schwierigen Bedingungen Dinge verwirklicht und entwickelt.
+[00:43:44.5 - 00:43:44.8] Speaker 1: Mhm.
+[00:43:47.7 - 00:43:50.5] Speaker 2: Das war kein Vergleich zu heute. Und
+[00:43:51.3 - 00:44:05.1] Speaker 2: also früher waren die Leute wesentlich bissfester, die hatten viel mehr Resilienz, viel mehr Energie, viel mehr Tatendrang und heutzutage sind, s-s-, weiß ich nicht, die Leute sind einfach Weicheier, muss ich wirklich so sagen.
+[00:44:05.2 - 00:44:14.9] Speaker 2: Also ich hab die Leute früher nicht gekannt, aber wenn ich das da teilweise gelesen hab und natürlich kann man das jetzt auch überstrapazieren, das Ganze, aber denk ich nich, weil ich kenn das ja auch so von,
+[00:44:16.2 - 00:44:21.0] Speaker 2: von den älteren Leuten, die, die haben halt ganz andere Werte. Das ist
+[00:44:21.7 - 00:44:22.4] Speaker 1: Mhm. Mhm. Hm, ja klar.
+[00:44:22.1 - 00:44:33.0] Speaker 2: mal 'n ganz anderes Kaliber halt so. Die haben viel mehr einstecken müssen und früher hast du halt gar nicht so die Informationsquellen gehabt, in jeglicher Hinsicht nicht. In Sachen Ernährung nicht.
+[00:44:27.7 - 00:44:28.1] Speaker 1: Ja klar.
+[00:44:33.0 - 00:44:44.4] Speaker 2: Du hast nicht gewusst, was ist die ideale Ernährung. Gut, es gab auch vielleicht nicht so viel Ablenkung, Fast Food, aber wer sich halt wirklich beliest und informiert und wer auch merkt, okay, das kann vielleicht doch nicht so das Gelbe vom Ei sein.
+[00:44:44.8 - 00:44:55.2] Speaker 2: Also in jeglicher Hinsicht sind die Zeiten besser. Leute, die sagen: „Ja, früher war's einfacher und bla bla bla." Das sind alles nur Leute, die Scheiße labern, äh, meiner Meinung nach.
+[00:44:45.4 - 00:44:45.6] Speaker 1: Mhm.
+[00:44:48.7 - 00:44:48.9] Speaker 1: Mhm. Mhm.
+[00:44:55.0 - 00:44:55.3] Speaker 1: Okay.
+[00:44:55.2 - 00:45:05.8] Speaker 2: Das ist, es ist, äh, pff, es sind Leute, die sich Ausreden suchen. Ich würd das Gegenteil behaupten. Heutzutage ist es einfacher, weil du viel mehr Informationsquellen hast. Du hast viel mehr Möglichkeiten.
+[00:45:06.3 - 00:45:25.2] Speaker 2: Äh, früher gab's teilweise kein Internet. Da hast du nicht immer irgendwie-- Oder wenn du jetzt, gut, wenn du's jetzt auf die 20, 30 letzten Jahre beziehst, aber selbst dann, also jetzt hast du wesentlich mehr Möglichkeiten für Karriere, für Entwicklung als noch vor fünf, zehn oder 20 Jahren.
+[00:45:25.6 - 00:45:29.3] Speaker 2: Definitiv. Und jeder, der das Gegenteil behauptet, weiß ich nicht. Das ist,
+[00:45:30.2 - 00:45:41.5] Speaker 2: ist 'n Ausredensucher. Das sind wieder Leute, die im Außen irgendwie, äh, die Schuld jemandem geben. Früher die Leute, die waren sehr verbissen und förmlich besessen. Die hatten 'ne positive Besessenheit.
+[00:45:42.1 - 00:45:43.5] Speaker 2: So wenn du mal die,
+[00:45:44.5 - 00:45:47.6] Speaker 2: die Story von Goodyear anguckst. Goodyear sagt dir das was?
+[00:45:48.5 - 00:45:48.7] Speaker 1: Nein.
+[00:45:49.1 - 00:45:51.8] Speaker 2: Na Gummi, Goodyear, Reifen. Goodyear. So.
+[00:45:51.1 - 00:45:52.6] Speaker 1: So, ja, weißte. Mhm. Mhm.
+[00:45:53.4 - 00:46:02.3] Speaker 2: Der, der Entwickler, der hieß ja mit Nachnamen Goodyear, der Mann. Und der hatte früher, ist unter erbärmlichen Bedingungen aufgewachsen und der hatte,
+[00:46:03.2 - 00:46:08.8] Speaker 2: der hatte Schulden ohne Ende. Der hatte früher, haben sie geschrieben, 200 taus, 200.000 Dollar Schulden.
+[00:46:09.9 - 00:46:20.3] Speaker 2: Der hat sich da, der hat die Schnauze voll gehabt. Da würden so manche sagen: „Oh, mir geht's nicht gut. Ich hab Depressionen." Und früher die Leute: Da gab's so 'ne Scheiße gar nicht.
+[00:46:20.6 - 00:46:28.1] Speaker 2: Da gab es so 'ne Scheiße gar nicht. „Ach, ich hab Depressionen, ich hab Burnout. Ich ..." Es-- Was?
+[00:46:29.1 - 00:46:37.9] Speaker 2: Das ist 'ne Erfindung der neuen Zeit für Leute, die, äh, die sich nicht bewegen, für Leute, die nur, äh, Fast Food essen und, und was weiß ich nicht alles.
+[00:46:37.1 - 00:46:40.2] Speaker 1: Na ja, dem würde ich jetzt so nicht zu-- das würde ich jetzt so nicht unterstreichen.
+[00:46:40.4 - 00:46:41.6] Speaker 2: Doch, na klar, das, äh...
+[00:46:42.0 - 00:46:51.6] Speaker 1: Nein, würde, würde ich so nicht sagen. Früher hieß Depression einfach nur, äh, stell dich nicht so an, aber die Leute hatten trotzdem Probleme. Es gab noch keinen Begriff dafür.
+[00:46:49.9 - 00:46:50.8] Speaker 2: Ja, kann sein.
+[00:46:51.9 - 00:47:01.9] Speaker 2: Ja, das kann sein. Das kann natürlich auch sein, aber die haben sich halt am Riemen gerissen. Und heutzutage heißt es, da wird das viel mehr so als Bestätigung genommen. Nicht jetzt irgendwie so als,
+[00:47:03.0 - 00:47:23.2] Speaker 2: als, als Antrieb, sondern immer als Bestätigung: „Ach ja, ich hab ja Depression, ich hab ja Burnout, also ich kann ja gar nicht so." Aber da mal wirklich zu sagen: „Ey, okay, ich hab das jetzt, aber weißt du was? Ich reiß mich zusammen, ich rutsch da jetzt durch und, und dann geht's ab, ey." So, das, das kriegen die heutzutage nicht mehr gefressen und ich kann's einfach nicht nachvollziehen teilweise, was das für Waschlappen heutzutage
+[00:47:23.2 - 00:47:35.9] Speaker 2: sind, weißt du? Natürlich, frag mich mal, ich hab da auch die Schnauze voll. Ich lieg auch mal, ich hab auch früher länger im Bett gelegen und so 'ne Scheiße. Klar, aber mal zu sagen: „Och, ich hab jetzt Depression und was weiß ich nicht alles." Ach komm, echt?
+[00:47:36.4 - 00:47:38.8] Speaker 2: Sag ich: „Hör auf, mit dem Mist zu essen."
+[00:47:37.1 - 00:47:43.9] Speaker 1: Na ja, es ist, na ja, es ist schon so, dass man manchmal, wenn man das hat, einfach nicht aufstehen kann. Das, das verstehe ich, das weiß ich, das kenne ich.
+[00:47:44.5 - 00:47:46.2] Speaker 2: Ja, wenn du nicht aufstehen kannst, dann,
+[00:47:47.2 - 00:48:00.6] Speaker 2: dann musst du dir halt Möglichkeiten suchen, dass es geht. Dass, äh, man sagt jetzt so, du warst nie nur so in 'ner Lage, wenn jetzt Leute sagen, sag ich: „Ey, ich war in 'ner viel schlimmeren Lage damals." Ich hab nicht nur, was weiß ich, ich hab nicht nur Depressionen gehabt, ich konnt wirklich nicht aufstehen.
+[00:48:01.0 - 00:48:13.2] Speaker 2: Das war nicht so wegen 'n bisschen Energie weg, sondern da war alles kaputt im Körper. Was denkst, wie ich das damals gemacht hab? Sobald, bei mir war das damals so: Sobald ich die Möglichkeit gehabt habe zu gehen,
+[00:48:04.0 - 00:48:04.2] Speaker 1: Mhm.
+[00:48:05.4 - 00:48:06.0] Speaker 1: Mhm. Das weiß
+[00:48:14.3 - 00:48:16.5] Speaker 2: irgendwie, da bin ich ins Bad gekrochen.
+[00:48:17.4 - 00:48:17.7] Speaker 1: ich. Mhm.
+[00:48:17.4 - 00:48:28.0] Speaker 2: Also ich konnt ja nicht mal gehen, aber ich hab mich aus'm Bett nach unten auf 'n Boden gesetzt und bin gekrochen aufs Klo, weil mir das so unangenehm war, dass, dass ich die jedes Mal rufen musste zum Kacken.
+[00:48:23.7 - 00:48:24.0] Speaker 1: Mhm. Mhm.
+[00:48:28.5 - 00:48:40.1] Speaker 2: Und die haben alle gesagt, ich soll das nicht machen. Ich bin jedes Mal, immer wenn ich auf Toilette musste, hab ich mich auf 'n Boden gesetzt mit meinem Arsch und bin auf allen Vieren auf die Toilette gekrochen, weil ich nicht laufen konnte.
+[00:48:41.0 - 00:48:54.5] Speaker 2: Und ich hatte frisch die Operation und alles, es ging nix. So und wär ich da irgendwie hingeflogen, da hätten sie mich, da wär alles kaputt gewesen, aber ich hab gesagt: „Scheiß auf das Risiko, das ist mir so unangenehm. Und wenn ich auf allen Vieren auf die scheiß Toilette kriech." Aber ich hab's gemacht.
+[00:48:44.5 - 00:48:44.7] Speaker 1: Mhm.
+[00:48:54.6 - 00:48:55.7] Speaker 1: Mhm. Okay
+[00:48:56.4 - 00:49:07.5] Speaker 2: Und das ist immer so, da, das mein ich halt. Und in solchen Momenten würd ich mir halt bewusst machen: Wer sein Warum kennt, erträgt fast jedes Wie. Und da sagt man so, das ist leicht gesagt, wenn man keine Energie hat.
+[00:49:07.5 - 00:49:18.2] Speaker 2: Nee, ist nicht leicht gesagt. Man sagt ja auch, Menschen unter den fürchterlichsten Bedingungen, die haben plötzlich Energiestübe. Ja, warum denn wohl? Weil die 'n Warum haben. Weil die 'n Warum haben.
+[00:49:14.8 - 00:49:14.8] Speaker 1: Ja.
+[00:49:18.3 - 00:49:26.2] Speaker 2: Und genauso ist im Leben auch. Wenn du keine Energie hast, dann mach dir dein Warum bewusst und dann kommt wieder 'n Funken Energie. Und wenn der Funken erst mal da ist,
+[00:49:27.2 - 00:49:43.1] Speaker 2: dann kommt das Stück für Stück zurück. So. Aber es ist immer leicht zu sagen: „Ach ja, ich hab jetzt kein Funken, ich hab Depression, ich hab keine Energie." Aber mal zu sagen: „Verdammte Scheiße, ich hab echt keine Energie, aber irgendwie, ja, wie, wie kann ich's denn?
+[00:49:43.2 - 00:49:57.2] Speaker 2: Wie, wie mach ich an?" Nee, da wird das als Ausrede genommen. „Ich hab jetzt mal hier und bin down und, oh, ich kann's nicht mehr hören, ey." Und früher, wie gesagt, da haben das-- natürlich, die Leute waren auch energielos, die waren auch mal am Arsch, aber die haben sich zusammengerissen.
+[00:49:58.0 - 00:49:59.6] Speaker 2: Die haben sich immer zusammengerissen.
+[00:50:00.4 - 00:50:06.1] Speaker 2: So, und da ging's immer irgendwie nach vorne. Da ging's immer nach vorne, aber heutzutage
+[00:50:07.1 - 00:50:11.4] Speaker 2: weiß ich nicht. Find ich, find ich echt bedenklich, wenn ich mir das alles so angucke.
+[00:50:11.4 - 00:50:15.9] Speaker 1: Ja, manchmal vielleicht, aber ja, ist halt schwierig. Ist halt 'ne Fall, von Fall zu Fall-Entscheidung.
+[00:50:16.1 - 00:50:22.1] Speaker 2: Tja, ich find, find ich echt bedenklich, dass sich da die Leute so schnell irgendwie, hm, weiß ich nicht.
+[00:50:18.7 - 00:50:18.9] Speaker 1: Ja.
+[00:50:23.1 - 00:50:23.3] Speaker 1: Ja.
+[00:50:24.5 - 00:50:34.5] Speaker 2: Ich will das Ganze jetzt nicht irgendwie vereinfachen oder, oder v-verharmlosen. Nein, weiß Gott nicht. Ich weiß selber, wie schlimm vieles ist. Aber dieser, dieser Kampfgeist
+[00:50:24.8 - 00:50:25.2] Speaker 1: Na ja.
+[00:50:27.7 - 00:50:28.4] Speaker 1: Nein, das nicht.
+[00:50:35.3 - 00:50:51.3] Speaker 2: im Sinne von: „Nee, das kann ich nicht nachvollziehen. Das kann-- So was kann ich nicht nachvollziehen, dass da die, die Leute so vorschnell aufgeben." Ich hab nichts dagegen, wenn jetzt Leute wirklich aufgeben, dass die mal sagen: „Verdammte Scheiße, jetzt kann ich wirklich nicht mehr." Aber nicht, bevor du nicht erst alles versucht hast.
+[00:50:36.1 - 00:50:37.9] Speaker 1: Ja, manchmal schon. Manchmal schon.
+[00:50:53.4 - 00:51:01.9] Speaker 2: Weißt du? Darum geht's mir. Und das ist mir eben aufgefallen, dass die meisten Menschen, die allerallermeisten, die geben viel zu schnell auf. Viel zu schnell.
+[00:50:53.6 - 00:50:53.7] Speaker 1: Ja.
+[00:51:02.0 - 00:51:03.8] Speaker 1: Ja, das stimmt. Das stimmt.
+[00:51:03.1 - 00:51:14.5] Speaker 2: Ich sag, ich sag auch nichts unbedingt, wenn jetzt jemand dann wirklich mal okay, dann sag ich auch: „Okay, dann bist du auch mal fertig." Okay, aber bis dahin ist es viel, viel weiter, als viele denken.
+[00:51:15.6 - 00:51:21.8] Speaker 2: Die erleben den, den kleinsten Windstoß und dann heißt es direkt: „Ach, ich hab Depression", und was sie nicht alles haben. So.
+[00:51:23.3 - 00:51:34.0] Speaker 2: Immer dieses Gejammer. Sag ich: „Jammer nicht, leg dich auf 'n Boden, strampel mal richtig, heul mal richtig, schlag mal richtig gegen die Wand oder was weiß ich, gegen Holz dagegen oder was auch immer.
+[00:51:34.9 - 00:51:38.9] Speaker 2: Lass es auch mal wehtun und dann ha, dann geht's wieder vorwärts."
+[00:51:41.1 - 00:51:44.5] Speaker 2: Und sag nicht zu andern: „Ich hab Depressionen."
+[00:51:45.5 - 00:51:46.1] Speaker 2: Nein.
+[00:51:48.3 - 00:51:49.3] Speaker 2: Weil wenn du das zu andern--
+[00:51:49.2 - 00:52:03.5] Speaker 1: Ja, es soll natürlich keine Ausrede sein für irgendwas, aber ich kann's auch nachvollziehen, wenn man das hat und wenn man da voll drin ist, dann geht's auch manchmal nicht. Aber ja, es ist keine Ausrede, um, um 'n Freifahrtsschein haben zum Rumgammeln, zum Sich-gehen-lassen, zum ja mal gucken, was passiert.
+[00:52:03.5 - 00:52:05.6] Speaker 1: Das natürlich nicht. Nee, das, das auf gar keinen Fall.
+[00:52:06.3 - 00:52:16.5] Speaker 2: Richtig. Und was ich halt so 'n bisschen, äh, kritisch auch sehe an der Tatsache ist, dass die Le-, dass die Leute das ja auch nach außen tragen und dadurch, dadurch verstärken die das Ganze ja.
+[00:52:14.7 - 00:52:15.2] Speaker 1: Ja, schon.
+[00:52:17.9 - 00:52:27.8] Speaker 2: Weißt du? Dadurch verstärken die das ganze Ding noch mal und da sagt sich der Körper, der indi-identifiziert sich damit. Der identifiziert sich damit: „Ach ja, ich hab ja das." Nee,
+[00:52:18.1 - 00:52:18.7] Speaker 1: Ja, schon.
+[00:52:25.2 - 00:52:25.3] Speaker 1: Ja.
+[00:52:27.5 - 00:52:29.1] Speaker 1: Ja, ist schon richtig.
+[00:52:29.3 - 00:52:45.4] Speaker 2: äh, trag das gar nicht erst nach außen. Das ha-- Okay, dann, dann fühlst du dich halt so. Du sollst es jetzt nicht irgendwie verneinen, das nicht, aber gar nicht nach außen tragen. Weil jedes Mal, wenn du so was nach außen trägst, da denkt sich dein Körper: „Ach ja, das hab ich ja jetzt." Also und dann steckst du halt deinen Kopf damit an.
+[00:52:32.3 - 00:52:32.5] Speaker 1: Ja.
+[00:52:43.2 - 00:52:44.2] Speaker 1: Ja, ist schon richtig.
+[00:52:45.8 - 00:53:00.8] Speaker 2: Das musst du für dich behalten. Du darfst niemals da-- Ja, ist 'n wertvoller Ein--
+[00:52:48.0 - 00:52:56.1] Speaker 1: Na ja, nee, ich würd, auch das würd ich nun nicht sagen, weil man trägt auch manch, manche tragen auch viel zu sehr, viel zu sehr die Sachen mit sich selber rum. Also auch das könnt ich so nicht unterschreiben.
+[00:52:57.0 - 00:52:58.1] Speaker 1: Da würd ich dir auch widersprechen.
+[00:53:00.8 - 00:53:02.0] Speaker 1: Bin ich, bin ich nicht bei dir.
+[00:53:02.5 - 00:53:05.0] Speaker 2: Ist 'n guter Einwand. Ja, stimmt auch. Klar.
+[00:53:06.4 - 00:53:16.7] Speaker 2: Ist halt schwierig, sie da komplett selber fertig zu werden, aber mir ging's jetzt um den Punkt eben, dass das Ganze dadurch noch mal so 'n bisschen verstärkt wird. Alleine mit allem klarzukommen, ist auch nicht einfach, klar.
+[00:53:18.4 - 00:53:29.0] Speaker 2: Aber wenn man sich dann so die entsprechenden Mechanismen raussucht zur Bewältigung, dann kann man schon verdammt ver-, verdammt viel alleine und letzten Endes kann dir ja niemand die Last abnehmen.
+[00:53:29.0 - 00:53:29.6] Speaker 2: Das ist ja auch--
+[00:53:29.7 - 00:53:30.8] Speaker 1: Nee, das stimmt. Das stimmt.
+[00:53:30.4 - 00:53:36.2] Speaker 2: Niemand kann dir die Last abnehmen. Und wenn du denkst: „Ach ja, der hat mir geholfen, der hat mir zugehört", da sag ich, äh,
+[00:53:37.3 - 00:53:39.3] Speaker 2: ich weiß nicht, das ist für mich auch nur so 'ne,
+[00:53:40.7 - 00:53:56.5] Speaker 2: so 'ne, so 'n Ein-, so 'n Einredungsding. Also quasi, du hast es ja dann trotzdem bewältigt, aber nicht durch das Reden, sondern das hättest du genauso gut auch selber machen können. Ob du dich jetzt vor die Wand gestellt hättest und hättest Selbstgespräche geführt oder ob du jetzt hättest mit deiner besten Freundin, besten-- Ich weiß nicht.
+[00:53:48.0 - 00:53:48.2] Speaker 1: Ja. Ja.
+[00:53:51.0 - 00:54:09.2] Speaker 1: Nee, reden hat mir, reden hat mir noch nie was geholfen, das muss ich zugeben.
+[00:53:56.6 - 00:54:06.3] Speaker 2: Also das ist, ist so 'n Punkt, wo ich sage, da reden sich die Leute das selber ein. Von wegen: „Ach ja, durch das Reden mit meinem besten Freund oder meiner besten Freundin hat mir das irgendwie Heilung--
+[00:54:08.5 - 00:54:08.7] Speaker 2: Nee.
+[00:54:09.3 - 00:54:10.7] Speaker 1: Einfach nur reden hat mir noch nie geholfen,
+[00:54:10.6 - 00:54:10.8] Speaker 2: Genau.
+[00:54:11.9 - 00:54:13.1] Speaker 1: weil vom Reden ändert sich nix.
+[00:54:13.2 - 00:54:23.5] Speaker 2: So ist es. Genau so ist es. Und deswegen, äh, seh ich da auch wenig Sinn, so was erst nach außen zu tragen. So, man kann das vielleicht mal ganz kurz sagen, so: „Ach ja, so und so." Aber dann ist gut.
+[00:54:18.6 - 00:54:18.7] Speaker 1: Ja.
+[00:54:23.8 - 00:54:36.2] Speaker 2: Und das auch vielleicht einmal und wirklich zu 'ner vertrauten Person oder so. Okay, meinetwegen, aber dann war's das auch. Dann, dann kümmerst du dich darum. Dann sagst du: „Okay, mir geht's jetzt dreckig, aber--" Und dann kommst du direkt wieder: „Was kann ich machen?
+[00:54:36.3 - 00:54:38.4] Speaker 2: Wie kann ich den ersten Funken wieder
+[00:54:39.5 - 00:54:52.5] Speaker 2: erzeugen?" Und wenn du den ersten Funken erzeugt hast, dann siehst du schon mal 'n Lichtblick. Und wenn du den hast, dann ist es wie 'n Treppenaufgang. Dann gehst du Stufe für Stufe. Du darfst halt nur nicht an diesem Plateau stecken bleiben.
+[00:54:53.2 - 00:54:54.1] Speaker 2: Du musst sofort--
+[00:54:54.0 - 00:54:56.7] Speaker 1: Ja. Apropos, apropos weitergehen, ähm,
+[00:54:57.5 - 00:54:59.9] Speaker 1: ich muss mich dann gleich mal dem nächsten Projekt widmen.
+[00:55:00.9 - 00:55:01.2] Speaker 2: Ach so.
+[00:55:02.8 - 00:55:03.0] Speaker 2: Okay.
+[00:55:05.3 - 00:55:06.8] Speaker 2: Was denn? Was denn für ein Projekt?
+[00:55:05.7 - 00:55:06.0] Speaker 1: Aber
+[00:55:08.3 - 00:55:16.3] Speaker 1: ich hab gleich noch-- eigentlich hab, bin ich schon längst in 'nem Termin und eigentlich hätt ich schon längst anfangen müssen, noch an einem anderen Projekt zu arbeiten. [lacht]
+[00:55:14.5 - 00:55:14.8] Speaker 2: Ach so.
+[00:55:15.8 - 00:55:16.0] Speaker 2: Okay.

@@ -1,0 +1,378 @@
+German Monologue 03
+Language: German
+Duration: 00:35:37.0
+Speakers: 1
+Machine transcription (automatic speech recognition), not human-reviewed. Segment-level timestamps, word timings in the .json.
+
+[00:00:01.6 - 00:00:05.4] Speaker 1: Der Mythos vom Traumjob: Eine Reise durch Erwartung und Realität.
+[00:00:07.8 - 00:00:17.8] Speaker 1: Hallo zusammen, ich freue mich, dass ihr heute wieder dabei seid. Ersetzt euch und macht es euch gemütlich. Vielleicht seid ihr ja gerade auf dem Weg zur Arbeit, oder vielleicht kommt ihr auch gerade von dort,
+[00:00:17.9 - 00:00:22.4] Speaker 1: oder, ja, vielleicht liegt ihr auch einfach nur im Bett und starrt an die Decke,
+[00:00:23.0 - 00:00:27.1] Speaker 1: während ihr euch gerade fragt, was ihr eigentlich gerade mit eurem Leben anfangen solltet.
+[00:00:28.2 - 00:00:31.0] Speaker 1: Und ganz genau darum geht es mir heute:
+[00:00:31.6 - 00:00:38.0] Speaker 1: um dieses eine, riesige, fast schon mystische Konzept, das uns von Kindesbeinen an verfolgt,
+[00:00:38.6 - 00:00:39.9] Speaker 1: nämlich unser Traumjob.
+[00:00:40.9 - 00:00:47.1] Speaker 1: Das Wort alleine schon, Traumjob, es impliziert ja, dass Arbeit und Traum irgendwie zusammengehören,
+[00:00:47.7 - 00:00:50.0] Speaker 1: dass es da draußen, irgendwo im
+[00:00:50.8 - 00:00:51.1] Speaker 1: Universum,
+[00:00:51.7 - 00:00:56.0] Speaker 1: aus Stellenanzeigen, Bürotürmen, Werkstätten und Co. Working Spaces
+[00:00:56.6 - 00:01:10.4] Speaker 1: wirklich diesen einen, einzigen Platz gibt, der perfekt für uns geformt ist, wie ein Puzzleteil, das eigentlich die ganze Zeit, unser ganzes Leben nur darauf wartet, dass genau wir da hineinfallen und plötzlich
+[00:01:10.8 - 00:01:11.8] Speaker 1: alles Sinn ergibt.
+[00:01:17.1 - 00:01:18.4] Speaker 1: Klick, passt.
+[00:01:19.3 - 00:01:21.4] Speaker 1: Und das bedeutet dann endloses Glück
+[00:01:22.4 - 00:01:23.0] Speaker 1: bis zur Rente.
+[00:01:24.5 - 00:01:24.7] Speaker 1: Aber
+[00:01:25.4 - 00:01:27.1] Speaker 1: die Sache sieht eigentlich ganz anders aus.
+[00:01:27.9 - 00:01:29.5] Speaker 1: Fangen wir mal ganz von vorne an.
+[00:01:30.4 - 00:01:40.9] Speaker 1: Wisst ihr denn noch, was ihr mal werden wolltet, als ihr ungefähr, ich weiß nicht, so 5 Jahre alt gewesen seid? Also ich weiß es noch ganz genau: Ich wollte nämlich Baggerfahrer werden. Ich wollte nicht Bau
+[00:01:41.1 - 00:01:42.8] Speaker 1: ingenieur werden und nicht Architekt,
+[00:01:43.6 - 00:01:47.9] Speaker 1: sondern einfach nur Baggerfahrer. Ich wollte in dieser gelben Kabine sitzen
+[00:01:48.5 - 00:01:54.5] Speaker 1: und diese riesigen Hebel bedienen und einfach nur Dinge kaputt machen oder eben riesige Löcher graben.
+[00:01:55.9 - 00:02:02.3] Speaker 1: Das war für mich einfach der Inbegriff von Macht, irgendwie auch von Freiheit und, na ja, von Spaß eben.
+[00:02:03.7 - 00:02:04.3] Speaker 1: Ein Freund
+[00:02:05.2 - 00:02:06.2] Speaker 1: von mir wollte dagegen
+[00:02:07.0 - 00:02:12.8] Speaker 1: Dinosaurier werden. Er wollte nicht Paläontologe sein, er wollte tatsächlich ein T-Rex sein.
+[00:02:13.7 - 00:02:15.8] Speaker 1: Das ist natürlich karrieretechnisch eher eine
+[00:02:16.4 - 00:02:21.5] Speaker 1: Sackgasse, aber es zeigt eben auch, wie grenzenlos unsere Vorstellung von Arbeit damals war.
+[00:02:22.0 - 00:02:29.3] Speaker 1: Arbeit war das, was man isst, und nicht das, was man tut, um Miete zu bezahlen oder seine Rechnungen begleichen zu können.
+[00:02:31.1 - 00:02:36.4] Speaker 1: Und dann kommen wir eben in die Schule, und diese kindliche Fantasie wird langsam, aber sicher geschliffen.
+[00:02:37.0 - 00:02:46.0] Speaker 1: Man fragt uns nicht mehr: "Was macht dir eigentlich Spaß?", sondern man schaut,äh, ja, wo sind deine Stärken, und womit kann man denn nun wirklich Geld verdienen.
+[00:02:46.8 - 00:02:51.2] Speaker 1: Die Bagger wichen dann dem Wirtschaftslehr, den Betriebswirtschaftslehrern.
+[00:02:52.2 - 00:02:55.1] Speaker 1: Die Dinosaurier weichen den Jurastudiengängen.
+[00:02:55.8 - 00:03:01.6] Speaker 1: Und irgendwo auf diesem Weg, zwischen Pubertät, dem ersten schlechten Zeugnis, und dem
+[00:03:02.3 - 00:03:09.5] Speaker 1: ehrlichen Druck der Eltern, entsteht diese Idee, dass wir einen Beruf finden müssen, der uns nicht nur ernährt, sondern uns auch
+[00:03:10.1 - 00:03:12.7] Speaker 1: irgendwie definiert, kann man so sagen.
+[00:03:16.4 - 00:03:20.5] Speaker 1: Wir leben in einer Gesellschaft, besonders hier im deutschsprachigen Raum ist das so,
+[00:03:21.2 - 00:03:32.5] Speaker 1: in der dieerste Frage auf einer Party lautet: "Was machst du denn eigentlich so?" Und damit ist eigentlich nie gemeint: "Was machst du gerne in deiner Freizeit?" oder "Was bist du für ein Mensch?" Es ist immer
+[00:03:32.7 - 00:03:34.5] Speaker 1: die Frage nach deinem Job.
+[00:03:35.1 - 00:03:37.4] Speaker 1: Dein Job ist irgendwie dein Etikett.
+[00:03:38.0 - 00:03:42.4] Speaker 1: Bist du ein Arzt? Wow, dann bekommst du wirklich Respekt. Oder bist du Künstler?
+[00:03:43.3 - 00:03:51.1] Speaker 1: Das zeugt dann von unglaublich viel Mut. Aber kannst du auch davon leben? Oder bist du in der Verwaltung? Aha, sicher, aber langweilig.
+[00:03:52.4 - 00:04:02.2] Speaker 1: Ich gebe zu, wir kategorisieren Menschen sofort anhand ihrer Tätigkeit, die sie einfach jeden Tag ausüben. Und deshalb ist der Druck, einen Traumjob zu haben, eben auch so immens hoch.
+[00:04:02.8 - 00:04:09.4] Speaker 1: Wenn dein Job dein Status ist, dann muss dein Job fantastisch sein, damit du am Ende auch fantastisch bist.
+[00:04:11.3 - 00:04:11.5] Speaker 1: Aber
+[00:04:13.0 - 00:04:15.9] Speaker 1: ist das nicht einfach eigentlich völlig absurd?
+[00:04:16.7 - 00:04:20.6] Speaker 1: Wir verbringen, wenn es also gut läuft, 8 Stunden am Tag mit Arbeit.
+[00:04:21.2 - 00:04:24.4] Speaker 1: Das ist schon ein Drittel unseres Tages, um das hochzurechnen.
+[00:04:25.1 - 00:04:26.6] Speaker 1: Und ein weiteres Drittel von
+[00:04:27.3 - 00:04:33.5] Speaker 1: diesem Tag, von jedem Tag, schlafen wir. Bleibt also ein Drittel für, ja, wofür eigentlich? Für das Leben.
+[00:04:34.3 - 00:04:38.1] Speaker 1: Dazu zählen dann Einkaufen, Putzen, Freunde, Netflix,
+[00:04:39.9 - 00:04:40.7] Speaker 1: alles Mögliche.
+[00:04:41.7 - 00:04:41.9] Speaker 1: Aber
+[00:04:42.4 - 00:04:46.7] Speaker 1: warum laden wir diese 8 Stunden Arbeit mit so viel emotionaler Bedeutung auf?
+[00:04:47.6 - 00:04:47.9] Speaker 1: Warum
+[00:04:48.4 - 00:04:49.4] Speaker 1: reicht es nicht mehr,
+[00:04:50.9 - 00:04:53.8] Speaker 1: einfach nur diesen Job zu haben, der irgendwie okay ist?
+[00:04:57.6 - 00:05:01.3] Speaker 1: Ein Job, der nicht wehtut, der irgendwie die Rechnungen einfach bezahlt
+[00:05:04.6 - 00:05:12.2] Speaker 1: und der uns genug Energie übrig lässt, um in der Freizeit genau das zu tun, was wir wirklich lieben, was wir wirklich gerne machen.
+[00:05:16.5 - 00:05:18.5] Speaker 1: Lass uns mal tiefer in diese Diskrepanz
+[00:05:19.6 - 00:05:25.0] Speaker 1: eintauchen zwischen dem, was uns versprochen wird, und dem, was die Realität dann am Ende wirklich ist.
+[00:05:29.7 - 00:05:37.1] Speaker 1: In den sozialen Medien, das heißt auf Instagram oder bei LinkedIn, wird uns ständig dieses Bild vom perfekten Berufsleben verkauft.
+[00:05:37.7 - 00:05:39.6] Speaker 1: "Love my job", so sind die Hashtags.
+[00:05:40.6 - 00:05:43.6] Speaker 1: Da sehen wir also Leute, die angeblich mit Leidenschaft
+[00:05:44.6 - 00:05:48.7] Speaker 1: ihren Job machen, die ihre Leidenschaft sogar zum Beruf gemacht haben.
+[00:05:49.2 - 00:06:00.4] Speaker 1: Da ist der Reiseblogger, der jeden Tag an einem anderen Strand sitzt, mit dem Laptop natürlich. Die Gründerin, die ihr eigenes Start-up hochgezogen hat und jetzt in einem lichtdurchfluteten Loft steht und Biol
+[00:06:00.5 - 00:06:02.5] Speaker 1: imonade trinkt jeden Tag, während sie ihr
+[00:06:03.5 - 00:06:04.3] Speaker 1: Team motiviert.
+[00:06:06.2 - 00:06:10.2] Speaker 1: Das sieht alles so unglaublich glänzend aus, so, ja, mühelos.
+[00:06:11.4 - 00:06:15.2] Speaker 1: Und wenn wir dann morgens um 7:30 Uhr in der überfüllten U-Bahn stecken,
+[00:06:16.3 - 00:06:26.8] Speaker 1: eingequetscht zwischen einem Typen, der nach kaltem Rauch riecht, und einer Frau, die lautstark telefoniert, und wir wissen, dass wir gleich 8 Stunden lang Excel-Tabellen formatieren müssen, dann fühlen wir
+[00:06:26.8 - 00:06:28.6] Speaker 1: uns irgendwie wie Versager.
+[00:06:29.2 - 00:06:39.2] Speaker 1: Und wir denken: "Irgendwas habe ich doch falsch gemacht. Wo ist denn nun mein Strand geblieben? Wo ist denn mein Loft? Wo ist denn wirklich meine persönliche Leidenschaft?"
+[00:06:40.4 - 00:06:42.7] Speaker 1: Aber wir vergessen dabei oft, dass die Kulissen
+[00:06:43.4 - 00:06:46.4] Speaker 1: nicht echt sind. Wir vergessen, hinter die Kulissen zu schauen.
+[00:06:47.7 - 00:06:49.0] Speaker 1: Nehmen wir also den Reiseblogger.
+[00:06:49.6 - 00:06:54.0] Speaker 1: Sieht nach einem Traumjob aus, oder? Aber die Realität ist ganz oft was anderes.
+[00:06:54.7 - 00:07:05.8] Speaker 1: Du bist an einem wunderschönen Ort, aber du kannst ihn nicht genießen, weil du ständig den perfekten Winkel für das Foto suchst. Du musst nämlich Content produzieren, Algorithmen füttern, Sponsoren glücklich
+[00:07:05.8 - 00:07:08.9] Speaker 1: machen. Dein Urlaub ist keine Erholung mehr, denn es ist ja Arbeit.
+[00:07:09.5 - 00:07:13.6] Speaker 1: Wenn du dein Hobby zum Beruf machst, verlierst du oft das Hobby, sind wir mal ehrlich.
+[00:07:14.2 - 00:07:16.5] Speaker 1: Das ist das sogenannte Bäckerparadoxon.
+[00:07:17.3 - 00:07:22.0] Speaker 1: Jemand liebt es nämlich, am Sonntagvormittag Brötchen zu backen. Da ist der Duft, das
+[00:07:22.6 - 00:07:33.6] Speaker 1: Knetern des Teiges, die Freude der Familie, wenn die Brötchen auf den Tisch kommen. Also denkt er sich: "Das ist es doch. Ich werde Bäcker. Das ist das Einzig Wahre." Und plötzlich muss er jede Nacht morgens
+[00:07:33.8 - 00:07:35.6] Speaker 1: um 2 Uhr in der Früh aufstehen.
+[00:07:36.1 - 00:07:42.4] Speaker 1: Er muss nicht 10 Brötchen backen, wie er das früher gemacht hat, sondern ungefähr 2.000 für die gesamte Nachbarschaft.
+[00:07:42.9 - 00:07:49.0] Speaker 1: Er hat Stress mit seinen Lieferanten, er muss Hygienevorschriften einhalten, er muss Mitarbeiter erziehen
+[00:07:50.0 - 00:07:57.4] Speaker 1: oder vertreten, wenn sie krank werden. Und nach 2 Jahren hasst er nicht nur seinen Job, denn er hasst auch irgendwie schon den Geruch von frischem Brot.
+[00:07:58.1 - 00:08:02.2] Speaker 1: Er hat seinen Zufluchtsort zerstört, indem er ihn monetarisiert hat.
+[00:08:04.3 - 00:08:05.3] Speaker 1: Ich glaube, das ist
+[00:08:05.9 - 00:08:16.6] Speaker 1: eine der größten Fallen unserer Zeit: der Glaube, dass jede Leidenschaft profitabel gemacht werden muss. Wenn du gerne malst, fragt sofort jemand: "Warum verkaufst du das nicht bei Etsy?"
+[00:08:17.2 - 00:08:23.0] Speaker 1: Wenn du gerne schreibst, wann kommt denn dein Buch heraus? Wenn du gerne zockst, warum streamst du nicht auf Twitch?
+[00:08:23.6 - 00:08:28.1] Speaker 1: Wir dürfen Dinge nicht mehr einfach nur tun, weil sie uns Freude bereiten. Sie müssen irgendwie
+[00:08:29.2 - 00:08:30.8] Speaker 1: lukrativ und produktiv sein.
+[00:08:32.1 - 00:08:32.5] Speaker 1: Sie müssen
+[00:08:33.1 - 00:08:36.5] Speaker 1: Teil unserer Personal Brand sein, unserer persönlichen Marke.
+[00:08:37.1 - 00:08:37.8] Speaker 1: Das ist irgendwie
+[00:08:38.3 - 00:08:39.3] Speaker 1: Gift für die Seele.
+[00:08:40.8 - 00:08:50.5] Speaker 1: Vielleicht ist der wahre Traumjob gar nicht der, der aus unserer größten Leidenschaft besteht. Vielleicht ist der wahre Traumjob nämlich derjenige, der am besten zu unserem Temperament
+[00:08:51.1 - 00:08:56.3] Speaker 1: und zu unserem Lebensrhythmus passt. Ich hatte mal einen Bekannten, nennen wir ihn einfach Michael.
+[00:08:57.2 - 00:09:03.1] Speaker 1: Michael war ein brillanter Musiker. Er spielte Gitarre und Klavier, und er hatte einfach alles drauf.
+[00:09:04.7 - 00:09:15.5] Speaker 1: Manche dachten, er würde Musiker werden, und er hat es auch versucht. Aber der Druck, kreativ zu sein zu müssen, um seine Miete zu bezahlen, hat ihn gelähmt. Er hatte ständig Existenzängste. Und wisst ihr, was
+[00:09:15.5 - 00:09:28.8] Speaker 1: er heute macht? Er ist Sachbearbeiter in einer Versicherung. Also richtig klassisch, von 9 bis 5. Nichts Aufregendes, aber er liebt es. Warum? Weil er um 17 Uhr den Stift fallen lässt und sein Kopf frei ist.
+[00:09:29.5 - 00:09:32.3] Speaker 1: Er geht dann nach Hause, hat ein sicheres Gehalt auf dem Konto,
+[00:09:32.8 - 00:09:44.4] Speaker 1: und spielt dann in zwei verschiedenen Bands Gitarre, mit voller Leidenschaft, ohne den Druck, dass der nächste Song ein Hit werden muss, damit er das Essen kaufen kann. Für Michael ist dieser langweilige Job der Tra
+[00:09:44.5 - 00:09:51.0] Speaker 1: umjob, weil er ihm ein Leben ermöglicht, das er führen möchte. Er hat die Arbeit von Identitätsstiftenden
+[00:09:51.9 - 00:09:52.4] Speaker 1: entkoppelt.
+[00:09:55.2 - 00:10:02.5] Speaker 1: Und das ist schon irgendwie ein radikaler Gedanke, oder? Dass Arbeit einfach nur Arbeit sein darf, ein Tauschgeschäft quasi. Zeit gegen Geld.
+[00:10:03.0 - 00:10:04.2] Speaker 1: Nicht mehr und nicht weniger.
+[00:10:04.9 - 00:10:06.1] Speaker 1: Natürlich sollte man sich
+[00:10:08.0 - 00:10:19.2] Speaker 1: nicht in einem Job festhängen, der einen krank macht, der toxisch oder ethisch fragwürdig ist. Aber zwischen Hölle auf Erden und Selbstverwirklichung pur gibt es eben noch eine riesengroße Grauzone,
+[00:10:20.5 - 00:10:25.3] Speaker 1: in der die meisten von uns leben. Und es ist schon okay, sich in dieser Grauzone wohlzufühlen.
+[00:10:25.9 - 00:10:30.3] Speaker 1: Denkt man über den Begriff Berufung nach, dann klingt das sehr religiös.
+[00:10:30.8 - 00:10:41.8] Speaker 1: Als ob eine höhere Macht auf uns zeigt und sagt: "Du bist auserwählt dazu, Buchhalter zu sein." Früher, vor Hunderten von Jahren, hatte man kaum eine Wahl. War der Vater Schmied, wurdest du Schmied. Warst du
+[00:10:42.4 - 00:10:43.7] Speaker 1: Bauer, bleibst du Bauer.
+[00:10:45.2 - 00:10:49.0] Speaker 1: Da gab es keine Identitätskrise, weil es einfach keine Optionen gab.
+[00:10:50.2 - 00:11:01.0] Speaker 1: Heute dagegen ersticken wir an den Optionen. Die sogenannte Paralyse durch Analyse. Wir haben so viele unglaubliche Möglichkeiten, dass wir uns für gar nichts mehr entscheiden können, aus Angst, die falsche Tür
+[00:11:01.2 - 00:11:01.7] Speaker 1: zu wählen.
+[00:11:02.5 - 00:11:13.4] Speaker 1: Und wenn wir eine Tür gewählt haben, stehen wir im Raum und schielen immer wieder auf die anderen Türen und denken: "Vielleicht wäre es im Raum Meeresbiologie noch lustiger geworden." Oder
+[00:11:14.6 - 00:11:17.0] Speaker 1: vielleicht eher im Marketing-Manager-Raum.
+[00:11:17.8 - 00:11:20.5] Speaker 1: Diese ständige Angst, etwas zu verpassen, das nennt man
+[00:11:21.2 - 00:11:23.8] Speaker 1: FOMO, Fear of Missing Out. Es ist
+[00:11:24.3 - 00:11:25.5] Speaker 1: bezogen auf die Karriere
+[00:11:26.5 - 00:11:29.0] Speaker 1: und macht uns unglücklich. Wir vergleichen unsere
+[00:11:30.5 - 00:11:33.4] Speaker 1: Behind-the-Scenes mit dem Highlight-Reel der anderen.
+[00:11:33.9 - 00:11:37.6] Speaker 1: Wir sehen den LinkedIn-Post von der Beförderung der Ex-Kollegin,
+[00:11:38.6 - 00:11:47.6] Speaker 1: aber wir sehen nicht die Magengeschwüre, die er dafür bekommen hat. Wir sehen das Foto vom Firmenwagen, aber nicht den Stau, in dem er jeden Tag 2 Stunden steht.
+[00:11:49.0 - 00:12:00.4] Speaker 1: Lassen wir uns mal auf ein Gedankenexperiment ein. Stellt euch mal vor, Geld würde keine Rolle spielen. Bedingungsloses Grundeinkommen, sagen wir so 5.000 Euro netto im Monat, einfach so, nur für eure Ex
+[00:12:00.4 - 00:12:02.2] Speaker 1: istenz. Was würdet ihr tun?
+[00:12:03.2 - 00:12:10.0] Speaker 1: Würdet ihr euren aktuellen Job weitermachen? Ich wette, ganz ehrlich, 80 % von euch schütteln gerade innerlich den Kopf.
+[00:12:10.9 - 00:12:12.8] Speaker 1: Vielleicht würdet ihr tatsächlich noch hingehen, um
+[00:12:13.5 - 00:12:16.1] Speaker 1: die Kollegen zu sehen. Aber die Arbeit an sich?
+[00:12:23.5 - 00:12:25.8] Speaker 1: Da hat mein Telefon geklingelt, da wollte jemand was.
+[00:12:27.0 - 00:12:32.2] Speaker 1: Die Arbeit an sich, die Deadlines, die Meetings, das wohl eher nicht. Aber was würdet ihr stattdessen tun?
+[00:12:32.8 - 00:12:34.8] Speaker 1: Reisen, sagen die meisten vielleicht zuerst.
+[00:12:35.6 - 00:12:41.9] Speaker 1: Klar, Weltreise, ein Jahr, vielleicht auch zwei. Oder irgendwann mal genug Tempel gesehen haben, genug Strände gelegen
+[00:12:43.2 - 00:12:43.9] Speaker 1: haben, und dann?
+[00:12:44.4 - 00:12:47.2] Speaker 1: Viele würden sagen: "Ich würde etwas Kreatives machen."
+[00:12:47.9 - 00:12:59.0] Speaker 1: Schreiben oder Malen, vielleicht Musik. Andere würden sagen: "Ich würde etwas Soziales machen." Helfen, im Tierheim, im Hospiz, Kindern Nachhilfe geben. Wieder andere sagen: "Ich würde gärtnern, etwas
+[00:12:59.0 - 00:12:59.9] Speaker 1: mit Händen schaffen."
+[00:13:01.1 - 00:13:02.4] Speaker 1: Was sagt uns das also?
+[00:13:04.0 - 00:13:07.4] Speaker 1: Es sagt uns, dass ein Mensch, dass der Mensch ein Bedürfnis hat.
+[00:13:08.9 - 00:13:11.8] Speaker 1: Wir sind nicht dafür gemacht, nur auf der Couch zu liegen.
+[00:13:12.7 - 00:13:23.8] Speaker 1: Wir wollen wirken, wir wollen Spuren hinterlassen, wir wollen nützlich sein. Das ist tief in uns verankert. Aber die Art und Weise, wie unsere moderne Arbeitswelt organisiert ist, erfüllt dieses Bedürfnis
+[00:13:24.0 - 00:13:24.2] Speaker 1: der Wir
+[00:13:24.8 - 00:13:25.8] Speaker 1: ksamkeit oft gar nicht.
+[00:13:26.5 - 00:13:27.7] Speaker 1: Wie viele von uns sitzen
+[00:13:28.5 - 00:13:32.5] Speaker 1: in sogenannten Bullshit-Jobs. Ein Begriff, den der Anthropologe
+[00:13:33.4 - 00:13:43.4] Speaker 1: David Gräbner geprägt hat. Jobs, bei denen selbst die Leute, die in Ausführungen schief im Inneren glauben, dass die Welt nicht schlechter dran wäre, wenn es diesen Job eigentlich gar nicht gäbe.
+[00:13:44.0 - 00:13:47.1] Speaker 1: Corporate Lawyers, PR-Berater für PR-Berater.
+[00:13:47.9 - 00:13:49.8] Speaker 1: Leute, die Berichte schreiben, die niemand liest.
+[00:13:50.5 - 00:13:51.7] Speaker 1: Das ist die wahre Tragödie.
+[00:13:52.6 - 00:14:04.6] Speaker 1: Nicht, dass wir arbeiten müssen, sondern dass wir oft an Dingen arbeiten, die sich sinnlos anfühlen. Das ist Entfremdung. Wenn ich einen Stuhl tischlere, sehe ich am Ende des Tages einfach den Stuhl. Ich
+[00:14:04.6 - 00:14:14.0] Speaker 1: kann mich draufsetzen, ich sehe das Ergebnis meiner Mühe. Wenn ich den ganzen Tag E-Mails hin und herschiebe, um ein Meeting vorzubereiten, in dem gesprochen wird, wann das nächste Meeting stattfindet,
+[00:14:14.7 - 00:14:21.7] Speaker 1: was habe ich dann geschaffen? Ehrlich gesagt, nichts. Ich habe nur Luft bewegt. Und genau da entsteht diese Sehnsucht nach dem Traumjob.
+[00:14:22.4 - 00:14:34.1] Speaker 1: Wir suchen nicht nur nach Spaß, wir suchen nach Sinn. Wir wollen spüren, dass unsere 40 Stunden pro Woche nicht verschwendet sind. Aber Sinn ist eben auch subjektiv. Für den einen ist es sinnstiftend, Mens
+[00:14:34.1 - 00:14:41.2] Speaker 1: chenleben im Krankenhaus zu retten. Für den anderen ist es sinnstiftend, den perfekten Code zu schreiben, damit eine App flüssig läuft.
+[00:14:41.9 - 00:14:43.0] Speaker 1: Für wieder andere ist
+[00:14:44.1 - 00:14:46.2] Speaker 1: es der Sinn, einfach Geld zu verdienen, um
+[00:14:46.7 - 00:14:50.6] Speaker 1: der Tochter das Reitturnier zu finanzieren. Und auch das ist völlig legitim.
+[00:14:51.4 - 00:14:52.6] Speaker 1: Ich möchte noch einmal das Thema
+[00:14:53.5 - 00:14:57.3] Speaker 1: New Work, neue Arbeitswelt, zu sprechen kommen. Die moderne Arbeitswelt
+[00:14:58.0 - 00:15:07.4] Speaker 1: verändert sich ja rasant. Homeoffice, Remote Work, 4-Tage-Woche. Viele dachten, wenn ich nur von zu Hause arbeiten kann, dann ist alles viel, viel besser. Und ist es das wirklich?
+[00:15:08.3 - 00:15:16.1] Speaker 1: Der Wegfall des Pendels ist ein Geschenk. Man kann in der Jogginghose arbeiten, man kann zwischendurch die Waschmaschine ausräumen, aber es entstehen neue Probleme.
+[00:15:16.7 - 00:15:17.9] Speaker 1: Denn die Grenzen verschwimmen.
+[00:15:18.6 - 00:15:23.6] Speaker 1: Früher hast du das Büro verlassen und die Arbeit war physisch weg. Jetzt steht der Laptop auf dem Küchent
+[00:15:24.4 - 00:15:25.7] Speaker 1: isch, er blinzelt dich an.
+[00:15:30.7 - 00:15:33.0] Speaker 1: Wenn du abends ein Brot schmierst und noch
+[00:15:33.8 - 00:15:44.3] Speaker 1: schnell die Mails checken, und zack, bist du wieder im Arbeitsmodus. Die Einsamkeit nimmt zu, der Plausch an der Kaffeemaschine fehlt, diese kleinen sozialen Interaktionen, die den Arbeitsweg auflockern, f
+[00:15:44.3 - 00:15:53.2] Speaker 1: allen weg. Zoom-Calls sind rein funktional. Man loggt sich ein, bestricht das Thema, loggt sich aus. Niemand fragt nach dem Wochenende. Oder wenn, dann ist es nur gezwungen.
+[00:15:53.8 - 00:16:04.2] Speaker 1: Ist der Traumjob also der Traumjob im Homeoffice oder ist es der Job mit einem coolen Start-up-Büro mit Kicker und Obstkorb? Vielleicht müssen wir einfach nur aufhören, den Traumjob in den äuß
+[00:16:05.2 - 00:16:06.3] Speaker 1: eren Umständen festzumachen.
+[00:16:06.8 - 00:16:15.3] Speaker 1: Ob Kicker oder Küchentisch, wenn die Arbeit selbst keinen Spaß macht oder das Management toxisch ist, hilft auch der schönste Obstkorb einfach nichts. Ein Obstkorb
+[00:16:16.1 - 00:16:17.3] Speaker 1: hält nämlich keinen Würmt.
+[00:16:19.4 - 00:16:22.6] Speaker 1: Lass uns mal auf das japanische Konzept von Ikigai sprechen.
+[00:16:23.6 - 00:16:24.1] Speaker 1: Das habt ihr
+[00:16:25.9 - 00:16:27.4] Speaker 1: bestimmt schon mal gehört, dieses
+[00:16:28.1 - 00:16:37.9] Speaker 1: Wenn-Diagramm mit den vier Kreisen. Kreis 1 ist, was du liebst. Kreis 2, was du gut kannst. Kreis 3, was die Welt braucht. Und Kreis 4, wofür du bezahlt werden kannst.
+[00:16:38.9 - 00:16:44.6] Speaker 1: Wenn sich alle vier Kreise überschneiden, dann liegt dein Ikigai, dein Grund, morgens aufzustehen.
+[00:16:45.3 - 00:16:56.2] Speaker 1: Dein Traumjob. Das klingt in der Theorie wirklich fantastisch, aber mal ehrlich, wie viele Menschen erreichen diesen Punkt wirklich? Es ist verdammt schwer, etwas zu finden, was man liebt, was man kann, was
+[00:16:56.3 - 00:16:56.6] Speaker 1: gebraucht wird
+[00:16:57.2 - 00:16:58.7] Speaker 1: und was auch noch gut bezahlt wird.
+[00:16:59.9 - 00:17:00.8] Speaker 1: Oft finden wir etwas,
+[00:17:01.7 - 00:17:05.2] Speaker 1: das wir lieben und können, aber niemand bezahlt dafür. Das ist dann ein Hobby.
+[00:17:06.2 - 00:17:12.8] Speaker 1: Oder wir finden etwas, das gut bezahlt wird und das wir können, aber wir lieben es nicht. Das ist ein typischer Karriere-Job.
+[00:17:13.4 - 00:17:18.7] Speaker 1: Oft finden wir etwas, das die Welt braucht und wir lieben, aber man wird dafür nicht bezahlt. Das ist dann ein Ehrenamt.
+[00:17:20.2 - 00:17:32.3] Speaker 1: Der Druck, dieses mystische Zentrum zu finden, kann einen wahnsinnig machen. Vielleicht reicht es auch, wenn man drei der vier Kreise abdeckt. Aber wenn man verschiedene Bereiche des Lebens nutzt, um die
+[00:17:32.9 - 00:17:36.7] Speaker 1: Kreise zu füllen, vielleicht deckt der Job Bezahlung und Können ab
+[00:17:39.4 - 00:17:43.7] Speaker 1: und das Ehrenamt, was die Welt braucht, und das Hobby deckt, was du liebst, ab.
+[00:17:44.5 - 00:17:46.6] Speaker 1: Man kann nicht alles in eine Tätigkeit press
+[00:17:47.3 - 00:17:47.3] Speaker 1: en.
+[00:17:48.1 - 00:17:48.5] Speaker 1: Das ist wie
+[00:17:49.1 - 00:17:49.8] Speaker 1: eine Beziehung.
+[00:17:50.5 - 00:18:00.8] Speaker 1: Man kann nicht erwarten, dass ein Partner der beste Freund, der leidenschaftliche Liebhaber, der perfekte Hausmann, der intellektuelle Sparringspartner und der Therapeut in einer Person ist.
+[00:18:01.4 - 00:18:10.3] Speaker 1: Das überfordert eigentlich jeden, ganz ehrlich. Genauso überfordern wir unseren Job, wenn er uns Geld, Status, Sinn, Spaß und dann auch noch soziale
+[00:18:11.0 - 00:18:13.0] Speaker 1: Kontakte gleichzeitig versprechen soll.
+[00:18:15.3 - 00:18:23.3] Speaker 1: Ich möchte euch eine Geschichte erzählen, eine rein fiktive, aber sie könnte genauso passiert sein. Stellt euch mal eine junge Frau vor, nennen wir sie einfach Sarah.
+[00:18:23.9 - 00:18:27.0] Speaker 1: Sarah war in der Schule immer die Beste in Kunst. Sie hat gezeichnet,
+[00:18:27.6 - 00:18:38.1] Speaker 1: gemalt, Skulpturen gebaut. Alle sagen: "Sarah, du wirst mal eine große Künstlerin." Sie ging auf die Kunsthochschule und sie liebte es, die Freiheit, den Ausdruck. Dann kam der Abschluss und die Realität.
+[00:18:38.8 - 00:18:40.4] Speaker 1: Galerien, Kunsthochschule,
+[00:18:41.6 - 00:18:45.2] Speaker 1: nehmen Galerien nahmen nur weniger auf. Stipendien sind rar.
+[00:18:45.8 - 00:18:54.3] Speaker 1: Sarah musste Geld verdienen, also fing sie an, als Grafikdesignerin in einer Werbeagentur zu arbeiten. Am Anfang dachte sie: "Hey, immerhin kreativ." Und das machte sie
+[00:18:54.8 - 00:19:02.8] Speaker 1: wirklich. Sie schob Logos zwei Pixel nach links, weil der Kunde das so wollte, und dann wieder zwei Pixel nach rechts, weil der Chef den Kunden das so
+[00:19:04.9 - 00:19:05.2] Speaker 1: wollte.
+[00:19:05.9 - 00:19:07.9] Speaker 1: Sie retuschierte Falten aus Gesichtern für
+[00:19:08.6 - 00:19:11.7] Speaker 1: Kosmetikwerbungen, sie designte Bannerwerbungen,
+[00:19:12.7 - 00:19:23.5] Speaker 1: die jeder wegklickt. Ihre Kreativität wurde zur Dienstleistung. Sie musste kreativ auf Knopfdruck sein. Und wenn sie abends nach Hause kam, rührte sie keinen Bleistift mehr an. Sie war leer.
+[00:19:24.0 - 00:19:25.7] Speaker 1: Ihr Traum war zum Albtraum geworden,
+[00:19:26.6 - 00:19:27.5] Speaker 1: gerade weil er so
+[00:19:28.2 - 00:19:29.3] Speaker 1: in ihrer Leidenschaft war, aber
+[00:19:30.3 - 00:19:31.4] Speaker 1: dieser pervertierte.
+[00:19:32.3 - 00:19:42.6] Speaker 1: Jahre vergingen und Sarah wurde unglücklich. Irgendwann kündigte sie, ohne einen Plan B zu haben. Sie nahm einen Job an, der so weit weg von Kunst war, wie nur möglich. Sie fing nämlich an, in einem Gartenc
+[00:19:42.7 - 00:19:53.3] Speaker 1: enter zu arbeiten, Regale einräumen, Pflanzen gießen, Kunden beraten, welche Erde für Tomaten die beste ist. Körperliche Arbeit, dreckige Hände. Und was passierte? Ihr Kopf wurde frei.
+[00:19:54.2 - 00:20:00.3] Speaker 1: Während sie Geranien umtopfte, flogen ihre Gedanken. Sie war körperlich müde am Abend, aber geistig frisch.
+[00:20:01.4 - 00:20:04.3] Speaker 1: Und plötzlich, nach ein paar Monaten, nahm sie abends wieder
+[00:20:04.9 - 00:20:07.2] Speaker 1: den Skizzenblock zur Hand. Sie malte die Pflanzen,
+[00:20:07.8 - 00:20:08.3] Speaker 1: die Kunden,
+[00:20:09.5 - 00:20:11.0] Speaker 1: das Licht des Gewächshauses.
+[00:20:13.6 - 00:20:15.8] Speaker 1: Sie fand ihre Kunst wieder, weil sie
+[00:20:16.3 - 00:20:26.3] Speaker 1: sie nicht mehr verkaufen musste. Heute sagt Sarah: "Das Gartencenter ist mein Traumjob." Nicht, weil ich immer davon geträumt habe, Säcke mit Blumenerde zu schleppen, sondern weil dieser Job
+[00:20:26.8 - 00:20:28.4] Speaker 1: mir meine Kunst zurückgegeben hat.
+[00:20:29.0 - 00:20:30.1] Speaker 1: Und was lernen wir daraus?
+[00:20:30.7 - 00:20:34.4] Speaker 1: Dass der Weg nicht linear ist, dass Prestige völlig egal ist.
+[00:20:35.0 - 00:20:37.0] Speaker 1: Für die Gesellschaft war Sarah eine Art
+[00:20:37.7 - 00:20:39.0] Speaker 1: Director in der Agentur,
+[00:20:39.5 - 00:20:39.6] Speaker 1: wer
+[00:20:40.4 - 00:20:40.7] Speaker 1: jemand
+[00:20:41.6 - 00:20:42.2] Speaker 1: Wichtiges ist.
+[00:20:43.0 - 00:20:50.4] Speaker 1: Als Verkäuferin im Gartencenter war sie im Status gesunken, aber in ihrer Lebensqualität war sie gestiegen. Und das ist das, was zählt.
+[00:20:51.9 - 00:20:57.1] Speaker 1: Wir müssen einfach aufhören, uns für unsere Entscheidungen zu rechtfertigen. Das heißt, wie oft haben wir euch schon
+[00:20:59.8 - 00:21:02.8] Speaker 1: dabei ertappt, wie ihr euren Job schönredet, wenn
+[00:21:03.8 - 00:21:09.3] Speaker 1: ihr jemand davon erzählt? Oder wie ihr versucht, ihn wichtiger klingen zu lassen: "Ich bin im
+[00:21:09.9 - 00:21:20.8] Speaker 1: Facility Management statt, ich bin Hausmeister. Ich bin im Vertrieb statt, ich bin Verkäufer." Warum tun wir das? Weil wir Respekt wollen. Aber Respekt sollten wir vor jedem haben, der seinen Teil dazu beiträ
+[00:21:20.8 - 00:21:31.2] Speaker 1: gt, egal an welcher Stelle. Der Müllmann ist für das Funktionieren unserer Stadt wichtiger als so mancher Unternehmensberater. Wenn die Müllabfuhr nämlich streikt, merken wir das nach drei Tagen. Wenn der Ber
+[00:21:31.4 - 00:21:35.2] Speaker 1: ater streikt, na ja, vielleicht wird das PowerPoint-Design dann etwas schlechter.
+[00:21:36.9 - 00:21:39.1] Speaker 1: Lassen wir uns mal über Generationen sprechen.
+[00:21:40.6 - 00:21:41.5] Speaker 1: Die Boomer, die
+[00:21:42.1 - 00:21:44.1] Speaker 1: Generation X, die Millennials.
+[00:21:46.7 - 00:21:47.2] Speaker 1: Dieäl
+[00:21:48.4 - 00:21:54.0] Speaker 1: tere Generation hat oft dieses Verständnis von: "Der Jahre sind keine Herrenjahre." Man muss sich einfach durchbeißen.
+[00:21:55.0 - 00:22:03.6] Speaker 1: Loyalität zum Unternehmen. Man bleibt 40 Jahre bei derselben Firma, bekommt die goldene Uhr und geht in Rente. Und für meine Generation, die Millennials,
+[00:22:04.3 - 00:22:15.7] Speaker 1: und noch mehr für die Generation Z, klingt das wie ein Horrorfilm. 40 Jahre in demselben Büro, wir wollen doch Flexibilität. Wir wollen Purpose. Wir sind bereit zu kündigen, wenn es uns nicht passt.
+[00:22:16.8 - 00:22:21.5] Speaker 1: Das wird oft als Faulheit oder mangelnde Belastbarkeit ausgelegt. Aber ist das wirklich so?
+[00:22:22.3 - 00:22:26.2] Speaker 1: Oder ist das einfach eine gesunde Reaktion auf einen Arbeitsmarkt, der sich verändert hat?
+[00:22:26.9 - 00:22:34.3] Speaker 1: Loyalität wird heute von Firmen kaum noch belohnt. Wer alle zwei Jahre den Job wechselt, macht oft größere Gehaltssprünge als der, der einfach nur treu bleibt.
+[00:22:34.9 - 00:22:37.6] Speaker 1: Arbeitsverträge sind befristet, Renten sind unsicher.
+[00:22:38.2 - 00:22:49.6] Speaker 1: Warum soll ich mich für eine Firma aufopfern, die mich bei der nächsten Umstrukturierung ohne mit der Wimper zu zucken entlässt? Die Generation Z hat es sehr früh verstanden. Sie sehen Arbeit als das, was sie ist,
+[00:22:49.8 - 00:22:52.4] Speaker 1: einen Teil des Lebens, aber nicht das ganze Leben.
+[00:22:53.0 - 00:22:55.0] Speaker 1: Quiet quitting, Dienst nach Vorschrift.
+[00:22:55.6 - 00:23:06.4] Speaker 1: Das wurde in den Medien so oft skandalisiert. Dabei bedeutet es einfach nur: "Ich mache genau das, wofür ich bezahlt werde." Nicht mehr, keine unbezahlten Überstunden, keine Erreichbarkeit am Wochenende.
+[00:23:07.1 - 00:23:09.8] Speaker 1: Eigentlich soll das der Normalzustand sein, nicht der Skandal.
+[00:23:10.7 - 00:23:12.9] Speaker 1: Dass wir es als Quitting, also Aufgeben, bezeichnen,
+[00:23:13.5 - 00:23:20.9] Speaker 1: wenn jemand einfach nur sagt, seinen Vertrag erfüllt, zeigt, wie krank unser System eigentlich ist. Wir haben die Selbstausbeutung normalisiert.
+[00:23:22.3 - 00:23:27.7] Speaker 1: Aber sprechen wir auch über die Schattenseiten dieser ständigen Suche nach mehr. Job-Hopping.
+[00:23:28.3 - 00:23:29.8] Speaker 1: Alle zwei Jahre etwas Neues.
+[00:23:30.4 - 00:23:40.7] Speaker 1: Das führt auch zu einer gewissen Würzelosigkeit. Man baut nirgendwo wirklich tiefe Beziehungen auf. Man ist nirgendwo wirklich Experte, weil man schon wieder weg ist, bevor man die tiefen Strukturen verstand
+[00:23:40.9 - 00:23:41.2] Speaker 1: en hat.
+[00:23:42.4 - 00:23:52.0] Speaker 1: Ein Traumjob hat auch etwas mit Meisterschaft zu tun. Etwas wirklich gut zu können, und das braucht eben Zeit. Man braucht Geduld, und man braucht auch mal die Phasen der Langeweile und Frustration, durch die
+[00:23:52.1 - 00:23:53.2] Speaker 1: man sich durchkämpfen muss.
+[00:23:54.4 - 00:24:02.5] Speaker 1: Wenn man beim ersten Widerstand so oft sofort weiterzieht, erlebt man nie das befriedigende Gefühl, ein schwieriges Problem wirklich gelöst zu haben.
+[00:24:03.5 - 00:24:14.2] Speaker 1: Und dann ist da noch das Thema Chef sein. Viele träumen davon, ihr eigener Chef zu sein. Selbstständigkeit, Freiheit, niemand, der einem sagt, was man tun soll. Ich war mal selbstständig, und lass mich sagen:
+[00:24:14.9 - 00:24:16.3] Speaker 1: Du bist immer noch dein eigener Chef.
+[00:24:17.5 - 00:24:23.5] Speaker 1: Du hast immer noch einen Chef. Der Chef ist nämlich dein Kunde, und der Kunde kann viel gnadenloser sein als jeder Vorgesetzte.
+[00:24:24.1 - 00:24:29.5] Speaker 1: Wenn du krank bist, verdienst du kein Geld. Urlaub ist unbezahlt. IT-Probleme sind dein Problem.
+[00:24:30.2 - 00:24:32.8] Speaker 1: Buchhaltung ist auch dein Problem, und das auch am Wochenende.
+[00:24:34.9 - 00:24:37.0] Speaker 1: Die Selbstständigkeit wird oft romantisiert.
+[00:24:37.7 - 00:24:48.1] Speaker 1: Digitale Nomaden, die am Strand arbeiten. Ich habe das mal ausprobiert, Laptop in einer Strandbar. Wisst ihr, was passiert? Die Sonne blendet so, dass du nichts auf dem Bildschirm siehst. Der Sand kommt in die
+[00:24:48.2 - 00:24:53.8] Speaker 1: Tastatur, das WLAN ist instabil. Um dich herum haben Leute Spaß, während du versuchst, eine Rechnung zu schreiben.
+[00:24:54.6 - 00:24:56.6] Speaker 1: Es ist die Hölle. Man arbeitet dennoch
+[00:24:57.8 - 00:25:00.9] Speaker 1: dann doch wieder im klimatisierten Coworking-Space ohne Fenster.
+[00:25:01.9 - 00:25:03.7] Speaker 1: Dann ist man zwar wieder auf Bali, aber
+[00:25:05.0 - 00:25:10.7] Speaker 1: man sieht nur die weiße Wand. Freiheit hat eben auch ihren Preis, und dieser Preis ist oft Unsicherheit und Selbstdisziplin.
+[00:25:11.3 - 00:25:16.3] Speaker 1: Manche blühen darin auf, und andere gehen darin zugrunde. Ohne zu wissen, welcher Typ man ist, ist der Schlüssel
+[00:25:17.1 - 00:25:17.2] Speaker 1: zum
+[00:25:18.9 - 00:25:24.4] Speaker 1: Traumjob. Brauchst du Struktur, die von außen vorgegeben wird, oder kannst du dir deine Struktur selbst schaffen?
+[00:25:25.1 - 00:25:35.3] Speaker 1: Das ist keine Wertung. Beides ist okay. Aber wenn du Struktur brauchst und dich in der grenzenlosen Freiheit von Selbstständigkeit stürzt, wirst du unglücklich. Wenn du Freiheit brauchst und in eine Behörde
+[00:25:35.4 - 00:25:36.5] Speaker 1: gehst, bist du unglücklich.
+[00:25:37.1 - 00:25:39.5] Speaker 1: Selbsterkenntnis ist dererste Schritt zur Berufsfindung.
+[00:25:40.7 - 00:25:50.2] Speaker 1: Ein weiterer Aspekt sind die Kollegen. Man unterschätzt das oft. Du kannst den inhaltlich spannendsten Job der Welt haben, sagen wir mal, du bist Raketenwissenschaftler bei der NASA oder sowas.
+[00:25:51.0 - 00:25:51.3] Speaker 1: Aber wenn
+[00:25:51.9 - 00:25:59.4] Speaker 1: dein Bürokollege ein Ekel ist, der dir ständig deine Ideen klaut, laut schmatzt und Intrigen spinnt, dann wird dieser Traumjob zur Hölle.
+[00:26:00.1 - 00:26:09.6] Speaker 1: Andersherum: Du kannst einen Job haben, der objektiv betrachtet total langweilig ist, sagen wir mal, Datenarchitekt im Keller. Aber wenn du da unten mit drei Kollegen sitzt, die deine besten Freunde werden, mit
+[00:26:09.7 - 00:26:16.5] Speaker 1: denen du den ganzen Tag lachst, die dich unterstützen, dann gehst du jeden Morgen gerne zur Arbeit. Die soziale Komponente ist oft viel wichtiger
+[00:26:17.3 - 00:26:26.2] Speaker 1: als die inhaltliche. Wir sind soziale Wesen. Wir wollen uns zugehörig fühlen. Ein gutes Team kann fast jeden Job erträglich machen. Ein schlechtes Team kann jeden Traumjob zerstören.
+[00:26:27.0 - 00:26:33.7] Speaker 1: Deshalb sollte man beim Vorstellungsgespräch nicht nur auf das Gehalt und die Aufgaben schauen, sondern versuchen, ein Gefühl für die Vibes zu bekommen.
+[00:26:35.3 - 00:26:41.0] Speaker 1: Wie gehen die Leute miteinander um? Lachen sie oder wirken sie gestresst? Ist da eine Atmosphäre der Angst oder des Vertrauens?
+[00:26:42.4 - 00:26:43.7] Speaker 1: Kommt noch ein Gedanke dazu:
+[00:26:44.7 - 00:26:51.7] Speaker 1: Der Traumjob verändert sich mit dem Alter. Mit 20 suchst du vielleicht das Abenteuer. Die steile Lernkurve, die Partys nach der Arbeit, das Reisen.
+[00:26:52.4 - 00:26:59.5] Speaker 1: Du bist bereit, 60 Stunden zu arbeiten, weil du lernen willst und Energie hast. Mit 35 vielleicht, mit kleinen Kindern zu Hause,
+[00:27:01.0 - 00:27:11.6] Speaker 1: verschieben wir die Prioritäten komplett. Plötzlich ist der Traumjob der, der flexible Arbeitszeiten bietet, der in der Nähe der Kita ist, der Sicherheit bietet. Abenteuer? Nein, danke, ich will schlafen. Mit
+[00:27:11.8 - 00:27:19.8] Speaker 1: 50 suchst du vielleicht wieder was anderes. Die Kinder sind groß, du willst nochmal durchstarten. Oder du willst dein Wissen weitergeben, Mentor sein. Dein Traumjob ist kein
+[00:27:20.8 - 00:27:21.6] Speaker 1: statischer Zustand.
+[00:27:22.6 - 00:27:24.2] Speaker 1: Es ist ein bewegliches Ziel eher.
+[00:27:25.3 - 00:27:26.8] Speaker 1: Was heute passt, kann in fünf Jahren
+[00:27:27.7 - 00:27:37.8] Speaker 1: wie ein zu enger Schuh drücken. Das ist okay. Wir müssen uns erlauben, uns zu verändern. Wir müssen aufhören zu glauben, dass eine Entscheidung für immer ist. Umschulungen, Quereinstiege,
+[00:27:38.4 - 00:27:40.8] Speaker 1: das wird in Zukunft die Norm sein, nicht die Ausnahme.
+[00:27:41.7 - 00:27:51.1] Speaker 1: Wir müssen auch über das Scheitern sprechen. Das Scheitern auf der Suche nach dem Traumjob. Es gibt so viele Menschen, die fühlen sich gescheitert, weil sie mit 40 noch nicht angekommen sind. Sie springen von J
+[00:27:51.1 - 00:27:52.9] Speaker 1: ob zu Job, probieren alles aus,
+[00:27:54.1 - 00:27:55.6] Speaker 1: aber nichts kickt so richtig.
+[00:27:56.3 - 00:28:06.7] Speaker 1: Sie fühlen sich unzulänglich. Aber vielleicht sind die Menschen gar nicht gescheitert. Vielleicht sind sie die Scannerpersönlichkeiten. Vielbegabte Menschen, die auch schnell für etwas begeistern, sich tief re
+[00:28:06.9 - 00:28:07.8] Speaker 1: inarbeiten und vielleicht,
+[00:28:08.7 - 00:28:16.3] Speaker 1: sobald sie es verstanden haben, es langweilig wird und sie brauchen dann auch etwas Neues. Für die Gesellschaft wirken sie wankelmütig. Ich weiß nicht, was er will.
+[00:28:16.9 - 00:28:26.2] Speaker 1: Aber eigentlich sind sie unglaublich wertvolle Menschen. Sie haben ein breites Wissen, sie können Zusammenhänge herstellen, die Spezialisten nicht sehen. Wenn du so jemand bist, hör auf, dich dafür zu verurteil
+[00:28:26.3 - 00:28:27.2] Speaker 1: en, dass du keinen
+[00:28:28.1 - 00:28:32.9] Speaker 1: einen Weg hast. Dein Weg ist ein Zickzack. Dein Traumjob ist vielleicht gar kein fester Job,
+[00:28:35.9 - 00:28:47.5] Speaker 1: sondern eine Reihe von Projekten. Oder eine Karriere als Interimmanager, als Freelancer, der Probleme löst und weiterzieht. Die Welt braucht Spezialisten, die Tiefbohrer. Aber sie braucht auch Generalisten. Das
+[00:28:47.5 - 00:28:48.7] Speaker 1: sind die, die den Überblick haben.
+[00:28:50.0 - 00:28:53.6] Speaker 1: Und was ist mit der Zukunft? KI, künstliche Intelligenz,
+[00:28:54.5 - 00:29:04.4] Speaker 1: Automatisierung. Wir stehen an einer Schwelle. Viele Jobs, die wir heute als sicher und kreativ ansehen, können in zehn Jahren weg sein oder sich radikal verändern. Das sind Texter, Übersetzer, Programmierer, Graf
+[00:29:04.6 - 00:29:07.6] Speaker 1: iker, Analysten, die KI kommt. Aber das macht Angst.
+[00:29:09.4 - 00:29:09.6] Speaker 1: Nimm mir
+[00:29:10.9 - 00:29:21.6] Speaker 1: mein Roboter meinen Traumjob weg, oder vielleicht bietet sich auch eine Chance, wenn die KI die langweiligen, repetitiven Aufgaben übernimmt, das Schreiben von Standardmails zum Beispiel. Dann bleibt uns M
+[00:29:21.7 - 00:29:30.9] Speaker 1: enschen mehr Zeit für das, was die KI eben noch nicht kann: Empathie und strategisches Denken, echte menschliche Verbindungen, ethische Entscheidungen. Vielleicht werden die Traumjobs der Zukun
+[00:29:33.2 - 00:29:35.9] Speaker 1: ft die sein, die am meisten Menschlichkeit erfordern:
+[00:29:36.5 - 00:29:38.1] Speaker 1: Pflege, Erziehung, Psychologie,
+[00:29:38.7 - 00:29:39.1] Speaker 1: Kunst,
+[00:29:39.7 - 00:29:44.8] Speaker 1: Handwerk. Ein Roboter kann dir noch lange nicht so gut die Haare schneiden und dabei nettes Gespräch führen wie ein Friseur.
+[00:29:45.4 - 00:29:53.4] Speaker 1: Vielleicht zwingt die KI dazu, neu zu definieren, was Arbeit überhaupt ist. Wenn Menschen die Produktivität sichern, müssen die Menschen uns vielleicht nicht mal mehr
+[00:29:54.5 - 00:29:59.0] Speaker 1: über Produktivität definieren. Das führt uns wiederum zum bedingungslosen Grundeinkommen.
+[00:29:59.7 - 00:30:02.6] Speaker 1: In einer Welt, in der alte Arbeit knapp wird, weil Menschen sie
+[00:30:03.4 - 00:30:04.4] Speaker 1: Maschinen sie besser machen,
+[00:30:05.2 - 00:30:07.1] Speaker 1: müssen wir Arbeit und Einkommen entkoppeln.
+[00:30:07.9 - 00:30:10.0] Speaker 1: Dann könnten wir endlich alles das tun,
+[00:30:11.7 - 00:30:14.4] Speaker 1: was wir wollen. Aber vielleicht sind wir dann auch glücklich.
+[00:30:15.1 - 00:30:19.6] Speaker 1: Wären wir denn glücklich? Oder würden wir in Depression verfallen, weil uns die Struktur fehlt? Wie gesagt,
+[00:30:21.0 - 00:30:30.6] Speaker 1: der Mensch braucht eine Aufgabe. Aber diese Aufgabe muss kein Job sein im ökonomischen Sinne. Es kann auch die Pflege eines Waldes sein, die Erziehung von Kindern, das Philosophieren. Vielleicht können wir die
+[00:30:30.8 - 00:30:31.8] Speaker 1: Renaissance eintreten
+[00:30:32.6 - 00:30:34.1] Speaker 1: oder in eine Dystopie
+[00:30:35.0 - 00:30:36.4] Speaker 1: wie in Wall-E, aber
+[00:30:37.0 - 00:30:40.9] Speaker 1: wo alle dann noch fest im Sattel sitzen und sich rieseln lassen. Es liegt an uns.
+[00:30:42.0 - 00:30:44.8] Speaker 1: Lasst uns kurz über Geld reden. "Geld macht nicht glücklich."
+[00:30:46.1 - 00:30:56.7] Speaker 1: Das ist ein Satz, den meistens Leute sagen, die genug Geld haben. Studien zeigen: Geld macht eben doch glücklich. Aber nur bis zu einer gewissen Grenze. Wenn deine Grundbedürfnisse gedeckt sind, du keine Angst
+[00:30:56.8 - 00:30:57.8] Speaker 1: vor der nächsten Miete hast
+[00:30:58.3 - 00:31:05.7] Speaker 1: und dir ab und zu was gönnen kannst, Urlaub, Essen gehen, dann flacht die Glückskurve ab. Ob du nun 80.000 oder 300.000 verdienst, macht
+[00:31:06.3 - 00:31:13.4] Speaker 1: für dein tägliches emotionales Wohlbefinden kaum einen Unterschied. Man gewöhnt sich an den Luxus, die sogenannte hedonische Tretmühle.
+[00:31:14.2 - 00:31:21.8] Speaker 1: Du kaufst das teure Auto, du freust dich zwei Wochen drüber, und dann ist es noch dein Auto, mit dem du in den Stau stehst. Der Traumjob
+[00:31:23.0 - 00:31:25.4] Speaker 1: muss also genug Geld abwerfen, um dann wieder
+[00:31:27.1 - 00:31:37.3] Speaker 1: diese Sicherheit zu bieten. Alles darüber hinaus ist schmerzend Geld. Viele Freunde, viele Leute nehmen Jobs an, die sie hassen, nur damit sie viel Geld bringen. Investmentbanken zum Beispiel.
+[00:31:38.0 - 00:31:45.7] Speaker 1: Sie denken: "Ich mache das fünf Jahre, werde reich, und dann lebe ich." Das Problem ist: Du gewöhnst dich an den Lebensstandard, du kaufst das teure Haus, die teuren Klamotten.
+[00:31:46.5 - 00:31:56.3] Speaker 1: Deine Ausgaben steigen mit deinem Einkommen. Und plötzlich kannst du nicht mehr aufhören, weil du diesen goldenen Käfig finanzieren musst. Du bist Sklave deines eigenen Reichtums. Der wahre Reichtum ist, de
+[00:31:56.4 - 00:32:02.2] Speaker 1: ine Ausgaben niedrig zu halten, damit man die Freiheit hat, einen Job zu machen, der weniger zahlt, aber mehr Spaß macht.
+[00:32:05.2 - 00:32:13.4] Speaker 1: Genug gespart zu haben, um jederzeit sagen zu können: "Ich gehe." Das ist die ultimative Freiheit im Job. Nicht die Position, sondern die Unabhängigkeit.
+[00:32:14.3 - 00:32:17.6] Speaker 1: Ich möchte langsam zum Ende kommen und vorher nochmal einen wichtigen Punkt ansprechen:
+[00:32:18.4 - 00:32:19.2] Speaker 1: Das Hochstaplers
+[00:32:20.0 - 00:32:20.4] Speaker 1: yndrom.
+[00:32:22.6 - 00:32:32.1] Speaker 1: Viele Menschen haben ihren Traumjob eigentlich schon. Sie sind in einer guten Position, sie werden respektiert, aber innerlich denken sie: "Ich kann das eigentlich gar nicht, ich tue nur so, bald fliege ich auf."
+[00:32:33.8 - 00:32:38.9] Speaker 1: Alle anderen sind klüger als ich. Besonders Frauen sind häufig davon betroffen, und auch viele Männer. Dieses
+[00:32:39.7 - 00:32:46.4] Speaker 1: Gefühl kann einem jeden Spaß am Job rauben. Man lebt in ständiger Angst vor der Entlarvung. Dabei ist die Wahrheit: Alle kochen nur mit Wasser.
+[00:32:47.0 - 00:32:48.5] Speaker 1: Niemand weiß wirklich, was er tut.
+[00:32:49.7 - 00:33:00.5] Speaker 1: Wir improvisieren alle. Der CEO ganz oben hat genauso solche Zweifel wie der Praktikant, nur eben über andere Dinge. Zu erkennen, dass man gut genug ist, dass man lernen kann, was man nicht weiß, und dass Feh
+[00:33:00.6 - 00:33:09.3] Speaker 1: ler dazugehören, das ist der Schlüssel, um seinen Job genießen zu können. Ein Traumjob erfordert auch ein gesundes Selbstbewusstsein. Man muss sich einfach erlauben, den Platz einzunehmen, den man hat.
+[00:33:10.7 - 00:33:20.8] Speaker 1: Also, was ist das Fazit unserer langen Reise heute? Gibt es einen Traumjob? Ja und nein. Nein, es gibt nicht diesen einen perfekten, magischen Job, der immer Spaß macht, der dich reich macht und der die Welt r
+[00:33:20.9 - 00:33:31.4] Speaker 1: ettet und bei dem die Sonne immer scheint. Jeder Job hat nervige Seiten. Auch der Rockstar muss Soundcheck machen und im Bus schlafen. Auch der Fußballprofi muss trainieren, wenn es regnet und er Muskelkater hat.
+[00:33:31.7 - 00:33:41.3] Speaker 1: Und ja, es gibt Jobs, die dich erfüllen können. Ein Traumjob ist ein Job, der zu deinen Werten passt. Ein Job, bei dem du morgens nicht Bauchschmerzen hast, und ein Job, bei dem du deine Fähigkeiten eins
+[00:33:41.3 - 00:33:49.7] Speaker 1: etzen kannst und das Gefühl hast, zu wachsen. Ein Job, der die Menschen an die Seite stellt, die du magst, und vor allem ein Job, der dir erlaubt, das Leben zu leben,
+[00:33:50.7 - 00:33:52.3] Speaker 1: das du außerhalb der Arbeit leben möchtest.
+[00:33:52.9 - 00:34:02.0] Speaker 1: Vielleicht ist dein Traumjob, 30 Stunden die Woche in der Bibliothek zu arbeiten, umgeben von Ruhe und Büchern, und den Rest der Zeit Romane zu schreiben. Vielleicht ist es auch dein Traumjob, als Vertrieb
+[00:34:02.1 - 00:34:03.2] Speaker 1: ler durchs Land zu reisen,
+[00:34:03.7 - 00:34:10.0] Speaker 1: Deals abzuschließen und das Adrenalin zu spüren. Vielleicht ist es dein Traumjob, Hausmann und Hausfrau zu sein und deine Kinder aufwachsen zu sehen.
+[00:34:10.6 - 00:34:20.3] Speaker 1: Hör einfach auf, auf Instagram und LinkedIn diktieren zu lassen, wie Erfolg auszusehen hat. Erfolg ist, wenn du abends ins Bett gehst und Frieden im Herzen hast. Wenn du denkst: "Das war ein guter Tag." Und
+[00:34:20.3 - 00:34:26.9] Speaker 1: wenn dein aktueller Job das nicht bietet, dannändere eben was. Aber erwarte nicht, dass der neue Job dich rettet. Die Rettung kommt von innen.
+[00:34:27.9 - 00:34:28.6] Speaker 1: Finde heraus,
+[00:34:29.2 - 00:34:31.2] Speaker 1: was du wirklich brauchst, und nicht, was
+[00:34:31.9 - 00:34:34.0] Speaker 1: das ist nämlich nicht, was du tust, sondern was du brauchst.
+[00:34:34.7 - 00:34:42.5] Speaker 1: Ist es Ruhe, ist es Anerkennung, ist es Kreativität? Und dann such gezielt danach. Manchmal muss man den Job gar nicht wechseln. Manchmal reicht es, die Einstellung zuändern
+[00:34:43.3 - 00:34:46.7] Speaker 1: oder die Stunden zu reduzieren oder das Projekt zu wechseln. Manchmal
+[00:34:48.4 - 00:34:49.6] Speaker 1: nennt man das Job
+[00:34:51.5 - 00:34:57.7] Speaker 1: crafting, seinen Job so umzuformen, dass es besser zu einem passt. Sei gnädig zu dir selbst, und das Leben ist kein Karrier
+[00:34:59.0 - 00:35:02.3] Speaker 1: eleiterwettrennen. Es ist eher eine Wanderung. Manchmal geht es berg
+[00:35:03.3 - 00:35:12.7] Speaker 1: auf, man schwitzt und flucht, manchmal geht es durch ein dunkles Tal. Aber manchmal steht auch man auch am Gipfel, schaut zurück und denkt: "Wow, was für eine Aussicht." Und manchmal sitzt man einfach nur auf
+[00:35:12.7 - 00:35:20.0] Speaker 1: einer Bank am Wegesrand, isst ein Butterbrot und genießt die Sonne. Und vielleicht ist genau dieser Moment auf der Bank wertvoller als der Gipfel.
+[00:35:22.0 - 00:35:31.2] Speaker 1: Sucht nicht den Traumjob, sondern sucht das Traumleben. Und schaut, welcher Job da hineinpasst. Es ist wie ein Puzzleteil. Nicht andersherum. Presst nicht euer Leben in die Form eines Jobs.
